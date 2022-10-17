@@ -1,0 +1,179 @@
+---
+title: "Lecture 22"
+output: pdf_document
+---
+
+# Loading Packages
+```{r Load Packages, results="hide"}
+library(ape)
+library(phangorn)
+library(ips)
+```
+
+# Reading in Data
+```{r Reading in FASTA}
+bears=read.dna('bear_cytb.fasta',format="fasta")
+```
+
+# Neighbor Joining Tree
+
+```{r Distance matrix}
+bears.dist=dist.dna(bears)
+bears.dist
+```
+
+```{r  Neightbor-joining tree, results='hide',fig.show="hide"}
+bears.nj=NJ(bears.dist)
+plot(bears.nj)
+```
+
+
+
+# Maximum Parsimony Tree
+
+```{r Convert to phyDat}
+bears.pd=as.phyDat(bears)
+```
+
+## Parsimony Tree Estimation
+
+```{r Parsimony Tree,results="hide"}
+treeMP=pratchet(bears.pd)
+```
+
+```{r}
+plot(treeMP)
+```
+
+## Tree Branch support through bootstrapping
+
+```{r Bootstrapping Tree, results='hide'}
+BStrees=bootstrap.phyDat(bears.pd, pratchet, bs = 100)
+```
+
+```{r}
+BStrees
+```
+
+
+```{r Plotting boot,fig.show=F,results=F,eval=F}
+treeMP=plotBS(treeMP, BStrees, "phylogram")
+```
+
+
+```{r Re-rooting Tree}
+treeMP.root=root(treeMP,"Ringed_Seal")
+```
+
+Now, lets re-plot your tree.
+```{r Reploting tree with new root, fig.show=F,eval=F}
+plotBS(treeMP.root, BStrees, "phylogram")
+```
+
+# Maximum Likelihood
+
+## Selecting a Model of Nucleotide Substitution
+```{r modelTest, results="hide"}
+bears.mT=modelTest(bears.pd,bears.nj)
+```
+
+Lets take a look at the resulting table
+```{r Model Table, results='hide'}
+bears.mT
+```
+
+ Lets find the model with the lowest AICc value and use that. 
+
+```{r Sorting Models, results='hide'}
+bears.mT=bears.mT[order(bears.mT$AICc),]
+bears.mT$Model[1]
+```
+
+
+
+## Substitution rate matrix
+```{r Rate Matrix, results='hide'}
+env=attr(bears.mT, "env")
+model=get("HKY+G+I", env) # a call
+eval(model, env=env)
+```
+
+
+
+```{r, results='hide',tidy=T}
+fit=pml(bears.nj,bears.pd,model="HKY",optInv=T,optGamma=T)
+```
+
+```{r, results='hide', tidy=T}
+fit=optim.pml(fit,model="HKY",optInv=T,optGamma=T,optNni=T)
+```
+
+```{r,eval=F,tidy=T}
+plot(fit)
+```
+
+
+## Bootstraping
+
+```{r,results='hide'}
+bs=bootstrap.pml(fit, bs=100, optNni=TRUE)
+```
+
+```{r, eval=F}
+treeML=plotBS(fit$tree,bs,type="phylogram")
+```
+
+## Rerooting tree
+```{r,eval=F}
+treeML.root=root(treeML,"Ringed_Seal")
+plotBS(treeML.root,type="phylogram")
+```
+
+
+```{r,eval=F,tidy=T}
+comparePhylo(treeML.root,treeMP.root,plot=T,force.rooted = T)
+```
+
+
+# Bayesian Tree with MrBayes
+
+```{r,results='hide'}
+mrbayes(bears, file="bears.nex",lset=mrbayes.lset(nst=2, rates="invgamma"),
+        mcmc=mrbayes.mcmc(ngen=30000,printfreq = 1000,samplefreq = 100,
+        nruns=2,nchains=2))
+```
+
+
+begin mrbayes;
+	lset nst=6 rates=invgamma;
+	mcmc ngen=300000 printfreq=10000 samplefreq=1000 nruns=2 nchains=2;
+  sump filename=bears.nex burnin=0.25;
+	sumt filename=bears.nex burnin=0.25 contype=allcompat conformat=simple;
+end;
+
+
+
+```{bash,eval=F}
+mb bears.nex
+```
+
+
+
+```{r,eval=F}
+mrbayes.tree=read.nexus("bears.nex.con.tre",tree.names=NULL)
+```
+.
+
+```{r,eval=F}
+plot(mrbayes.tree, show.node.label=T,cex=0.7)
+```
+
+
+
+```{r,eval=F,tidy=T}
+comparePhylo(treeML.root,mrbayes.tree,plot=T,force.rooted = T)
+```
+
+
+
+

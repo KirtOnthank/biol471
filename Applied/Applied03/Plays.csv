@@ -1,0 +1,2172 @@
+Opponent,Home,Type,Opp_Score,WSU_Score,Diff_Score,Poss,Drive_Number,Spot,Down,Distance,Yards,Carrier,Passer,Completion,TD,FirstDown,INT
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rutgers,1,Kickoff,0,0,0,Rutgers,1,,,,20,,,,0,0,
+Rutgers,1,Pass,7,0,-7,Rutgers,1,22,1,10,78,"Leonte Carroo","Gary Nova",1,1,0,0
+Rutgers,1,Kickoff,7,0,-7,"Washington State",2,,,,19,,,,0,0,
+Rutgers,1,Pass,7,0,-7,"Washington State",2,79,1,10,2,"River Cracraft","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,77,2,8,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,77,3,8,12,"River Cracraft","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,65,1,10,2,"Calvin Green","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,63,2,8,4,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,59,3,4,5,"Vince Mayle","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,54,1,10,0,,"Connor Halliday",0,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",2,54,2,10,0,,"Connor Halliday",0,0,0,1
+Rutgers,1,Run,7,0,-7,Rutgers,3,38,1,10,3,"Paul James",,,0,0,
+Rutgers,1,Run,7,0,-7,Rutgers,3,41,2,7,6,"Paul James",,,0,0,
+Rutgers,1,Run,7,0,-7,Rutgers,3,47,3,1,3,"Paul James",,,0,1,
+Rutgers,1,Run,7,0,-7,Rutgers,3,55,1,5,1,"Paul James",,,0,0,
+Rutgers,1,Run,7,0,-7,Rutgers,3,56,2,4,8,"Paul James",,,0,1,
+Rutgers,1,Pass,7,0,-7,Rutgers,3,64,1,10,0,"Tyler Kroft","Gary Nova",0,0,0,0
+Rutgers,1,Pass,7,0,-7,Rutgers,3,64,2,10,0,"Janarion Grant","Gary Nova",0,0,0,0
+Rutgers,1,Pass,7,0,-7,Rutgers,3,64,3,10,0,,"Gary Nova",0,0,0,0
+Rutgers,1,Punt,7,0,-7,Rutgers,3,64,4,10,24,,,,0,0,
+Rutgers,1,Run,7,0,-7,"Washington State",4,88,1,10,2,"Jamal Morrow",,,0,0,
+Rutgers,1,Pass,7,0,-7,"Washington State",4,86,2,8,5,"Isiah Myers","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",4,81,3,3,52,"Rickey Galvin","Connor Halliday",1,0,1,0
+Rutgers,1,Run,7,0,-7,"Washington State",4,14,1,10,-2,"Jamal Morrow",,,0,0,
+Rutgers,1,Pass,7,0,-7,"Washington State",4,16,2,12,10,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",4,6,3,2,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,7,0,-7,"Washington State",4,6,4,2,1,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,7,0,-7,Rutgers,5,6,1,10,9,,"Gary Nova",0,0,0,1
+Rutgers,1,Pass,7,0,-7,"Washington State",6,2,1,2,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Rutgers,1,Sacked,7,0,-7,"Washington State",6,2,2,2,-5,,,,0,0,
+Rutgers,1,Pass,7,0,-7,"Washington State",6,7,3,7,4,"River Cracraft","Connor Halliday",1,0,0,0
+Rutgers,1,"Field Goal",7,3,-4,"Washington State",6,3,4,3,0,,,,0,0,
+Rutgers,1,Kickoff,7,3,-4,Rutgers,7,,,,65,,,,0,0,
+Rutgers,1,Run,7,3,-4,Rutgers,7,25,1,10,9,"John Tsimis",,,0,0,
+Rutgers,1,Run,7,3,-4,Rutgers,7,34,2,1,10,"Desmon Peoples",,,0,1,
+Rutgers,1,Run,7,3,-4,Rutgers,7,44,1,10,-2,"Desmon Peoples",,,0,0,
+Rutgers,1,Pass,7,3,-4,Rutgers,7,42,2,12,11,"Janarion Grant","Gary Nova",1,0,0,0
+Rutgers,1,Run,7,3,-4,Rutgers,7,53,3,1,0,"Paul James",,,0,0,
+Rutgers,1,Pass,7,3,-4,Rutgers,7,53,4,1,6,"Matt Flanagan","Gary Nova",1,0,1,0
+Rutgers,1,Run,7,3,-4,Rutgers,7,59,1,10,7,"Desmon Peoples",,,0,0,
+Rutgers,1,Run,7,3,-4,Rutgers,7,66,2,3,6,"Desmon Peoples",,,0,1,
+Rutgers,1,Run,7,3,-4,Rutgers,7,72,1,10,9,"Paul James",,,0,0,
+Rutgers,1,Run,7,3,-4,Rutgers,7,81,2,1,4,"Paul James",,,0,1,
+Rutgers,1,Run,7,3,-4,Rutgers,7,85,1,10,14,"Paul James",,,0,1,
+Rutgers,1,Run,14,3,-11,Rutgers,7,99,1,1,1,"Paul James",,,1,0,
+Rutgers,1,Kickoff,14,3,-11,"Washington State",8,,,,26,,,,0,0,
+Rutgers,1,Run,14,3,-11,"Washington State",8,74,1,10,13,"Jamal Morrow",,,0,1,
+Rutgers,1,Pass,14,3,-11,"Washington State",8,61,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,14,3,-11,"Washington State",8,61,2,10,3,"Jamal Morrow","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,14,3,-11,"Washington State",8,58,3,7,0,"Kristoff Williams","Connor Halliday",0,0,0,0
+Rutgers,1,Punt,14,3,-11,"Washington State",8,58,4,7,28,,,,0,0,
+Rutgers,1,Run,14,3,-11,Rutgers,9,30,1,10,2,"Desmon Peoples",,,0,0,
+Rutgers,1,Run,14,3,-11,Rutgers,9,32,2,8,7,"Janarion Grant",,,0,0,
+Rutgers,1,Run,14,3,-11,Rutgers,9,39,3,1,0,"Paul James",,,0,0,
+Rutgers,1,Punt,14,3,-11,Rutgers,9,34,4,6,1,,,,0,0,
+Rutgers,1,Run,14,3,-11,"Washington State",10,80,1,10,7,"Gerard Wicks",,,0,0,
+Rutgers,1,Pass,14,3,-11,"Washington State",10,73,2,3,64,"Dom Williams","Connor Halliday",1,0,1,0
+Rutgers,1,Run,14,3,-11,"Washington State",10,4,1,4,0,"Gerard Wicks",,,0,0,
+Rutgers,1,Pass,14,3,-11,"Washington State",10,4,2,4,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,14,10,-4,"Washington State",10,4,3,4,4,"Isiah Myers","Connor Halliday",1,1,0,0
+Rutgers,1,Kickoff,14,10,-4,Rutgers,11,,,,20,,,,0,0,
+Rutgers,1,Pass,14,10,-4,Rutgers,11,27,1,10,6,"Leonte Carroo","Gary Nova",1,0,0,0
+Rutgers,1,Run,14,10,-4,Rutgers,11,33,2,4,5,"Paul James",,,0,1,
+Rutgers,1,Pass,14,10,-4,Rutgers,11,38,1,10,6,"John Tsimis","Gary Nova",1,0,0,0
+Rutgers,1,Run,21,10,-11,Rutgers,11,44,2,4,56,"Paul James",,,1,0,
+Rutgers,1,Kickoff,21,10,-11,"Washington State",12,,,,26,,,,0,0,
+Rutgers,1,Run,21,10,-11,"Washington State",12,72,1,10,4,"Connor Halliday",,,0,0,
+Rutgers,1,Pass,21,10,-11,"Washington State",12,68,2,6,12,"Vince Mayle","Connor Halliday",1,0,1,0
+Rutgers,1,Run,21,10,-11,"Washington State",12,56,1,10,-2,"Theron West",,,0,0,
+Rutgers,1,Pass,21,10,-11,"Washington State",12,58,2,12,13,"Isiah Myers","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,21,10,-11,"Washington State",12,55,1,20,11,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,21,10,-11,"Washington State",12,44,2,9,18,"Rickey Galvin","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,21,10,-11,"Washington State",12,26,1,10,0,,"Connor Halliday",0,0,0,0
+Rutgers,1,Pass,21,17,-4,"Washington State",12,26,2,10,26,"Vince Mayle","Connor Halliday",1,1,0,0
+Rutgers,1,Kickoff,21,17,-4,Rutgers,13,,,,30,,,,0,0,
+Rutgers,1,Pass,21,17,-4,Rutgers,13,47,1,10,0,"Leonte Carroo","Gary Nova",0,0,0,0
+Rutgers,1,Run,21,17,-4,Rutgers,13,47,2,10,4,"Desmon Peoples",,,0,0,
+Rutgers,1,Sacked,21,17,-4,Rutgers,13,51,3,6,-7,,,,0,0,
+Rutgers,1,Punt,21,17,-4,Rutgers,13,44,4,13,3,,,,0,0,
+Rutgers,1,Pass,21,17,-4,"Washington State",14,90,1,10,29,"Kristoff Williams","Connor Halliday",1,0,1,0
+Rutgers,1,Run,21,17,-4,"Washington State",14,61,1,10,1,"Connor Halliday",,,0,0,
+Rutgers,1,Pass,21,17,-4,"Washington State",14,60,2,9,12,"Jamal Morrow","Connor Halliday",1,0,1,0
+Rutgers,1,"Field Goal",21,17,-4,"Washington State",14,33,1,10,0,,,,0,0,
+Rutgers,1,Kickoff,21,17,-4,"Washington State",15,,,,65,,,,0,0,
+Rutgers,1,Pass,21,17,-4,"Washington State",15,75,1,10,5,"Gerard Wicks","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,21,17,-4,"Washington State",15,70,2,5,20,"River Cracraft","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,21,17,-4,"Washington State",15,55,1,15,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,21,17,-4,"Washington State",15,55,2,15,13,"Gerard Wicks","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,21,17,-4,"Washington State",15,42,3,2,11,"River Cracraft","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,21,17,-4,"Washington State",15,31,1,10,24,"Vince Mayle","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,21,24,3,"Washington State",15,7,1,7,7,"River Cracraft","Connor Halliday",1,1,0,0
+Rutgers,1,Kickoff,21,24,3,Rutgers,16,,,,20,,,,0,0,
+Rutgers,1,Run,21,24,3,Rutgers,16,27,1,10,2,"Paul James",,,0,0,
+Rutgers,1,Pass,21,24,3,Rutgers,16,29,2,8,0,"Paul James","Gary Nova",0,0,0,0
+Rutgers,1,Pass,21,24,3,Rutgers,16,29,3,8,30,"Janarion Grant","Gary Nova",1,0,1,0
+Rutgers,1,Pass,21,24,3,Rutgers,16,59,1,10,6,"Leonte Carroo","Gary Nova",1,0,0,0
+Rutgers,1,Run,21,24,3,Rutgers,16,65,2,4,2,"Paul James",,,0,0,
+Rutgers,1,Run,21,24,3,Rutgers,16,67,3,2,6,"Paul James",,,0,1,
+Rutgers,1,Run,21,24,3,Rutgers,16,73,1,10,5,"Paul James",,,0,0,
+Rutgers,1,Run,21,24,3,Rutgers,16,78,2,5,3,"Paul James",,,0,0,
+Rutgers,1,Pass,21,24,3,Rutgers,16,81,3,2,0,"Leonte Carroo","Gary Nova",0,0,0,0
+Rutgers,1,"Field Goal",24,24,0,Rutgers,16,81,4,2,0,,,,0,0,
+Rutgers,1,Kickoff,24,24,0,"Washington State",17,,,,22,,,,0,0,
+Rutgers,1,Pass,24,24,0,"Washington State",17,63,1,10,7,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,56,2,3,5,"Vince Mayle","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,51,1,10,4,"Calvin Green","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,47,2,6,23,"River Cracraft","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,24,1,10,4,"River Cracraft","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,20,2,6,13,"Vince Mayle","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,24,24,0,"Washington State",17,7,1,7,0,"Dom Williams","Connor Halliday",0,0,0,0
+Rutgers,1,Sacked,24,24,0,"Washington State",17,7,2,7,-7,,,,0,0,
+Rutgers,1,Pass,24,31,7,"Washington State",17,14,3,14,14,"Isiah Myers","Connor Halliday",1,1,0,0
+Rutgers,1,Kickoff,24,31,7,Rutgers,18,,,,25,,,,0,0,
+Rutgers,1,Pass,24,31,7,Rutgers,18,25,1,10,0,"Janarion Grant","Gary Nova",0,0,0,0
+Rutgers,1,Run,24,31,7,Rutgers,18,25,2,10,7,"Paul James",,,0,0,
+Rutgers,1,Pass,24,31,7,Rutgers,18,32,3,3,4,"Janarion Grant","Gary Nova",1,0,1,0
+Rutgers,1,Pass,24,31,7,Rutgers,18,36,1,10,34,"Michael Burton","Gary Nova",1,0,1,0
+Rutgers,1,Run,24,31,7,Rutgers,18,70,1,10,0,"Paul James",,,0,0,
+Rutgers,1,Pass,24,31,7,Rutgers,18,70,2,10,20,"Leonte Carroo","Gary Nova",1,0,1,0
+Rutgers,1,Run,24,31,7,Rutgers,18,90,1,10,5,"Paul James",,,0,0,
+Rutgers,1,Run,24,31,7,Rutgers,18,95,2,5,-2,"Paul James",,,0,0,
+Rutgers,1,Pass,24,31,7,Rutgers,18,93,3,7,0,"Janarion Grant","Gary Nova",0,0,0,0
+Rutgers,1,"Field Goal",27,31,4,Rutgers,18,93,4,7,0,,,,0,0,
+Rutgers,1,Kickoff,27,31,4,"Washington State",19,,,,20,,,,0,0,
+Rutgers,1,Run,27,31,4,"Washington State",19,80,1,10,-4,"Jamal Morrow",,,0,0,
+Rutgers,1,Pass,27,31,4,"Washington State",19,84,2,14,11,"Rickey Galvin","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,27,31,4,"Washington State",19,73,3,3,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Rutgers,1,Punt,27,31,4,"Washington State",19,73,4,3,7,,,,0,0,
+Rutgers,1,Pass,27,31,4,Rutgers,20,27,1,10,30,"Leonte Carroo","Gary Nova",1,0,1,0
+Rutgers,1,Run,27,31,4,Rutgers,20,57,1,10,6,"Desmon Peoples",,,0,0,
+Rutgers,1,Pass,27,31,4,Rutgers,20,63,2,4,2,"Michael Burton","Gary Nova",1,0,0,0
+Rutgers,1,Run,27,31,4,Rutgers,20,65,3,2,3,"Desmon Peoples",,,0,1,
+Rutgers,1,Pass,27,31,4,Rutgers,20,68,1,10,3,"Janarion Grant","Gary Nova",1,0,0,0
+Rutgers,1,Pass,34,31,-3,Rutgers,20,71,2,7,29,"John Tsimis","Gary Nova",1,1,0,0
+Rutgers,1,Kickoff,34,31,-3,"Washington State",21,,,,23,,,,0,0,
+Rutgers,1,Pass,34,31,-3,"Washington State",21,67,1,10,6,"Theron West","Connor Halliday",1,0,0,0
+Rutgers,1,Run,34,31,-3,"Washington State",21,61,1,10,4,"Jamal Morrow",,,0,0,
+Rutgers,1,Pass,34,31,-3,"Washington State",21,52,2,1,43,"Isiah Myers","Connor Halliday",1,0,1,0
+Rutgers,1,Pass,34,31,-3,"Washington State",21,9,1,9,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Rutgers,1,Run,34,31,-3,"Washington State",21,9,2,9,4,"Jamal Morrow",,,0,0,
+Rutgers,1,Pass,34,38,4,"Washington State",21,5,3,5,5,"Rickey Galvin","Connor Halliday",1,1,0,0
+Rutgers,1,Kickoff,34,38,4,Rutgers,22,,,,16,,,,0,0,
+Rutgers,1,Run,34,38,4,Rutgers,22,8,1,10,8,"Paul James",,,0,0,
+Rutgers,1,Pass,34,38,4,Rutgers,22,16,2,2,0,"Leonte Carroo","Gary Nova",0,0,0,0
+Rutgers,1,Pass,34,38,4,Rutgers,22,16,3,2,0,"Janarion Grant","Gary Nova",0,0,0,0
+Rutgers,1,Punt,34,38,4,Rutgers,22,16,4,2,35,,,,0,0,
+Rutgers,1,Run,34,38,4,Rutgers,23,50,1,10,5,"Paul James",,,0,0,
+Rutgers,1,Run,34,38,4,Rutgers,23,55,2,5,3,"Paul James",,,0,0,
+Rutgers,1,Run,34,38,4,Rutgers,23,58,3,2,5,"Paul James",,,0,1,
+Rutgers,1,Run,34,38,4,Rutgers,23,63,1,10,7,"Paul James",,,0,0,
+Rutgers,1,Pass,34,38,4,Rutgers,23,70,2,3,5,"John Tsimis","Gary Nova",1,0,1,0
+Rutgers,1,Pass,34,38,4,Rutgers,23,75,1,10,11,"Leonte Carroo","Gary Nova",1,0,1,0
+Rutgers,1,Run,34,38,4,Rutgers,23,93,1,7,4,"Paul James",,,0,0,
+Rutgers,1,Run,41,38,-3,Rutgers,23,97,2,3,3,"Paul James",,,1,0,
+Rutgers,1,Kickoff,41,38,-3,"Washington State",24,,,,19,,,,0,0,
+Rutgers,1,Pass,41,38,-3,"Washington State",24,76,1,10,0,"Dom Williams","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,41,38,-3,"Washington State",24,76,2,10,7,"Kristoff Williams","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,41,38,-3,"Washington State",24,74,3,8,15,"Isiah Myers","Connor Halliday",1,0,1,0
+Rutgers,1,Sacked,41,38,-3,"Washington State",24,59,1,10,-9,,,,0,0,
+Rutgers,1,Pass,41,38,-3,"Washington State",24,68,2,19,6,"Vince Mayle","Connor Halliday",1,0,0,0
+Rutgers,1,Pass,41,38,-3,"Washington State",24,62,3,13,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Rutgers,1,Pass,41,38,-3,"Washington State",24,62,4,13,0,"River Cracraft","Connor Halliday",0,0,0,0
+Rutgers,1,Run,41,38,-3,Rutgers,25,62,1,10,-1,TEAM,,,0,0,
+Rutgers,1,Run,41,38,-3,Rutgers,25,61,2,11,-1,TEAM,,,0,0,
+Rutgers,1,Run,41,38,-3,Rutgers,25,60,3,12,-1,TEAM,,,0,0,
+Nevada,0,Kickoff,0,0,0,Nevada,26,,,,17,,,,0,0,
+Nevada,0,Pass,0,0,0,Nevada,26,17,1,10,9,"Hasaan Henderson","Cody Fajardo",1,0,0,0
+Nevada,0,Run,0,0,0,Nevada,26,26,2,1,0,"Cody Fajardo",,,0,1,
+Nevada,0,Pass,0,0,0,Nevada,26,36,1,15,2,"Kendall Brock","Cody Fajardo",1,0,0,0
+Nevada,0,Pass,0,0,0,Nevada,26,38,2,13,0,"Hasaan Henderson","Cody Fajardo",0,0,0,0
+Nevada,0,Pass,0,0,0,Nevada,26,38,3,13,0,,"Cody Fajardo",0,0,0,0
+Nevada,0,Punt,0,0,0,Nevada,26,38,4,13,14,,,,0,0,
+Nevada,0,Pass,0,0,0,"Washington State",27,73,1,10,13,"Robert Lewis","Connor Halliday",1,0,1,0
+Nevada,0,Pass,0,0,0,"Washington State",27,60,1,10,0,"Robert Lewis","Connor Halliday",0,0,0,0
+Nevada,0,Run,0,0,0,"Washington State",27,60,2,10,4,"Connor Halliday",,,0,1,
+Nevada,0,Run,0,0,0,"Washington State",27,41,1,10,0,"Jamal Morrow",,,0,0,
+Nevada,0,Pass,0,0,0,"Washington State",27,41,2,10,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Nevada,0,Pass,0,0,0,"Washington State",27,41,3,10,12,"Robert Lewis","Connor Halliday",1,0,1,0
+Nevada,0,Sacked,0,0,0,"Washington State",27,29,1,10,-15,,,,0,0,
+Nevada,0,Pass,0,0,0,"Washington State",27,44,2,25,9,"Isiah Myers","Connor Halliday",1,0,0,0
+Nevada,0,Sacked,0,0,0,"Washington State",27,35,3,16,-5,,,,0,0,
+Nevada,0,Punt,0,0,0,"Washington State",27,40,4,21,26,,,,0,0,
+Nevada,0,Run,0,0,0,Nevada,28,14,1,10,0,"Don Jackson",,,0,0,
+Nevada,0,Run,0,0,0,Nevada,28,14,2,10,2,"Don Jackson",,,0,0,
+Nevada,0,Pass,0,0,0,Nevada,28,16,3,8,0,"Hasaan Henderson","Cody Fajardo",0,0,0,0
+Nevada,0,Punt,0,0,0,Nevada,28,16,4,8,42,,,,0,0,
+Nevada,0,Pass,0,0,0,"Washington State",29,58,1,10,3,"Calvin Green","Connor Halliday",1,0,1,0
+Nevada,0,Pass,0,0,0,"Washington State",29,40,1,10,-3,"Jamal Morrow","Connor Halliday",1,0,0,0
+Nevada,0,Run,0,0,0,"Washington State",29,43,2,13,9,"Jamal Morrow",,,0,0,
+Nevada,0,Pass,0,0,0,"Washington State",29,34,3,4,0,"Dom Williams","Connor Halliday",0,0,0,0
+Nevada,0,Pass,0,0,0,"Washington State",29,34,4,4,0,"Robert Lewis","Connor Halliday",0,0,0,0
+Nevada,0,Run,0,0,0,Nevada,30,34,1,10,-4,"Cody Fajardo",,,0,0,
+Nevada,0,Run,0,0,0,Nevada,30,30,2,14,4,"Don Jackson",,,0,0,
+Nevada,0,Pass,0,0,0,Nevada,30,34,3,10,8,"Richy Turner","Cody Fajardo",1,0,0,0
+Nevada,0,Pass,0,0,0,"Washington State",31,53,1,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Nevada,0,Pass,0,0,0,"Washington State",31,53,2,10,3,"Vince Mayle","Connor Halliday",1,0,0,0
+Nevada,0,Pass,0,0,0,"Washington State",31,50,3,7,45,,"Connor Halliday",0,0,0,1
+Nevada,0,Run,0,0,0,Nevada,32,88,1,10,1,"Don Jackson",,,0,0,
+Nevada,0,Run,0,0,0,Nevada,32,89,2,9,8,"Don Jackson",,,0,0,
+Nevada,0,Run,0,0,0,Nevada,32,97,3,1,2,"Don Jackson",,,0,1,
+Nevada,0,Run,7,0,-7,Nevada,32,99,1,1,1,"Don Jackson",,,1,0,
+Nevada,0,Kickoff,7,0,-7,"Washington State",33,,,,20,,,,0,0,
+Nevada,0,Pass,7,0,-7,"Washington State",33,74,1,10,8,"Vince Mayle","Connor Halliday",1,0,0,0
+Nevada,0,Run,7,0,-7,"Washington State",33,66,2,2,-4,"Gerard Wicks",,,0,0,
+Nevada,0,Pass,7,0,-7,"Washington State",33,70,3,6,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Nevada,0,Punt,7,0,-7,"Washington State",33,70,4,6,51,,,,0,0,
+Nevada,0,Run,7,0,-7,Nevada,34,9,1,10,11,"James Butler",,,0,1,
+Nevada,0,Run,7,0,-7,Nevada,34,20,1,10,6,"James Butler",,,0,0,
+Nevada,0,Run,7,0,-7,Nevada,34,26,2,4,5,"Cody Fajardo",,,0,1,
+Nevada,0,Run,7,0,-7,Nevada,34,31,1,10,2,"James Butler",,,0,0,
+Nevada,0,Pass,7,0,-7,Nevada,34,33,2,8,4,"Richy Turner","Cody Fajardo",1,0,0,0
+Nevada,0,Run,7,0,-7,Nevada,34,37,3,4,55,"Cody Fajardo",,,0,1,
+Nevada,0,Pass,7,0,-7,Nevada,34,92,1,8,5,"James Butler","Cody Fajardo",1,0,0,0
+Nevada,0,Pass,7,0,-7,Nevada,34,97,2,3,0,"Matt Moen","Cody Fajardo",0,0,0,0
+Nevada,0,Run,7,0,-7,Nevada,34,99,1,1,0,"James Butler",,,0,0,
+Nevada,0,Run,14,0,-14,Nevada,34,99,2,1,1,"James Butler",,,1,0,
+Nevada,0,Kickoff,14,0,-14,"Washington State",35,,,,65,,,,0,0,
+Nevada,0,Pass,14,0,-14,"Washington State",35,75,1,10,17,"Dom Williams","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,0,-14,"Washington State",35,53,1,5,1,,"Connor Halliday",0,0,0,1
+Nevada,0,Run,14,0,-14,Nevada,36,40,1,10,7,"James Butler",,,0,0,
+Nevada,0,Pass,14,0,-14,Nevada,36,47,2,3,7,"Hasaan Henderson","Cody Fajardo",1,0,1,0
+Nevada,0,Pass,14,0,-14,Nevada,36,54,1,10,0,,"Cody Fajardo",0,0,0,0
+Nevada,0,Run,14,0,-14,Nevada,36,54,2,10,3,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,14,0,-14,Nevada,36,57,3,7,0,"Jerico Richardson","Cody Fajardo",0,0,0,0
+Nevada,0,Punt,14,0,-14,Nevada,36,57,4,7,43,,,,0,0,
+Nevada,0,Pass,14,0,-14,"Washington State",37,75,1,5,11,"Robert Lewis","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,0,-14,"Washington State",37,64,1,10,14,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Run,14,0,-14,"Washington State",37,50,1,10,19,"Theron West",,,0,1,
+Nevada,0,Pass,14,0,-14,"Washington State",37,31,1,10,18,"Dom Williams","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,7,-7,"Washington State",37,13,1,10,13,"Vince Mayle","Connor Halliday",1,1,0,0
+Nevada,0,Kickoff,14,7,-7,Nevada,38,,,,18,,,,0,0,
+Nevada,0,Run,14,7,-7,Nevada,38,20,1,10,5,"Don Jackson",,,0,0,
+Nevada,0,Run,14,7,-7,Nevada,38,25,2,5,1,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,14,7,-7,Nevada,38,26,3,4,0,"Jarred Gipson","Cody Fajardo",0,0,0,0
+Nevada,0,Punt,14,7,-7,Nevada,38,26,4,4,7,,,,0,0,
+Nevada,0,Pass,14,7,-7,"Washington State",39,70,1,10,15,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Run,14,7,-7,"Washington State",39,55,1,10,-1,"Jamal Morrow",,,0,0,
+Nevada,0,Pass,14,7,-7,"Washington State",39,56,2,11,9,"Isiah Myers","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,47,3,2,2,"Vince Mayle","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,45,1,10,12,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,33,1,10,0,"Robert Lewis","Connor Halliday",0,0,0,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,33,2,10,0,"Dom Williams","Connor Halliday",0,0,0,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,33,3,10,17,"Vince Mayle","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,16,1,10,10,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Run,14,7,-7,"Washington State",39,6,1,6,3,"Gerard Wicks",,,0,0,
+Nevada,0,Pass,14,7,-7,"Washington State",39,8,2,8,0,"Dom Williams","Connor Halliday",0,0,0,0
+Nevada,0,Pass,14,7,-7,"Washington State",39,8,3,8,0,"Dom Williams","Connor Halliday",0,0,0,0
+Nevada,0,"Field Goal",14,10,-4,"Washington State",39,8,4,8,0,,,,0,0,
+Nevada,0,Kickoff,14,10,-4,Nevada,40,,,,23,,,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,40,23,1,10,9,"Cody Fajardo",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,40,32,2,1,2,"Don Jackson",,,0,1,
+Nevada,0,Run,14,10,-4,Nevada,40,34,1,10,-2,"Cody Fajardo",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,40,32,2,12,-1,TEAM,,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,40,31,3,13,-1,TEAM,,,0,0,
+Nevada,0,Kickoff,14,10,-4,"Washington State",41,,,,25,,,,0,0,
+Nevada,0,Pass,14,10,-4,"Washington State",41,69,1,10,10,"Rickey Galvin","Connor Halliday",1,0,1,0
+Nevada,0,Sacked,14,10,-4,"Washington State",41,64,1,15,-4,,,,0,0,
+Nevada,0,Run,14,10,-4,"Washington State",41,68,2,19,17,"Jamal Morrow",,,0,0,
+Nevada,0,Pass,14,10,-4,"Washington State",41,51,3,2,32,"Dom Williams","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,10,-4,"Washington State",41,29,1,20,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",41,29,2,20,9,"Dom Williams","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",41,20,3,11,0,,"Connor Halliday",0,0,0,0
+Nevada,0,"Field Goal",14,10,-4,"Washington State",41,20,4,11,0,,,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,42,20,1,10,0,"Don Jackson",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,42,20,2,10,1,"Don Jackson",,,0,0,
+Nevada,0,Pass,14,10,-4,Nevada,42,21,3,9,5,"Hasaan Henderson","Cody Fajardo",1,0,0,0
+Nevada,0,Punt,14,10,-4,Nevada,42,26,4,4,57,,,,0,0,
+Nevada,0,Pass,14,10,-4,"Washington State",43,83,1,10,1,"Isiah Myers","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",43,82,2,9,5,"Robert Lewis","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",43,77,3,4,0,"Jamal Morrow","Connor Halliday",1,0,0,0
+Nevada,0,Punt,14,10,-4,"Washington State",43,77,4,4,44,,,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,44,33,1,10,8,"James Butler",,,0,0,
+Nevada,0,Pass,14,10,-4,Nevada,44,26,2,17,13,"Hasaan Henderson","Cody Fajardo",1,0,0,0
+Nevada,0,Pass,14,10,-4,Nevada,44,39,3,4,0,"Jarred Gipson","Cody Fajardo",0,0,0,0
+Nevada,0,Punt,14,10,-4,Nevada,44,39,4,4,33,,,,0,0,
+Nevada,0,Sacked,14,10,-4,"Washington State",45,72,1,10,-2,,,,0,0,
+Nevada,0,Pass,14,10,-4,"Washington State",45,74,2,12,15,"Vince Mayle","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,10,-4,"Washington State",45,59,1,10,6,"Drew Loftus","Connor Halliday",1,0,0,0
+Nevada,0,Run,14,10,-4,"Washington State",45,53,2,4,3,"Jamal Morrow",,,0,0,
+Nevada,0,Run,14,10,-4,"Washington State",45,50,3,1,2,"Jamal Morrow",,,0,1,
+Nevada,0,Pass,14,10,-4,"Washington State",45,48,1,10,9,"Robert Lewis","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",45,39,2,1,21,"Robert Lewis","Connor Halliday",1,0,1,0
+Nevada,0,Pass,14,10,-4,"Washington State",45,28,1,20,1,"Dom Williams","Connor Halliday",1,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",45,27,2,19,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Nevada,0,Pass,14,10,-4,"Washington State",45,27,3,19,6,"Robert Lewis","Connor Halliday",1,0,0,0
+Nevada,0,"Field Goal",14,10,-4,"Washington State",45,21,4,13,0,,,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,21,1,10,18,"Don Jackson",,,0,1,
+Nevada,0,Run,14,10,-4,Nevada,46,39,1,10,-1,"Cody Fajardo",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,38,2,11,0,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,14,10,-4,Nevada,46,38,3,11,22,"Hasaan Henderson","Cody Fajardo",1,0,1,0
+Nevada,0,Run,14,10,-4,Nevada,46,60,1,10,2,"Don Jackson",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,62,2,8,7,"Don Jackson",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,69,3,1,4,"Don Jackson",,,0,1,
+Nevada,0,Run,14,10,-4,Nevada,46,73,1,10,5,"James Butler",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,78,2,5,10,"Cody Fajardo",,,0,1,
+Nevada,0,Run,14,10,-4,Nevada,46,88,1,10,4,"James Butler",,,0,0,
+Nevada,0,Run,14,10,-4,Nevada,46,92,2,6,1,"James Butler",,,0,0,
+Nevada,0,Pass,14,10,-4,Nevada,46,88,3,10,9,"Don Jackson","Cody Fajardo",1,0,0,0
+Nevada,0,Run,14,10,-4,Nevada,46,97,4,1,1,"Don Jackson",,,0,1,
+Nevada,0,Run,21,10,-11,Nevada,46,98,1,2,2,"Don Jackson",,,1,0,
+Nevada,0,Kickoff,21,10,-11,"Washington State",47,,,,36,,,,0,0,
+Nevada,0,Pass,21,10,-11,"Washington State",47,60,1,10,7,"Rickey Galvin","Connor Halliday",1,0,0,0
+Nevada,0,Pass,21,10,-11,"Washington State",47,53,2,3,19,"Vince Mayle","Connor Halliday",1,0,1,0
+Nevada,0,Run,21,10,-11,"Washington State",47,34,1,10,7,"Theron West",,,0,0,
+Nevada,0,Pass,21,10,-11,"Washington State",47,27,2,3,8,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Run,21,10,-11,"Washington State",47,19,1,10,3,"Theron West",,,0,0,
+Nevada,0,Pass,21,10,-11,"Washington State",47,16,2,7,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Nevada,0,Pass,21,10,-11,"Washington State",47,21,3,12,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Nevada,0,"Field Goal",21,13,-8,"Washington State",47,21,4,12,0,,,,0,0,
+Nevada,0,Kickoff,21,13,-8,Nevada,48,,,,65,,,,0,0,
+Nevada,0,Pass,21,13,-8,Nevada,48,25,1,10,0,"Richy Turner","Cody Fajardo",0,0,0,0
+Nevada,0,Run,21,13,-8,Nevada,48,25,2,10,13,"Cody Fajardo",,,0,1,
+Nevada,0,Run,21,13,-8,Nevada,48,38,1,10,3,"James Butler",,,0,0,
+Nevada,0,Run,21,13,-8,Nevada,48,41,2,7,5,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,21,13,-8,Nevada,48,46,3,2,5,"Jarred Gipson","Cody Fajardo",1,0,1,0
+Nevada,0,Run,21,13,-8,Nevada,48,51,1,10,0,"James Butler",,,0,0,
+Nevada,0,Run,21,13,-8,Nevada,48,51,2,10,2,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,21,13,-8,Nevada,48,53,3,8,21,"Hasaan Henderson","Cody Fajardo",1,0,1,0
+Nevada,0,Run,21,13,-8,Nevada,48,74,1,10,6,"James Butler",,,0,0,
+Nevada,0,Run,21,13,-8,Nevada,48,80,2,4,1,"James Butler",,,0,0,
+Nevada,0,Run,21,13,-8,Nevada,48,81,3,3,-4,"Richy Turner",,,0,0,
+Nevada,0,"Field Goal",24,13,-11,Nevada,48,77,4,7,0,,,,0,0,
+Nevada,0,Kickoff,24,13,-11,"Washington State",49,,,,19,,,,0,0,
+Nevada,0,Pass,24,13,-11,"Washington State",49,66,1,10,7,"Theron West","Connor Halliday",1,0,0,0
+Nevada,0,Pass,24,13,-11,"Washington State",49,59,2,3,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Nevada,0,Pass,24,13,-11,"Washington State",49,59,3,3,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Nevada,0,Run,24,13,-11,"Washington State",49,59,4,3,2,"Jamal Morrow",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,57,1,10,1,"Don Jackson",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,58,2,9,4,"Don Jackson",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,62,3,5,4,"Cody Fajardo",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,71,1,10,4,"Don Jackson",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,75,2,6,2,"Don Jackson",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,77,3,4,-2,"Don Jackson",,,0,0,
+Nevada,0,Run,24,13,-11,Nevada,50,75,4,6,0,"Cody Fajardo",,,0,0,
+Nevada,0,Pass,24,13,-11,"Washington State",51,75,1,10,10,"Vince Mayle","Connor Halliday",1,0,1,0
+Nevada,0,Run,24,13,-11,"Washington State",51,65,1,10,0,"Connor Halliday",,,0,0,
+Nevada,0,Pass,24,13,-11,"Washington State",51,50,1,10,24,"Isiah Myers","Connor Halliday",1,0,1,0
+Nevada,0,Pass,24,13,-11,"Washington State",51,26,1,10,13,"Jamal Morrow","Connor Halliday",1,0,1,0
+Nevada,0,Pass,24,13,-11,"Washington State",51,13,1,10,4,"Robert Lewis","Connor Halliday",1,0,0,0
+"Portland State",1,Kickoff,0,0,0,"Washington State",52,,,,65,,,,0,0,
+"Portland State",1,Pass,0,0,0,"Washington State",52,75,1,10,5,"Rickey Galvin","Connor Halliday",1,0,0,0
+"Portland State",1,Run,0,0,0,"Washington State",52,70,2,5,3,"Jamal Morrow",,,0,0,
+"Portland State",1,Run,0,0,0,"Washington State",52,67,3,2,6,"Jamal Morrow",,,0,1,
+"Portland State",1,Pass,0,0,0,"Washington State",52,61,1,10,0,"Calvin Green","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,0,0,"Washington State",52,61,2,10,12,"River Cracraft","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,0,0,"Washington State",52,49,1,10,4,"Calvin Green","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,0,0,0,"Washington State",52,45,2,6,0,"Jamal Morrow","Connor Halliday",0,0,0,0
+"Portland State",1,Sacked,0,0,0,"Washington State",52,45,3,6,-12,,,,0,0,
+"Portland State",1,Punt,0,0,0,"Washington State",52,57,4,18,40,,,,0,0,
+"Portland State",1,Pass,0,0,0,"Portland State",53,17,1,10,0,"Paris Penn","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,0,0,0,"Portland State",53,17,2,10,5,"Alex Toureen","Kieran McDonagh",1,0,0,0
+"Portland State",1,Run,0,0,0,"Portland State",53,22,3,5,6,"Paris Penn",,,0,1,
+"Portland State",1,Pass,0,0,0,"Portland State",53,28,1,10,0,"Alex Toureen","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,0,0,0,"Portland State",53,28,2,10,4,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,0,0,0,"Portland State",53,32,3,6,8,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,0,0,0,"Portland State",53,40,1,10,12,"Cam Sommer","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,0,0,0,"Portland State",53,52,1,10,0,"Paris Penn","Kieran McDonagh",0,0,0,0
+"Portland State",1,Sacked,0,0,0,"Portland State",53,52,2,10,-8,,,,0,0,
+"Portland State",1,Pass,0,0,0,"Portland State",53,44,3,18,8,"Roston Tatum","Kieran McDonagh",1,0,0,0
+"Portland State",1,Punt,0,0,0,"Portland State",53,52,4,10,48,,,,0,0,
+"Portland State",1,Run,0,0,0,"Washington State",54,80,1,10,5,"Jamal Morrow",,,0,0,
+"Portland State",1,Pass,0,0,0,"Washington State",54,75,2,5,6,"Vince Mayle","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,0,0,"Washington State",54,69,1,10,6,"Jamal Morrow","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,0,0,0,"Washington State",54,63,2,4,8,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,0,0,"Washington State",54,55,1,10,3,"Jamal Morrow",,,0,0,
+"Portland State",1,Pass,0,0,0,"Washington State",54,52,2,7,9,"Calvin Green","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,0,0,"Washington State",54,43,1,10,5,"Gerard Wicks",,,0,0,
+"Portland State",1,Run,0,0,0,"Washington State",54,38,2,5,7,"Gerard Wicks",,,0,1,
+"Portland State",1,Pass,0,0,0,"Washington State",54,31,1,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,0,0,"Washington State",54,20,1,10,4,"Gerard Wicks",,,0,0,
+"Portland State",1,Pass,0,0,0,"Washington State",54,16,2,6,12,"River Cracraft","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,0,0,"Washington State",54,4,1,4,2,"Gerard Wicks",,,0,0,
+"Portland State",1,Run,0,0,0,"Washington State",54,2,2,2,1,"Jamal Morrow",,,0,0,
+"Portland State",1,Run,0,7,7,"Washington State",54,1,3,1,1,"Gerard Wicks",,,1,0,
+"Portland State",1,Kickoff,0,7,7,"Portland State",55,,,,65,,,,0,0,
+"Portland State",1,Pass,0,7,7,"Portland State",55,25,1,10,4,"Paris Penn","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,0,7,7,"Portland State",55,29,2,6,9,"Alex Toureen","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,0,7,7,"Portland State",55,38,1,10,0,"Cam Sommer","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,0,7,7,"Portland State",55,38,2,10,11,"Shaq Richard",,,0,1,
+"Portland State",1,Pass,0,7,7,"Portland State",55,49,1,10,7,"Thomas Carter","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,0,7,7,"Portland State",55,71,1,10,-1,"Paris Penn","Kieran McDonagh",1,0,0,0
+"Portland State",1,Sacked,0,7,7,"Portland State",55,70,2,11,-10,,,,0,0,
+"Portland State",1,Pass,0,7,7,"Portland State",55,60,3,21,30,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,0,7,7,"Portland State",55,90,1,10,3,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,0,7,7,"Washington State",56,93,1,10,67,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,7,7,"Washington State",56,26,1,10,0,"Vince Mayle","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,0,7,7,"Washington State",56,26,2,10,11,"Robert Lewis","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,7,7,"Washington State",56,15,1,10,0,"David Bucannon","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,7,7,"Washington State",56,15,2,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,14,14,"Washington State",56,15,3,10,15,"River Cracraft","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,0,14,14,"Portland State",57,,,,12,,,,0,0,
+"Portland State",1,Pass,0,14,14,"Portland State",57,13,1,10,0,"Thomas Carter","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,0,14,14,"Portland State",57,13,2,10,5,"Kieran McDonagh",,,0,0,
+"Portland State",1,Pass,0,14,14,"Portland State",57,9,3,14,0,"Kasey Closs","Kieran McDonagh",0,0,0,0
+"Portland State",1,Punt,0,14,14,"Portland State",57,9,4,14,44,,,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",58,17,1,10,17,"Dom Williams","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,0,21,21,"Portland State",59,,,,65,,,,0,0,
+"Portland State",1,Pass,0,21,21,"Portland State",59,25,1,10,2,"Nate Tago","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,0,21,21,"Portland State",59,27,2,8,0,"Alex Toureen","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Portland State",59,27,3,8,0,"Kasey Closs","Kieran McDonagh",0,0,0,0
+"Portland State",1,Punt,0,21,21,"Portland State",59,27,4,8,52,,,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",60,79,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+"Portland State",1,Run,0,21,21,"Washington State",60,79,2,10,2,"Gerard Wicks",,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",60,77,3,8,15,"River Cracraft","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,21,21,"Washington State",60,67,1,15,5,"Gerard Wicks",,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",60,62,2,10,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Washington State",60,62,3,10,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+"Portland State",1,Punt,0,21,21,"Washington State",60,62,4,10,6,,,,0,0,
+"Portland State",1,Run,0,21,21,"Portland State",61,18,1,10,3,"Nate Tago",,,0,0,
+"Portland State",1,Run,0,21,21,"Portland State",61,21,2,7,2,"Nate Tago",,,0,0,
+"Portland State",1,Run,0,21,21,"Portland State",61,23,3,5,-1,"Paris Penn",,,0,0,
+"Portland State",1,Punt,0,21,21,"Portland State",61,22,4,6,10,,,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",62,64,1,10,0,"Calvin Green","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Washington State",62,64,2,10,6,"Isiah Myers","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,0,21,21,"Washington State",62,58,3,4,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Washington State",62,58,4,4,0,"Robert Lewis","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Portland State",63,58,1,10,15,"Alex Toureen","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,0,21,21,"Portland State",63,73,1,10,0,"Thomas Carter","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,0,21,21,"Portland State",63,73,2,10,0,,"Kieran McDonagh",0,0,0,1
+"Portland State",1,Pass,0,21,21,"Washington State",64,80,1,10,28,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,21,21,"Washington State",64,52,1,10,17,"Rickey Galvin","Connor Halliday",1,0,1,0
+"Portland State",1,Run,0,21,21,"Washington State",64,35,1,10,4,"Jamal Morrow",,,0,0,
+"Portland State",1,Pass,0,21,21,"Washington State",64,31,2,6,11,"River Cracraft","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,21,21,"Washington State",64,20,1,10,17,"Rickey Galvin","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,28,28,"Washington State",64,3,1,3,3,"Vince Mayle","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,0,28,28,"Portland State",65,,,,15,,,,0,0,
+"Portland State",1,Run,0,28,28,"Portland State",65,35,1,10,1,"Nate Tago",,,0,0,
+"Portland State",1,Run,0,28,28,"Portland State",65,36,2,9,4,"Nate Tago",,,0,0,
+"Portland State",1,Run,0,28,28,"Portland State",65,50,1,10,7,"Shaq Richard",,,0,0,
+"Portland State",1,Run,0,28,28,"Portland State",65,52,2,8,0,"Shaq Richard",,,0,0,
+"Portland State",1,Run,0,28,28,"Portland State",65,52,3,8,-6,"Paris Penn",,,0,0,
+"Portland State",1,Punt,0,28,28,"Portland State",65,46,4,14,5,,,,0,0,
+"Portland State",1,Pass,0,28,28,"Washington State",66,85,1,10,0,"Dom Williams","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,28,28,"Washington State",66,85,2,10,11,"Dom Williams","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,28,28,"Washington State",66,74,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,0,28,28,"Washington State",66,74,2,10,12,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,28,28,"Washington State",66,62,1,10,18,"Isiah Myers","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,0,28,28,"Washington State",66,44,1,10,0,,"Connor Halliday",0,0,0,1
+"Portland State",1,Run,0,28,28,"Portland State",67,8,1,10,-1,TEAM,,,0,0,
+"Portland State",1,Kickoff,0,28,28,"Portland State",68,,,,15,,,,0,0,
+"Portland State",1,Pass,0,28,28,"Portland State",68,15,1,10,4,"Cam Sommer","Kieran McDonagh",1,0,0,0
+"Portland State",1,Run,0,28,28,"Portland State",68,19,2,6,2,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,0,28,28,"Portland State",68,21,3,4,8,"Alex Toureen","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,0,28,28,"Portland State",68,29,1,10,5,"Thomas Carter","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,0,28,28,"Portland State",68,34,2,5,30,"Alex Toureen","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,0,28,28,"Portland State",68,64,1,10,9,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,0,28,28,"Portland State",68,73,2,1,0,"Cam Sommer","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,0,28,28,"Portland State",68,73,3,1,10,"Roston Tatum","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,0,28,28,"Portland State",68,83,1,10,4,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,0,28,28,"Portland State",68,87,2,6,7,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,7,28,21,"Portland State",68,94,1,6,6,"Shaq Richard",,,1,0,
+"Portland State",1,Kickoff,7,28,21,"Washington State",69,,,,65,,,,0,0,
+"Portland State",1,Pass,7,28,21,"Washington State",69,75,1,10,-7,"Robert Lewis","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,7,28,21,"Washington State",69,82,2,17,8,"River Cracraft","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,7,28,21,"Washington State",69,74,3,9,0,"River Cracraft","Connor Halliday",0,0,0,0
+"Portland State",1,Punt,7,28,21,"Washington State",69,74,4,9,45,,,,0,0,
+"Portland State",1,Pass,7,28,21,"Portland State",70,29,1,10,0,"Thomas Carter","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,7,28,21,"Portland State",70,29,2,10,6,"Darnell Adams","Kieran McDonagh",1,0,0,0
+"Portland State",1,Run,7,28,21,"Portland State",70,45,1,10,8,"Shaq Richard",,,0,0,
+"Portland State",1,Pass,7,28,21,"Portland State",70,53,2,2,9,"Alex Toureen","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,7,28,21,"Portland State",70,62,1,10,14,"Shaq Richard",,,0,1,
+"Portland State",1,Pass,14,28,14,"Portland State",70,76,1,10,24,"Alex Toureen","Kieran McDonagh",1,1,0,0
+"Portland State",1,Kickoff,14,28,14,"Washington State",71,,,,65,,,,0,0,
+"Portland State",1,Run,14,28,14,"Washington State",71,75,1,10,4,"Jamal Morrow",,,0,0,
+"Portland State",1,Run,14,28,14,"Washington State",71,71,2,6,11,"Jamal Morrow",,,0,1,
+"Portland State",1,Pass,14,28,14,"Washington State",71,60,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,14,28,14,"Washington State",71,60,2,10,7,"Jamal Morrow","Connor Halliday",1,0,0,0
+"Portland State",1,Run,14,28,14,"Washington State",71,53,3,3,7,"Gerard Wicks",,,0,1,
+"Portland State",1,Run,14,28,14,"Washington State",71,46,1,10,3,"Gerard Wicks",,,0,0,
+"Portland State",1,Pass,14,28,14,"Washington State",71,43,2,7,11,"Calvin Green","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,14,28,14,"Washington State",71,32,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,14,28,14,"Washington State",71,32,2,10,10,"Robert Lewis","Connor Halliday",1,0,1,0
+"Portland State",1,Run,14,28,14,"Washington State",71,22,1,10,-1,"Jamal Morrow",,,0,0,
+"Portland State",1,Pass,14,28,14,"Washington State",71,8,1,8,0,"Calvin Green","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,14,35,21,"Washington State",71,8,2,8,8,"Isiah Myers","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,14,35,21,"Portland State",72,,,,20,,,,0,0,
+"Portland State",1,Pass,14,35,21,"Portland State",72,20,1,10,5,"Kasey Closs","Kieran McDonagh",1,0,0,0
+"Portland State",1,Run,14,35,21,"Portland State",72,25,2,5,1,"Nate Tago",,,0,0,
+"Portland State",1,Sacked,14,35,21,"Portland State",72,26,3,4,-7,,,,0,0,
+"Portland State",1,Punt,14,35,21,"Portland State",72,19,4,11,13,,,,0,0,
+"Portland State",1,Run,14,35,21,"Washington State",73,34,1,10,2,"Jamal Morrow",,,0,0,
+"Portland State",1,Pass,14,35,21,"Washington State",73,37,2,13,14,"Vince Mayle","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,14,35,21,"Washington State",73,23,1,10,0,"Dom Williams","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,14,35,21,"Washington State",73,23,2,10,7,"Jamal Morrow","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,14,35,21,"Washington State",73,26,2,13,10,"Isiah Myers","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,14,35,21,"Washington State",73,16,3,3,12,"Vince Mayle","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,14,42,28,"Washington State",73,4,1,4,4,"Isiah Myers","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,14,42,28,"Portland State",74,,,,65,,,,0,0,
+"Portland State",1,Pass,14,42,28,"Portland State",74,25,1,10,3,"Darnell Adams","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,14,42,28,"Portland State",74,28,2,7,0,"Kasey Closs","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,14,42,28,"Portland State",74,28,3,7,5,"Darnell Adams","Kieran McDonagh",1,0,0,0
+"Portland State",1,Punt,14,42,28,"Portland State",74,28,4,7,-2,,,,0,0,
+"Portland State",1,Kickoff,21,42,21,"Washington State",76,,,,4,,,,0,0,
+"Portland State",1,Pass,21,42,21,"Washington State",76,69,1,10,53,"Jamal Morrow","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,21,42,21,"Washington State",76,16,1,10,4,"Gerard Wicks","Connor Halliday",1,0,0,0
+"Portland State",1,Pass,21,42,21,"Washington State",76,12,2,6,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,21,42,21,"Washington State",76,12,3,6,0,"Vince Mayle","Connor Halliday",0,0,0,0
+"Portland State",1,"Field Goal",21,45,24,"Washington State",76,12,4,6,0,,,,0,0,
+"Portland State",1,Kickoff,21,45,24,"Portland State",77,,,,7,,,,0,0,
+"Portland State",1,Pass,21,45,24,"Portland State",77,20,1,10,9,"Kasey Closs","Kieran McDonagh",1,0,0,0
+"Portland State",1,Run,21,45,24,"Portland State",77,29,2,1,4,"Steven Long",,,0,1,
+"Portland State",1,Pass,21,45,24,"Portland State",77,33,1,10,7,"Thomas Carter","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,21,45,24,"Portland State",77,40,2,3,0,"Thomas Carter","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,21,45,24,"Portland State",77,40,3,3,0,"Darnell Adams","Kieran McDonagh",0,0,0,0
+"Portland State",1,Punt,21,45,24,"Portland State",77,40,4,3,55,,,,0,0,
+"Portland State",1,Run,21,45,24,"Washington State",78,95,1,10,9,"Gerard Wicks",,,0,0,
+"Portland State",1,Run,21,45,24,"Washington State",78,86,2,1,4,"Gerard Wicks",,,0,1,
+"Portland State",1,Pass,21,45,24,"Washington State",78,82,1,10,12,"Robert Lewis","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,21,45,24,"Washington State",78,70,1,10,0,"Robert Lewis","Connor Halliday",0,0,0,0
+"Portland State",1,Pass,21,45,24,"Washington State",78,70,2,10,15,"River Cracraft","Connor Halliday",1,0,1,0
+"Portland State",1,Pass,21,52,31,"Washington State",78,55,1,10,55,"Isiah Myers","Connor Halliday",1,1,0,0
+"Portland State",1,Kickoff,21,52,31,"Portland State",79,,,,20,,,,0,0,
+"Portland State",1,Run,21,52,31,"Portland State",79,25,1,10,-1,"Steven Long",,,0,0,
+"Portland State",1,Pass,21,52,31,"Portland State",79,24,2,11,5,"Thomas Carter","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,21,52,31,"Portland State",79,29,3,6,5,"Steven Long","Kieran McDonagh",1,0,0,0
+"Portland State",1,Punt,21,52,31,"Portland State",79,34,4,1,53,,,,0,0,
+"Portland State",1,Pass,21,52,31,"Washington State",80,87,1,10,2,"Rickey Galvin","Luke Falk",1,0,0,0
+"Portland State",1,Run,21,52,31,"Washington State",80,85,2,8,1,"Gerard Wicks",,,0,0,
+"Portland State",1,Pass,21,59,38,"Washington State",80,84,3,7,84,"Dom Williams","Luke Falk",1,1,0,0
+"Portland State",1,Kickoff,21,59,38,"Portland State",81,,,,20,,,,0,0,
+"Portland State",1,Pass,21,59,38,"Portland State",81,24,1,10,0,"Roston Tatum","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,21,59,38,"Portland State",81,24,2,10,2,"Steven Long",,,0,0,
+"Portland State",1,Pass,21,59,38,"Portland State",81,26,3,8,8,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,21,59,38,"Portland State",81,34,1,10,3,"Steven Long",,,0,0,
+"Portland State",1,Pass,21,59,38,"Portland State",81,37,2,7,6,"Thomas Carter","Kieran McDonagh",1,0,0,0
+"Portland State",1,Pass,21,59,38,"Portland State",81,43,3,1,2,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Run,21,59,38,"Portland State",81,45,1,10,3,"Steven Long",,,0,0,
+"Portland State",1,Pass,21,59,38,"Portland State",81,48,2,7,0,"Darnell Adams","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,21,59,38,"Portland State",81,48,3,7,2,"Steven Long",,,0,0,
+"Portland State",1,Run,21,59,38,"Portland State",81,50,4,5,6,"Steven Long",,,0,1,
+"Portland State",1,Pass,21,59,38,"Portland State",81,56,1,10,0,"Cam Sommer","Kieran McDonagh",0,0,0,0
+"Portland State",1,Run,21,59,38,"Portland State",81,56,2,10,13,"Steven Long",,,0,1,
+"Portland State",1,Run,21,59,38,"Portland State",81,69,1,10,4,"Steven Long",,,0,0,
+"Portland State",1,Pass,21,59,38,"Portland State",81,73,2,6,0,"Darnell Adams","Kieran McDonagh",0,0,0,0
+"Portland State",1,Pass,21,59,38,"Portland State",81,73,3,6,12,"Kasey Closs","Kieran McDonagh",1,0,1,0
+"Portland State",1,Pass,21,59,38,"Portland State",81,80,1,15,0,"Darnell Adams","Kieran McDonagh",0,0,0,0
+Oregon,0,Kickoff,0,0,0,"Washington State",82,,,,15,,,,0,0,
+Oregon,1,Run,0,0,0,"Washington State",82,83,1,10,3,"Jamal Morrow",,,0,0,
+Oregon,0,Run,0,0,0,"Washington State",82,80,2,7,4,"Gerard Wicks",,,0,0,
+Oregon,1,Pass,0,0,0,"Washington State",82,76,3,3,2,"River Cracraft","Connor Halliday",1,0,0,0
+Oregon,0,Punt,0,0,0,"Washington State",82,74,4,1,5,,,,0,0,
+Oregon,1,Run,0,0,0,Oregon,83,31,1,10,8,"Marcus Mariota",,,0,0,
+Oregon,0,Pass,0,0,0,Oregon,83,39,2,2,6,"Devon Allen","Marcus Mariota",1,0,1,0
+Oregon,1,Run,0,0,0,Oregon,83,45,1,10,-1,"Royce Freeman",,,0,0,
+Oregon,1,Pass,0,0,0,Oregon,83,39,2,16,0,,"Marcus Mariota",0,0,0,0
+Oregon,0,Sacked,0,0,0,Oregon,83,39,3,16,-9,,,,0,0,
+Oregon,1,Punt,0,0,0,Oregon,83,30,4,25,11,,,,0,0,
+Oregon,0,Pass,0,0,0,"Washington State",84,56,1,10,3,"Calvin Green","Connor Halliday",1,0,0,0
+Oregon,1,Pass,0,0,0,"Washington State",84,53,2,7,17,"Vince Mayle","Connor Halliday",1,0,1,0
+Oregon,0,Pass,0,0,0,"Washington State",84,36,1,10,4,"Robert Lewis","Connor Halliday",1,0,0,0
+Oregon,1,Pass,0,0,0,"Washington State",84,32,2,6,14,"Jamal Morrow","Connor Halliday",1,0,1,0
+Oregon,0,Pass,0,7,7,"Washington State",84,18,1,10,18,"Dom Williams","Connor Halliday",1,1,0,0
+Oregon,1,Kickoff,0,7,7,Oregon,85,,,,30,,,,0,0,
+Oregon,0,Pass,0,7,7,Oregon,85,36,1,10,3,"Devon Allen","Marcus Mariota",1,0,0,0
+Oregon,1,Run,0,7,7,Oregon,85,39,2,7,-2,"Royce Freeman",,,0,0,
+Oregon,0,Sacked,0,7,7,Oregon,85,37,3,9,-12,,,,0,0,
+Oregon,1,Punt,0,7,7,Oregon,85,25,4,21,41,,,,0,0,
+Oregon,0,Pass,0,7,7,"Washington State",86,66,1,10,10,"Vince Mayle","Connor Halliday",1,0,1,0
+Oregon,1,Pass,0,7,7,"Washington State",86,56,1,10,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Oregon,0,Pass,0,7,7,"Washington State",86,56,2,10,14,"Dom Williams","Connor Halliday",1,0,1,0
+Oregon,1,Pass,0,7,7,"Washington State",86,42,1,10,14,"Rickey Galvin","Connor Halliday",1,0,1,0
+Oregon,0,Run,0,7,7,"Washington State",86,28,1,10,2,"Jamal Morrow",,,0,0,
+Oregon,1,Pass,0,7,7,"Washington State",86,26,2,8,9,"Vince Mayle","Connor Halliday",1,0,1,0
+Oregon,0,Pass,0,7,7,"Washington State",86,17,1,10,0,,"Connor Halliday",0,0,0,0
+Oregon,1,Pass,0,7,7,"Washington State",86,17,2,10,6,"Isiah Myers","Connor Halliday",1,0,0,0
+Oregon,0,Pass,0,7,7,"Washington State",86,11,3,4,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Oregon,1,"Field Goal",0,7,7,"Washington State",86,11,4,4,0,,,,0,0,
+Oregon,0,Pass,7,7,0,Oregon,87,20,1,10,80,"Devon Allen","Marcus Mariota",1,1,0,0
+Oregon,1,Kickoff,7,7,0,"Washington State",88,,,,65,,,,0,0,
+Oregon,0,Pass,7,7,0,"Washington State",88,75,1,10,7,"Vince Mayle","Connor Halliday",1,0,0,0
+Oregon,1,Run,7,7,0,"Washington State",88,68,2,3,15,"Gerard Wicks",,,0,1,
+Oregon,0,Pass,7,7,0,"Washington State",88,53,1,10,37,"River Cracraft","Connor Halliday",1,0,1,0
+Oregon,1,Pass,7,7,0,"Washington State",88,16,1,10,4,"Dom Williams","Connor Halliday",1,0,0,0
+Oregon,0,Run,7,7,0,"Washington State",88,12,2,6,4,"Jamal Morrow",,,0,0,
+Oregon,1,Pass,7,7,0,"Washington State",88,8,3,2,0,,"Connor Halliday",0,0,0,0
+Oregon,0,Pass,7,14,7,"Washington State",88,8,4,2,8,"Dom Williams","Connor Halliday",1,1,0,0
+Oregon,1,Kickoff,7,14,7,Oregon,89,,,,12,,,,0,0,
+Oregon,0,Pass,7,14,7,Oregon,89,14,1,10,5,"Byron Marshall","Marcus Mariota",1,0,0,0
+Oregon,1,Run,7,14,7,Oregon,89,19,2,5,4,"Thomas Tyner",,,0,0,
+Oregon,1,Run,7,14,7,Oregon,89,23,3,1,0,"Thomas Tyner",,,0,0,
+Oregon,0,Punt,7,14,7,Oregon,89,23,4,1,33,,,,0,0,
+Oregon,1,Pass,7,14,7,"Washington State",90,56,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Oregon,0,Pass,7,14,7,"Washington State",90,56,2,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Oregon,0,Pass,7,14,7,"Washington State",90,61,3,15,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Oregon,1,Punt,7,14,7,"Washington State",90,61,4,15,7,,,,0,0,
+Oregon,0,Run,7,14,7,Oregon,91,27,1,10,15,"Marcus Mariota",,,0,1,
+Oregon,1,Pass,7,14,7,Oregon,91,42,1,10,1,"Byron Marshall","Marcus Mariota",1,0,0,0
+Oregon,0,Pass,14,14,0,Oregon,91,43,2,9,57,"Keanon Lowe","Marcus Mariota",1,1,0,0
+Oregon,1,Kickoff,14,14,0,"Washington State",92,,,,65,,,,0,0,
+Oregon,0,Pass,14,14,0,"Washington State",92,75,1,10,11,"Gerard Wicks","Connor Halliday",1,0,1,0
+Oregon,1,Pass,14,14,0,"Washington State",92,64,1,10,5,"Isiah Myers","Connor Halliday",1,0,0,0
+Oregon,0,Pass,14,14,0,"Washington State",92,59,2,5,19,"Dom Williams","Connor Halliday",1,0,1,0
+Oregon,1,Pass,14,14,0,"Washington State",92,40,1,10,2,"River Cracraft","Connor Halliday",1,0,0,0
+Oregon,0,Pass,14,14,0,"Washington State",92,38,2,8,7,"Isiah Myers","Connor Halliday",1,0,0,0
+Oregon,1,Pass,14,14,0,"Washington State",92,31,3,1,0,,"Connor Halliday",0,0,0,0
+Oregon,0,Run,14,14,0,"Washington State",92,31,4,1,1,"Gerard Wicks",,,0,1,
+Oregon,1,Pass,14,14,0,"Washington State",92,30,1,10,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+Oregon,0,Run,14,14,0,"Washington State",92,30,2,10,-1,"Jamal Morrow",,,0,0,
+Oregon,1,Pass,14,14,0,"Washington State",92,31,3,11,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Oregon,0,Pass,14,14,0,"Washington State",92,31,4,11,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Oregon,1,Run,14,14,0,Oregon,93,31,1,10,41,"Marcus Mariota",,,0,1,
+Oregon,0,Run,14,14,0,Oregon,93,72,1,10,15,"Byron Marshall",,,0,1,
+Oregon,1,Pass,14,14,0,Oregon,93,87,1,10,0,,"Marcus Mariota",0,0,0,0
+Oregon,0,Pass,21,14,-7,Oregon,93,87,2,10,13,"Devon Allen","Marcus Mariota",1,1,0,0
+Oregon,1,Kickoff,21,14,-7,"Washington State",94,,,,26,,,,0,0,
+Oregon,0,Pass,21,14,-7,"Washington State",94,74,1,10,2,"Rickey Galvin","Connor Halliday",1,0,0,0
+Oregon,0,Pass,21,14,-7,"Washington State",94,82,2,18,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Oregon,1,Pass,21,14,-7,"Washington State",94,82,3,18,5,"Gerard Wicks","Connor Halliday",1,0,1,0
+Oregon,0,Pass,21,14,-7,"Washington State",94,62,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Oregon,1,Pass,21,14,-7,"Washington State",94,62,2,10,9,"Jamal Morrow","Connor Halliday",1,0,0,0
+Oregon,0,Pass,21,14,-7,"Washington State",94,53,3,1,1,"Vince Mayle","Connor Halliday",1,0,1,0
+Oregon,1,Pass,21,14,-7,"Washington State",94,52,1,10,22,"Rickey Galvin","Connor Halliday",1,0,1,0
+Oregon,1,Run,21,14,-7,"Washington State",94,20,1,10,7,"Jamal Morrow",,,0,0,
+Oregon,0,Pass,21,14,-7,"Washington State",94,13,2,3,0,,"Connor Halliday",0,0,0,0
+Oregon,1,Pass,21,14,-7,"Washington State",94,13,3,3,5,"Jamal Morrow","Connor Halliday",1,0,1,0
+Oregon,0,Run,21,14,-7,"Washington State",94,8,1,8,2,"Jamal Morrow",,,0,0,
+Oregon,1,Pass,21,21,0,"Washington State",94,6,2,6,6,"Rickey Galvin","Connor Halliday",1,1,0,0
+Oregon,0,Kickoff,21,21,0,Oregon,95,,,,65,,,,0,0,
+Oregon,1,Sacked,21,21,0,Oregon,95,8,1,27,-7,,,,0,0,
+Oregon,0,Run,21,21,0,Oregon,95,1,2,34,5,"Royce Freeman",,,0,0,
+Oregon,0,Pass,21,21,0,Oregon,95,6,3,29,0,,"Marcus Mariota",0,0,0,0
+Oregon,1,Punt,21,21,0,Oregon,95,6,4,29,-1,,,,0,0,
+Oregon,0,Sacked,21,21,0,Oregon,96,40,1,10,-8,,,,0,0,
+Oregon,0,Sacked,21,21,0,Oregon,96,32,2,18,-4,,,,0,0,
+Oregon,1,Kickoff,21,21,0,Oregon,97,,,,65,,,,0,0,
+Oregon,0,Run,21,21,0,Oregon,97,25,1,10,2,"Royce Freeman",,,0,0,
+Oregon,1,Run,21,21,0,Oregon,97,27,2,8,7,"Byron Marshall",,,0,0,
+Oregon,1,Pass,21,21,0,Oregon,97,29,3,6,14,"Keanon Lowe","Marcus Mariota",1,0,1,0
+Oregon,0,Pass,21,21,0,Oregon,97,43,1,10,6,"Byron Marshall","Marcus Mariota",1,0,0,0
+Oregon,1,Run,21,21,0,Oregon,97,49,2,4,6,"Royce Freeman",,,0,1,
+Oregon,0,Pass,21,21,0,Oregon,97,55,1,10,6,"Devon Allen","Marcus Mariota",1,0,0,0
+Oregon,1,Pass,21,21,0,Oregon,97,61,2,4,0,"Keanon Lowe","Marcus Mariota",1,0,0,0
+Oregon,1,Pass,21,21,0,Oregon,97,61,3,4,27,"Keanon Lowe","Marcus Mariota",1,0,1,0
+Oregon,0,Pass,21,21,0,Oregon,97,88,1,10,3,"Pharaoh Brown","Marcus Mariota",1,0,0,0
+Oregon,1,Run,21,21,0,Oregon,97,91,2,7,1,"Royce Freeman",,,0,0,
+Oregon,1,Sacked,21,21,0,Oregon,97,87,3,11,-2,,,,0,0,
+Oregon,0,"Field Goal",21,21,0,Oregon,97,85,4,13,0,,,,0,0,
+Oregon,1,Pass,21,21,0,"Washington State",98,80,1,10,2,"Calvin Green","Connor Halliday",1,0,0,0
+Oregon,0,Pass,21,21,0,"Washington State",98,78,2,8,-2,"Isiah Myers","Connor Halliday",1,0,0,0
+Oregon,0,Pass,21,21,0,"Washington State",98,65,1,10,9,"Robert Lewis","Connor Halliday",1,0,0,0
+Oregon,1,Pass,21,21,0,"Washington State",98,56,2,1,3,"Jamal Morrow","Connor Halliday",1,0,1,0
+Oregon,0,Pass,21,21,0,"Washington State",98,53,1,10,0,"Calvin Green","Connor Halliday",0,0,0,0
+Oregon,1,Run,21,21,0,"Washington State",98,53,2,10,7,"Jamal Morrow",,,0,0,
+Oregon,0,Pass,21,21,0,"Washington State",98,46,3,3,8,"Isiah Myers","Connor Halliday",1,0,1,0
+Oregon,1,Pass,21,21,0,"Washington State",98,38,1,10,3,"Jamal Morrow","Connor Halliday",1,0,0,0
+Oregon,0,Pass,21,21,0,Oregon,99,35,1,10,29,"Devon Allen","Marcus Mariota",1,0,1,0
+Oregon,1,Run,21,21,0,Oregon,99,64,1,10,3,"Royce Freeman",,,0,0,
+Oregon,1,Run,21,21,0,Oregon,99,62,2,12,2,"Royce Freeman",,,0,0,
+Oregon,0,Pass,21,21,0,Oregon,99,64,3,10,0,"Devon Allen","Marcus Mariota",0,0,0,0
+Oregon,1,Run,21,21,0,Oregon,99,64,4,10,28,"Marcus Mariota",,,0,1,
+Oregon,0,Pass,28,21,-7,Oregon,99,92,1,8,8,"Pharaoh Brown","Marcus Mariota",1,1,0,0
+Oregon,1,Kickoff,28,21,-7,"Washington State",100,,,,24,,,,0,0,
+Oregon,0,Pass,28,21,-7,"Washington State",100,86,1,10,0,,"Connor Halliday",0,0,0,0
+Oregon,1,Pass,28,21,-7,"Washington State",100,86,2,10,11,"River Cracraft","Connor Halliday",1,0,1,0
+Oregon,0,Pass,28,21,-7,"Washington State",100,75,1,10,4,"Isiah Myers","Connor Halliday",1,0,0,0
+Oregon,0,Run,28,21,-7,"Washington State",100,62,1,10,1,"Gerard Wicks",,,0,0,
+Oregon,1,Pass,28,21,-7,"Washington State",100,61,2,9,-3,"Vince Mayle","Connor Halliday",1,0,0,0
+Oregon,0,Pass,28,21,-7,"Washington State",100,64,3,12,24,"River Cracraft","Connor Halliday",1,0,1,0
+Oregon,1,Pass,28,21,-7,"Washington State",100,40,1,10,24,"River Cracraft","Connor Halliday",1,0,1,0
+Oregon,0,Run,28,21,-7,"Washington State",100,16,1,10,2,"Gerard Wicks",,,0,0,
+Oregon,1,Pass,28,21,-7,"Washington State",100,14,2,8,2,"River Cracraft","Connor Halliday",1,0,0,0
+Oregon,1,Pass,28,21,-7,"Washington State",100,12,3,6,0,"River Cracraft","Connor Halliday",0,0,0,0
+Oregon,0,"Field Goal",28,24,-4,"Washington State",100,12,4,6,0,,,,0,0,
+Oregon,1,Kickoff,28,24,-4,Oregon,101,,,,17,,,,0,0,
+Oregon,0,Run,28,24,-4,Oregon,101,26,1,10,8,"Marcus Mariota",,,0,0,
+Oregon,1,Run,28,24,-4,Oregon,101,34,2,2,2,"Royce Freeman",,,0,1,
+Oregon,0,Run,28,24,-4,Oregon,101,36,1,10,5,"Royce Freeman",,,0,0,
+Oregon,1,Run,28,24,-4,Oregon,101,41,2,5,10,"Royce Freeman",,,0,1,
+Oregon,0,Run,28,24,-4,Oregon,101,51,1,10,6,"Marcus Mariota",,,0,0,
+Oregon,1,Run,28,24,-4,Oregon,101,57,2,4,6,"Thomas Tyner",,,0,1,
+Oregon,1,Pass,28,24,-4,Oregon,101,77,1,10,5,"Devon Allen","Marcus Mariota",1,0,0,0
+Oregon,0,Run,28,24,-4,Oregon,101,82,2,5,-1,"Royce Freeman",,,0,0,
+Oregon,1,Run,28,24,-4,Oregon,101,81,3,6,2,"Royce Freeman",,,0,0,
+Oregon,0,"Field Goal",31,24,-7,Oregon,101,83,4,4,0,,,,0,0,
+Oregon,1,Kickoff,31,24,-7,"Washington State",102,,,,65,,,,0,0,
+Oregon,0,Pass,31,24,-7,"Washington State",102,75,1,10,45,"Jamal Morrow","Connor Halliday",1,0,1,0
+Oregon,1,Pass,31,24,-7,"Washington State",102,30,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Oregon,0,Run,31,24,-7,"Washington State",102,30,2,10,9,"Gerard Wicks",,,0,0,
+Oregon,1,Run,31,24,-7,"Washington State",102,21,3,1,4,"Gerard Wicks",,,0,1,
+Oregon,0,Run,31,24,-7,"Washington State",102,17,1,10,12,"Jamal Morrow",,,0,1,
+Oregon,1,Pass,31,31,0,"Washington State",102,5,1,5,5,"River Cracraft","Connor Halliday",1,1,0,0
+Oregon,0,Kickoff,31,31,0,Oregon,103,,,,21,,,,0,0,
+Oregon,1,Run,31,31,0,Oregon,103,21,1,10,3,"Royce Freeman",,,0,0,
+Oregon,0,Run,31,31,0,Oregon,103,24,2,7,18,"Royce Freeman",,,0,1,
+Oregon,1,Sacked,31,31,0,Oregon,103,42,1,10,-6,,,,0,0,
+Oregon,0,Pass,31,31,0,Oregon,103,64,2,16,18,"Byron Marshall","Marcus Mariota",1,0,1,0
+Oregon,1,Run,31,31,0,Oregon,103,69,1,10,7,"Thomas Tyner",,,0,0,
+Oregon,0,Pass,31,31,0,Oregon,103,76,2,3,-2,"Byron Marshall","Marcus Mariota",1,0,0,0
+Oregon,1,Pass,31,31,0,Oregon,103,74,3,5,17,"Byron Marshall","Marcus Mariota",1,0,1,0
+Oregon,0,Run,31,31,0,Oregon,103,91,1,9,3,"Thomas Tyner",,,0,0,
+Oregon,1,Pass,38,31,-7,Oregon,103,94,2,6,6,"Keanon Lowe","Marcus Mariota",1,1,0,0
+Oregon,0,Kickoff,38,31,-7,"Washington State",104,,,,65,,,,0,0,
+Oregon,1,Pass,38,31,-7,"Washington State",104,75,1,10,6,"Rickey Galvin","Connor Halliday",1,0,0,0
+Oregon,0,Pass,38,31,-7,"Washington State",104,69,2,4,34,"Vince Mayle","Connor Halliday",1,0,1,0
+Oregon,1,Run,38,31,-7,"Washington State",104,35,1,10,-3,"Jamal Morrow",,,0,0,
+Oregon,0,Pass,38,31,-7,"Washington State",104,38,2,13,0,"River Cracraft","Connor Halliday",0,0,0,0
+Oregon,1,Pass,38,31,-7,"Washington State",104,38,3,13,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Oregon,0,Sacked,38,31,-7,"Washington State",104,38,4,13,-6,,,,0,0,
+Oregon,1,Run,38,31,-7,Oregon,105,44,1,10,4,"Royce Freeman",,,0,0,
+Oregon,0,Run,38,31,-7,Oregon,105,48,2,6,5,"Royce Freeman",,,0,0,
+Oregon,1,Pass,38,31,-7,Oregon,105,53,3,1,27,"Pharaoh Brown","Marcus Mariota",1,0,1,0
+Oregon,0,Run,38,31,-7,Oregon,105,80,1,10,0,"Royce Freeman",,,0,0,
+Oregon,0,Run,38,31,-7,Oregon,105,80,2,10,5,"Royce Freeman",,,0,0,
+Oregon,0,Run,38,31,-7,Oregon,105,85,3,5,6,"Royce Freeman",,,0,1,
+Oregon,1,Run,38,31,-7,Oregon,105,91,1,9,-2,TEAM,,,0,0,
+Oregon,0,Run,38,31,-7,Oregon,105,89,2,11,-1,TEAM,,,0,0,
+Utah,0,Kickoff,0,0,0,"Washington State",106,,,,65,,,,0,0,
+Utah,0,Run,0,0,0,"Washington State",106,75,1,10,11,"Jamal Morrow",,,0,1,
+Utah,0,Pass,0,0,0,"Washington State",106,64,1,10,-1,"Vince Mayle","Connor Halliday",1,0,0,0
+Utah,0,Pass,0,0,0,"Washington State",106,65,2,11,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Utah,0,Sacked,0,0,0,"Washington State",106,65,3,11,-7,,,,0,0,
+Utah,0,Punt,0,0,0,"Washington State",106,72,4,18,32,,,,0,0,
+Utah,0,Pass,0,0,0,Utah,107,40,1,10,12,"Kaelin Clay","Travis Wilson",1,0,1,0
+Utah,0,Pass,0,0,0,Utah,107,52,1,10,0,,"Travis Wilson",0,0,0,0
+Utah,0,Pass,0,0,0,Utah,107,52,2,10,0,,"Travis Wilson",0,0,0,0
+Utah,0,Pass,0,0,0,Utah,107,52,3,10,12,"Kaelin Clay","Travis Wilson",1,0,1,0
+Utah,0,Run,0,0,0,Utah,107,64,1,10,7,"Bubba Poole",,,0,0,
+Utah,0,Run,0,0,0,Utah,107,71,2,3,2,"Bubba Poole",,,0,0,
+Utah,0,Run,0,0,0,Utah,107,73,3,1,1,"Bubba Poole",,,0,1,
+Utah,0,Sacked,0,0,0,Utah,107,59,1,10,-9,,,,0,0,
+Utah,0,Run,0,0,0,Utah,107,50,2,19,-2,"Bubba Poole",,,0,0,
+Utah,0,Pass,0,0,0,Utah,107,48,3,21,0,"Bubba Poole","Travis Wilson",0,0,0,0
+Utah,0,Punt,0,0,0,Utah,107,48,4,21,47,,,,0,0,
+Utah,0,Pass,7,0,-7,"Washington State",108,95,1,10,11,,"Connor Halliday",0,1,0,1
+Utah,0,Kickoff,7,0,-7,"Washington State",109,,,,65,,,,0,0,
+Utah,0,Pass,7,0,-7,"Washington State",109,75,1,10,0,,"Connor Halliday",0,0,0,0
+Utah,0,Pass,7,0,-7,"Washington State",109,75,2,10,1,"Vince Mayle","Connor Halliday",1,0,0,0
+Utah,0,Pass,7,0,-7,"Washington State",109,74,3,9,0,,"Connor Halliday",0,0,0,0
+Utah,0,Punt,14,0,-14,"Washington State",109,74,4,9,58,,,,1,0,
+Utah,0,Kickoff,14,0,-14,"Washington State",110,,,,65,,,,0,0,
+Utah,0,Pass,14,0,-14,"Washington State",110,75,1,10,7,"Dom Williams","Connor Halliday",1,0,0,0
+Utah,0,Pass,14,0,-14,"Washington State",110,68,2,3,6,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Pass,14,0,-14,"Washington State",110,62,1,10,-3,"Robert Lewis","Connor Halliday",1,0,0,0
+Utah,0,Pass,14,0,-14,"Washington State",110,65,2,13,5,"Vince Mayle","Connor Halliday",1,0,0,0
+Utah,0,Pass,14,0,-14,"Washington State",110,70,3,18,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Utah,0,Punt,14,0,-14,"Washington State",110,70,4,18,52,,,,0,0,
+Utah,0,Pass,14,0,-14,Utah,111,18,1,10,6,"Westlee Tonga","Travis Wilson",1,0,0,0
+Utah,0,Run,21,0,-21,Utah,111,24,2,4,76,"Devontae Booker",,,1,0,
+Utah,0,Kickoff,21,0,-21,"Washington State",112,,,,25,,,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",112,73,1,10,8,"Rickey Galvin","Connor Halliday",1,0,0,0
+Utah,0,Run,21,0,-21,"Washington State",112,65,2,2,1,"Theron West",,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",112,64,3,1,8,"Isiah Myers","Connor Halliday",1,0,1,0
+Utah,0,Run,21,0,-21,"Washington State",112,48,1,10,9,"Gerard Wicks",,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",112,39,2,1,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+Utah,0,Run,21,0,-21,"Washington State",112,39,3,1,24,"Gerard Wicks",,,0,1,
+Utah,0,Pass,21,0,-21,"Washington State",112,15,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",112,15,2,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",112,15,3,10,5,"Isiah Myers","Connor Halliday",1,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",112,10,4,5,4,"Rickey Galvin","Connor Halliday",1,0,0,0
+Utah,0,Run,21,0,-21,Utah,113,6,1,10,5,"Devontae Booker",,,0,0,
+Utah,0,Run,21,0,-21,Utah,113,11,2,5,7,"Devontae Booker",,,0,1,
+Utah,0,Run,21,0,-21,Utah,113,18,1,10,3,"Devontae Booker",,,0,0,
+Utah,0,Pass,21,0,-21,Utah,113,21,2,7,0,"Kaelin Clay","Travis Wilson",0,0,0,0
+Utah,0,Pass,21,0,-21,Utah,113,21,3,7,5,"Westlee Tonga","Travis Wilson",1,0,0,0
+Utah,0,Punt,21,0,-21,Utah,113,26,4,2,14,,,,0,0,
+Utah,0,Run,21,0,-21,"Washington State",114,65,1,10,6,"Jamal Morrow",,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",114,59,2,4,9,"Jamal Morrow","Connor Halliday",1,0,1,0
+Utah,0,Pass,21,0,-21,"Washington State",114,35,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Utah,0,Sacked,21,0,-21,"Washington State",114,35,2,10,-4,,,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",114,39,3,14,0,"Jamal Morrow","Connor Halliday",0,0,0,0
+Utah,0,Punt,21,0,-21,"Washington State",114,39,4,14,29,,,,0,0,
+Utah,0,Pass,21,0,-21,Utah,115,10,1,10,0,,"Travis Wilson",0,0,0,0
+Utah,0,Run,21,0,-21,Utah,115,10,2,10,1,"Bubba Poole",,,0,0,
+Utah,0,Pass,21,0,-21,Utah,115,11,3,9,0,,"Travis Wilson",0,0,0,0
+Utah,0,Punt,21,0,-21,Utah,115,11,4,9,44,,,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",116,55,1,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",116,55,2,10,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",116,55,3,10,0,"Jamal Morrow","Connor Halliday",0,0,0,0
+Utah,0,Punt,21,0,-21,"Washington State",116,55,4,10,8,,,,0,0,
+Utah,0,Run,21,0,-21,Utah,117,20,1,10,-2,"Kaelin Clay",,,0,0,
+Utah,0,Pass,21,0,-21,Utah,117,18,2,12,0,"Kaelin Clay","Travis Wilson",0,0,0,0
+Utah,0,Pass,21,0,-21,Utah,117,18,3,12,0,,"Travis Wilson",0,0,0,0
+Utah,0,Punt,21,0,-21,Utah,117,18,4,12,53,,,,0,0,
+Utah,0,Run,21,0,-21,"Washington State",118,71,1,10,2,"Gerard Wicks",,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",118,69,2,8,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",118,69,3,8,11,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Pass,21,0,-21,"Washington State",118,58,1,10,6,"Gerard Wicks","Connor Halliday",1,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",118,52,2,4,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Utah,0,Pass,21,0,-21,"Washington State",118,52,3,4,16,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Run,21,0,-21,"Washington State",118,36,1,10,6,"Gerard Wicks",,,0,0,
+Utah,0,Pass,21,0,-21,"Washington State",118,30,2,4,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Utah,0,Run,21,0,-21,"Washington State",118,30,3,4,-5,"Gerard Wicks",,,0,0,
+Utah,0,Pass,21,7,-14,"Washington State",118,35,4,9,35,"Dom Williams","Connor Halliday",1,1,0,0
+Utah,0,Kickoff,21,7,-14,Utah,119,,,,14,,,,0,0,
+Utah,0,Run,21,7,-14,Utah,119,14,1,10,4,"Devontae Booker",,,0,0,
+Utah,0,Run,21,7,-14,Utah,119,18,2,6,2,"Devontae Booker",,,0,0,
+Utah,0,Pass,21,7,-14,Utah,119,20,3,4,6,"Kaelin Clay","Travis Wilson",1,0,1,0
+Utah,0,Run,21,7,-14,Utah,119,26,1,10,10,"Devontae Booker",,,0,1,
+Utah,0,Run,21,7,-14,Utah,119,36,1,10,6,"Devontae Booker",,,0,0,
+Utah,0,Run,21,7,-14,Utah,119,42,2,4,8,"Devontae Booker",,,0,1,
+Utah,0,Pass,21,7,-14,Utah,119,50,1,10,9,"Kenneth Scott","Travis Wilson",1,0,0,0
+Utah,0,Run,21,7,-14,Utah,119,59,2,1,10,"Devontae Booker",,,0,1,
+Utah,0,Run,21,7,-14,Utah,119,69,1,10,0,"Devontae Booker",,,0,0,
+Utah,0,Pass,21,7,-14,Utah,119,54,2,25,0,"Westlee Tonga","Travis Wilson",0,0,0,0
+Utah,0,Pass,21,7,-14,Utah,119,54,3,25,17,"Tim Patrick","Travis Wilson",1,0,0,0
+Utah,0,"Field Goal",21,7,-14,Utah,119,71,4,8,0,,,,0,0,
+Utah,0,Run,21,7,-14,"Washington State",120,71,1,10,2,"Jamal Morrow",,,0,0,
+Utah,0,Pass,21,7,-14,"Washington State",120,69,2,8,1,"Gerard Wicks","Connor Halliday",1,0,0,0
+Utah,0,Pass,21,7,-14,"Washington State",120,68,3,7,32,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Pass,21,7,-14,"Washington State",120,36,1,10,7,,"Connor Halliday",0,0,0,1
+Utah,0,Pass,21,7,-14,Utah,121,60,1,10,0,"Westlee Tonga","Travis Wilson",0,0,0,0
+Utah,0,Run,21,7,-14,Utah,121,60,2,10,2,"Travis Wilson",,,0,0,
+Utah,0,Pass,21,7,-14,Utah,121,62,3,8,11,"Kenneth Scott","Travis Wilson",1,0,1,0
+Utah,0,Pass,21,7,-14,Utah,121,58,1,25,-4,"Devontae Booker","Travis Wilson",1,0,0,0
+Utah,0,Run,21,7,-14,Utah,121,54,2,29,5,"Travis Wilson",,,0,0,
+Utah,0,Pass,21,7,-14,Utah,121,59,3,24,12,"Kenneth Scott","Travis Wilson",1,0,0,0
+Utah,0,"Field Goal",24,7,-17,Utah,121,71,4,12,0,,,,0,0,
+Utah,0,Kickoff,24,7,-17,Utah,122,,,,65,,,,0,0,
+Utah,0,Run,24,7,-17,Utah,122,25,1,10,-2,"Devontae Booker",,,0,0,
+Utah,0,Run,24,7,-17,Utah,122,23,2,12,11,"Devontae Booker",,,0,0,
+Utah,0,Run,24,7,-17,Utah,122,34,3,1,9,"Travis Wilson",,,0,1,
+Utah,0,Run,24,7,-17,Utah,122,43,1,10,1,"Travis Wilson",,,0,0,
+Utah,0,Pass,24,7,-17,Utah,122,44,2,9,0,"Dres Anderson","Kendal Thompson",0,0,0,0
+Utah,0,Pass,24,7,-17,Utah,122,44,3,9,0,"Kaelin Clay","Kendal Thompson",0,0,0,0
+Utah,0,Punt,24,7,-17,Utah,122,44,4,9,4,,,,0,0,
+Utah,0,Run,24,7,-17,"Washington State",123,70,1,10,6,"Gerard Wicks",,,0,0,
+Utah,0,Pass,24,7,-17,"Washington State",123,64,2,4,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Utah,0,Pass,24,7,-17,"Washington State",123,64,3,4,12,"Jamal Morrow","Connor Halliday",1,0,1,0
+Utah,0,Pass,24,7,-17,"Washington State",123,52,1,10,6,"Vince Mayle","Connor Halliday",1,0,0,0
+Utah,0,Run,24,7,-17,"Washington State",123,46,2,4,8,"Gerard Wicks",,,0,1,
+Utah,0,Pass,24,7,-17,"Washington State",123,38,1,10,3,"Isiah Myers","Connor Halliday",1,0,0,0
+Utah,0,Pass,24,7,-17,"Washington State",123,35,2,7,4,"Gerard Wicks","Connor Halliday",1,0,0,0
+Utah,0,Pass,24,7,-17,"Washington State",123,31,3,3,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Utah,0,Pass,24,7,-17,"Washington State",123,31,4,3,0,"River Cracraft","Connor Halliday",0,0,0,0
+Utah,0,Pass,24,7,-17,Utah,124,31,1,10,28,"Kaelin Clay","Travis Wilson",1,0,0,0
+Utah,0,Sacked,24,7,-17,"Washington State",125,61,1,10,-6,,,,0,0,
+Utah,0,Pass,24,7,-17,"Washington State",125,67,2,16,15,"River Cracraft","Connor Halliday",1,0,0,0
+Utah,0,Run,24,7,-17,"Washington State",125,52,3,1,5,"Gerard Wicks",,,0,1,
+Utah,0,Pass,24,7,-17,"Washington State",125,47,1,10,11,"Dom Williams","Connor Halliday",1,0,1,0
+Utah,0,Pass,24,7,-17,"Washington State",125,36,1,10,-1,"Calvin Green","Connor Halliday",1,0,0,0
+Utah,0,Pass,24,7,-17,"Washington State",125,37,2,11,13,"Vince Mayle","Connor Halliday",1,0,1,0
+Utah,0,Run,24,7,-17,"Washington State",125,24,1,10,13,"Jamal Morrow",,,0,1,
+Utah,0,Pass,24,14,-10,"Washington State",125,11,1,10,11,"Vince Mayle","Connor Halliday",1,1,0,0
+Utah,0,Kickoff,24,14,-10,Utah,126,,,,50,,,,0,0,
+Utah,0,Run,24,14,-10,Utah,126,35,1,10,4,"Travis Wilson",,,0,0,
+Utah,0,Pass,24,14,-10,Utah,126,39,2,6,0,"Kenneth Scott","Travis Wilson",0,0,0,0
+Utah,0,Pass,24,14,-10,Utah,126,39,3,6,10,"Kenneth Scott","Travis Wilson",1,0,1,0
+Utah,0,Pass,24,14,-10,Utah,126,49,1,10,0,"Dres Anderson","Travis Wilson",0,0,0,0
+Utah,0,Run,24,14,-10,Utah,126,49,2,10,10,"Devontae Booker",,,0,1,
+Utah,0,Run,24,14,-10,Utah,126,59,1,10,4,"Devontae Booker",,,0,0,
+Utah,0,Run,24,14,-10,Utah,126,63,2,6,-2,"Devontae Booker",,,0,0,
+Utah,0,Run,24,14,-10,Utah,126,61,3,8,-7,"Travis Wilson",,,0,0,
+Utah,0,Punt,24,14,-10,Utah,126,54,4,15,46,,,,0,0,
+Utah,0,Pass,24,14,-10,"Washington State",127,80,1,10,4,"Vince Mayle","Connor Halliday",1,0,0,0
+Utah,0,Pass,24,14,-10,"Washington State",127,76,2,6,16,"Rickey Galvin","Connor Halliday",1,0,1,0
+Utah,0,Pass,24,14,-10,"Washington State",127,60,1,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+Utah,0,Run,24,14,-10,"Washington State",127,49,1,10,-8,"Connor Halliday",,,0,0,
+Utah,0,Run,24,14,-10,Utah,128,57,1,10,2,"Devontae Booker",,,0,0,
+Utah,0,Run,24,14,-10,Utah,128,59,2,8,10,"Devontae Booker",,,0,1,
+Utah,0,Run,24,14,-10,Utah,128,69,1,10,2,"Devontae Booker",,,0,0,
+Utah,0,Pass,24,14,-10,Utah,128,71,2,8,5,"Kenneth Scott","Travis Wilson",1,0,0,0
+Utah,0,Run,24,14,-10,Utah,128,76,3,3,-2,"Travis Wilson",,,0,0,
+Utah,0,"Field Goal",27,14,-13,Utah,128,74,4,5,0,,,,0,0,
+Utah,0,Kickoff,27,14,-13,"Washington State",129,,,,65,,,,0,0,
+Utah,0,Run,27,14,-13,"Washington State",129,80,1,15,4,"Jamal Morrow",,,0,0,
+Utah,0,Run,27,14,-13,"Washington State",129,76,2,11,5,"Jamal Morrow",,,0,0,
+Utah,0,Pass,27,14,-13,"Washington State",129,71,3,6,9,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Run,27,14,-13,"Washington State",129,62,1,10,0,"Gerard Wicks",,,0,0,
+Utah,0,Pass,27,14,-13,"Washington State",129,67,2,15,6,"Robert Lewis","Connor Halliday",1,0,0,0
+Utah,0,Pass,27,14,-13,"Washington State",129,61,3,9,12,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Pass,27,14,-13,"Washington State",129,49,1,10,21,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Run,27,14,-13,"Washington State",129,28,1,10,12,"Jamal Morrow",,,0,1,
+Utah,0,Pass,27,14,-13,"Washington State",129,16,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Utah,0,Run,27,14,-13,"Washington State",129,16,2,10,0,"Gerard Wicks",,,0,0,
+Utah,0,Pass,27,14,-13,"Washington State",129,16,3,10,-4,"Jamal Morrow","Connor Halliday",1,0,0,0
+Utah,0,Pass,27,21,-6,"Washington State",129,20,4,14,20,"Dom Williams","Connor Halliday",1,1,0,0
+Utah,0,Kickoff,27,21,-6,Utah,130,,,,24,,,,0,0,
+Utah,0,Run,27,21,-6,Utah,130,35,1,10,3,"Devontae Booker",,,0,0,
+Utah,0,Pass,27,21,-6,Utah,130,38,2,7,6,"Tim Patrick","Travis Wilson",1,0,0,0
+Utah,0,Run,27,21,-6,Utah,130,44,3,1,0,"Devontae Booker",,,0,0,
+Utah,0,Punt,27,21,-6,Utah,130,44,4,1,48,,,,0,0,
+Utah,0,Pass,27,21,-6,"Washington State",131,92,1,10,0,"Rickey Galvin","Connor Halliday",0,0,0,0
+Utah,0,Pass,27,21,-6,"Washington State",131,92,2,10,7,"Rickey Galvin","Connor Halliday",1,0,0,0
+Utah,0,Pass,27,21,-6,"Washington State",131,85,3,3,4,"River Cracraft","Connor Halliday",1,0,1,0
+Utah,0,Pass,27,28,1,"Washington State",131,81,1,10,81,"Vince Mayle","Connor Halliday",1,1,0,0
+Utah,0,Kickoff,27,28,1,Utah,132,,,,12,,,,0,0,
+Utah,0,Pass,27,28,1,Utah,132,28,1,10,0,"Dres Anderson","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,132,28,2,10,0,"Kenneth Scott","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,132,28,3,10,10,"Kenneth Scott","Travis Wilson",1,0,1,0
+Utah,0,Run,27,28,1,Utah,132,38,1,10,9,"Devontae Booker",,,0,0,
+Utah,0,Run,27,28,1,Utah,132,47,2,1,0,"Devontae Booker",,,0,0,
+Utah,0,Run,27,28,1,Utah,132,47,3,1,0,"Devontae Booker",,,0,0,
+Utah,0,Run,27,28,1,Utah,132,47,4,1,2,"Travis Wilson",,,0,1,
+Utah,0,Run,27,28,1,Utah,132,49,1,10,2,"Travis Wilson",,,0,0,
+Utah,0,Pass,27,28,1,Utah,132,51,2,8,0,"Westlee Tonga","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,132,51,3,8,0,"Kenneth Scott","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,132,51,4,8,0,"Dres Anderson","Travis Wilson",0,0,0,0
+Utah,0,Run,27,28,1,"Washington State",133,51,1,10,1,"Gerard Wicks",,,0,0,
+Utah,0,Run,27,28,1,"Washington State",133,50,2,9,-5,"Jamal Morrow",,,0,0,
+Utah,0,Pass,27,28,1,"Washington State",133,55,3,14,6,"Rickey Galvin","Connor Halliday",1,0,0,0
+Utah,0,Punt,27,28,1,"Washington State",133,44,4,3,44,,,,0,0,
+Utah,0,Pass,27,28,1,Utah,134,20,1,10,0,"Kenneth Scott","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,134,20,2,10,13,"Kenneth Scott","Travis Wilson",1,0,1,0
+Utah,0,Pass,27,28,1,Utah,134,33,1,10,5,"Kaelin Clay","Travis Wilson",1,0,0,0
+Utah,0,Pass,27,28,1,Utah,134,38,2,5,0,"Kenneth Scott","Travis Wilson",0,0,0,0
+Utah,0,Pass,27,28,1,Utah,134,38,3,5,0,"Devontae Booker","Travis Wilson",1,0,0,0
+Utah,0,Pass,27,28,1,Utah,134,38,4,5,0,"Dres Anderson","Travis Wilson",0,0,0,0
+Utah,0,Run,27,28,1,"Washington State",135,38,1,10,-2,TEAM,,,0,0,
+California,1,Kickoff,0,0,0,"Washington State",136,,,,22,,,,0,0,
+California,1,Pass,0,0,0,"Washington State",136,78,1,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+California,1,Pass,0,0,0,"Washington State",136,67,1,10,7,"Vince Mayle","Connor Halliday",1,0,0,0
+California,1,Pass,0,0,0,"Washington State",136,60,2,3,2,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Run,0,0,0,"Washington State",136,58,3,1,-2,"Jamal Morrow",,,0,0,
+California,1,Punt,0,0,0,"Washington State",136,60,4,3,18,,,,0,0,
+California,1,Pass,0,0,0,California,137,23,1,10,6,"Daniel Lasco","Jared Goff",1,0,0,0
+California,1,Run,0,0,0,California,137,29,2,4,6,"Daniel Lasco",,,0,1,
+California,1,Pass,0,0,0,California,137,35,1,10,0,"Chris Harper","Jared Goff",0,0,0,0
+California,1,Run,0,0,0,California,137,35,2,10,3,"Daniel Lasco",,,0,0,
+California,1,Pass,0,0,0,California,137,38,3,7,5,"Daniel Lasco","Jared Goff",1,0,0,0
+California,1,Punt,0,0,0,California,137,38,4,7,47,,,,0,0,
+California,1,Pass,0,7,7,"Washington State",138,90,1,15,90,"Vince Mayle","Connor Halliday",1,1,0,0
+California,1,Kickoff,0,7,7,California,139,,,,1,,,,0,0,
+California,1,Pass,0,7,7,California,139,7,1,15,0,"Bryce Treggs","Jared Goff",0,0,0,0
+California,1,Pass,0,7,7,California,139,7,2,15,4,"Kenny Lawler","Jared Goff",1,0,0,0
+California,1,Pass,0,7,7,California,139,11,3,11,-2,"Daniel Lasco","Jared Goff",1,0,0,0
+California,1,Punt,0,7,7,California,139,9,4,13,14,,,,0,0,
+California,1,Run,0,7,7,"Washington State",140,45,1,10,2,"Gerard Wicks",,,0,0,
+California,1,Pass,0,7,7,"Washington State",140,43,2,8,19,"Dom Williams","Connor Halliday",1,0,1,0
+California,1,Run,0,7,7,"Washington State",140,24,1,10,0,"Gerard Wicks",,,0,0,
+California,1,Run,0,7,7,"Washington State",140,24,2,10,-1,"Gerard Wicks",,,0,0,
+California,1,Run,0,7,7,"Washington State",140,25,3,11,0,"Connor Halliday",,,0,0,
+California,1,"Field Goal",0,10,10,"Washington State",140,25,4,11,0,,,,0,0,
+California,1,Kickoff,0,10,10,California,141,,,,18,,,,0,0,
+California,1,Pass,0,10,10,California,141,18,1,10,8,"Bryce Treggs","Jared Goff",1,0,0,0
+California,1,Run,0,10,10,California,141,26,2,2,10,"Daniel Lasco",,,0,1,
+California,1,Pass,0,10,10,California,141,36,1,10,0,"Chris Harper","Jared Goff",0,0,0,0
+California,1,Run,0,10,10,California,141,36,2,10,1,"Khalfani Muhammad",,,0,0,
+California,1,Sacked,0,10,10,California,141,37,3,9,-9,,,,0,0,
+California,1,Punt,0,10,10,California,141,28,4,18,17,,,,0,0,
+California,1,Pass,0,10,10,"Washington State",142,45,1,10,7,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Pass,0,10,10,"Washington State",142,48,1,13,1,"Vince Mayle","Connor Halliday",1,0,0,0
+California,1,Pass,0,10,10,"Washington State",142,47,2,12,0,"Robert Lewis","Connor Halliday",0,0,0,0
+California,1,Pass,0,10,10,"Washington State",142,47,3,12,0,"Dom Williams","Connor Halliday",0,0,0,0
+California,1,Punt,0,10,10,"Washington State",142,47,4,12,4,,,,0,0,
+California,1,Pass,0,10,10,California,143,27,1,15,6,"Daniel Lasco","Jared Goff",1,0,0,0
+California,1,Pass,0,10,10,California,143,33,2,9,11,"Bryce Treggs","Jared Goff",1,0,1,0
+California,1,Run,0,10,10,California,143,44,1,10,7,"Daniel Lasco",,,0,0,
+California,1,Pass,0,10,10,California,143,51,2,3,0,"Bryce Treggs","Jared Goff",0,0,0,0
+California,1,Pass,0,10,10,California,143,51,3,3,5,"Kenny Lawler","Jared Goff",1,0,1,0
+California,1,Run,0,10,10,California,143,56,1,10,0,"Khalfani Muhammad",,,0,0,
+California,1,Pass,0,10,10,California,143,56,2,10,17,"Bryce Treggs","Jared Goff",1,0,1,0
+California,1,Pass,0,10,10,California,143,73,1,10,0,,"Jared Goff",0,0,0,0
+California,1,Pass,7,10,3,California,143,73,2,10,27,"Trevor Davis","Jared Goff",1,1,0,0
+California,1,Kickoff,7,10,3,"Washington State",144,,,,25,,,,0,0,
+California,1,Pass,7,10,3,"Washington State",144,85,1,10,0,"Robert Lewis","Connor Halliday",0,0,0,0
+California,1,Pass,7,10,3,"Washington State",144,85,2,10,3,"Calvin Green","Connor Halliday",1,0,0,0
+California,1,Pass,7,10,3,"Washington State",144,82,3,7,37,"Dom Williams","Connor Halliday",1,0,1,0
+California,1,Run,7,10,3,"Washington State",144,45,1,10,6,"Jamal Morrow",,,0,0,
+California,1,Run,7,10,3,"Washington State",144,39,2,4,1,"Jamal Morrow",,,0,0,
+California,1,Pass,7,10,3,"Washington State",144,38,3,3,8,"River Cracraft","Connor Halliday",1,0,1,0
+California,1,Pass,7,10,3,"Washington State",144,30,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+California,1,Pass,7,10,3,"Washington State",144,30,2,10,14,"Dom Williams","Connor Halliday",1,0,1,0
+California,1,Pass,7,17,10,"Washington State",144,16,1,10,16,"Isiah Myers","Connor Halliday",1,1,0,0
+California,1,Kickoff,7,17,10,California,145,,,,19,,,,0,0,
+California,1,Pass,7,17,10,California,145,24,1,10,8,"Kenny Lawler","Jared Goff",1,0,0,0
+California,1,Pass,7,17,10,California,145,68,2,2,27,"Chris Harper","Jared Goff",1,0,1,0
+California,1,Run,7,17,10,California,145,74,1,10,2,"Daniel Lasco",,,0,0,
+California,1,Pass,7,17,10,California,145,76,2,8,10,"Bryce Treggs","Jared Goff",1,0,1,0
+California,1,Run,7,17,10,California,145,86,1,10,1,"Daniel Lasco",,,0,0,
+California,1,Pass,7,17,10,California,145,87,2,9,0,"Kenny Lawler","Jared Goff",0,0,0,0
+California,1,Pass,7,17,10,California,145,87,3,9,0,"Stephen Anderson","Jared Goff",0,0,0,0
+California,1,"Field Goal",10,17,7,California,145,87,4,9,0,,,,0,0,
+California,1,Kickoff,10,17,7,"Washington State",146,,,,2,,,,0,0,
+California,1,Run,10,17,7,"Washington State",146,68,1,10,-4,"Gerard Wicks",,,0,0,
+California,1,Pass,10,17,7,"Washington State",146,72,2,14,2,"River Cracraft","Connor Halliday",1,0,0,0
+California,1,Pass,10,17,7,"Washington State",146,70,3,12,30,"Dom Williams","Connor Halliday",1,0,1,0
+California,1,Pass,10,17,7,"Washington State",146,40,1,10,6,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Pass,10,17,7,"Washington State",146,34,2,4,10,"River Cracraft","Connor Halliday",1,0,1,0
+California,1,Run,10,17,7,"Washington State",146,24,1,10,1,"Jamal Morrow",,,0,0,
+California,1,Pass,10,17,7,"Washington State",146,23,2,9,6,"Gerard Wicks","Connor Halliday",1,0,0,0
+California,1,Pass,10,24,14,"Washington State",146,17,3,3,17,"River Cracraft","Connor Halliday",1,1,0,0
+California,1,Kickoff,10,24,14,California,147,,,,17,,,,0,0,
+California,1,Pass,10,24,14,California,147,45,1,10,2,"Chris Harper","Jared Goff",1,0,0,0
+California,1,Pass,10,24,14,California,147,47,2,8,0,"Chris Harper","Jared Goff",0,0,0,0
+California,1,Pass,10,24,14,California,147,47,3,8,6,"Bryce Treggs","Jared Goff",1,0,0,0
+California,1,Punt,10,24,14,California,147,53,4,2,47,,,,0,0,
+California,1,Pass,10,24,14,"Washington State",148,90,1,10,8,"Isiah Myers","Connor Halliday",1,0,0,0
+California,1,Run,10,24,14,"Washington State",148,82,2,2,0,"Gerard Wicks",,,0,0,
+California,1,Pass,10,24,14,"Washington State",148,77,1,10,29,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Pass,10,24,14,"Washington State",148,48,1,10,12,"Isiah Myers","Connor Halliday",1,0,1,0
+California,1,Pass,10,24,14,"Washington State",148,36,1,10,2,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Pass,10,24,14,"Washington State",148,34,2,8,0,"Vince Mayle","Connor Halliday",0,0,0,0
+California,1,Pass,10,24,14,"Washington State",148,34,3,8,0,"River Cracraft","Connor Halliday",0,0,0,0
+California,1,Pass,10,24,14,"Washington State",148,34,4,8,0,"River Cracraft","Connor Halliday",0,0,0,0
+California,1,Pass,10,24,14,California,149,34,1,10,0,"Khalfani Muhammad","Jared Goff",0,0,0,0
+California,1,Pass,10,24,14,California,149,34,2,10,8,"Stephen Anderson","Jared Goff",1,0,0,0
+California,1,Pass,10,24,14,California,149,42,3,2,7,"Stephen Anderson","Jared Goff",1,0,1,0
+California,1,Pass,10,24,14,California,149,49,1,10,11,"Bryce Treggs","Jared Goff",1,0,1,0
+California,1,Pass,10,24,14,California,149,60,1,10,0,"Trevor Davis","Jared Goff",0,0,0,0
+California,1,Pass,10,24,14,California,149,60,2,10,0,"Maurice Harris","Jared Goff",0,0,0,0
+California,1,Pass,10,24,14,California,149,60,3,10,5,"Maurice Harris","Jared Goff",1,0,0,0
+California,1,Pass,10,24,14,California,149,65,4,5,12,"Chris Harper","Jared Goff",1,0,1,0
+California,1,Pass,10,24,14,California,149,77,1,10,0,"Daniel Lasco","Jared Goff",0,0,0,0
+California,1,Pass,10,24,14,California,149,92,1,8,0,"Maurice Harris","Jared Goff",0,0,0,0
+California,1,"Field Goal",13,24,11,California,149,92,2,8,0,,,,0,0,
+California,1,Kickoff,13,24,11,California,150,,,,16,,,,0,0,
+California,1,Pass,13,24,11,California,150,18,1,10,55,"Stephen Anderson","Jared Goff",1,0,1,0
+California,1,Pass,20,24,4,California,150,73,1,10,27,"Daniel Lasco","Jared Goff",1,1,0,0
+California,1,Kickoff,20,24,4,"Washington State",151,,,,65,,,,0,0,
+California,1,Pass,20,24,4,"Washington State",151,75,1,10,9,"Isiah Myers","Connor Halliday",1,0,0,0
+California,1,Pass,20,24,4,"Washington State",151,66,2,1,0,"Vince Mayle","Connor Halliday",0,0,0,0
+California,1,Run,20,24,4,"Washington State",151,66,3,1,7,"Jamal Morrow",,,0,1,
+California,1,Pass,20,24,4,"Washington State",151,59,1,10,0,,"Connor Halliday",0,0,0,0
+California,1,Run,20,24,4,"Washington State",151,59,2,10,4,"Connor Halliday",,,0,0,
+California,1,Pass,20,24,4,"Washington State",151,55,3,6,0,"Isiah Myers","Connor Halliday",0,0,0,0
+California,1,Punt,20,24,4,"Washington State",151,55,4,6,40,,,,0,0,
+California,1,Pass,20,24,4,California,152,15,1,10,9,"Chris Harper","Jared Goff",1,0,0,0
+California,1,Pass,20,24,4,California,152,24,2,1,21,"Stephen Anderson","Jared Goff",1,0,1,0
+California,1,Pass,20,24,4,California,152,45,1,10,40,"Chris Harper","Jared Goff",1,0,1,0
+California,1,Run,27,24,-3,California,152,85,1,10,15,"Daniel Lasco",,,1,0,
+California,1,Kickoff,27,24,-3,"Washington State",153,,,,9,,,,0,0,
+California,1,Pass,27,24,-3,"Washington State",153,95,1,10,9,"Vince Mayle","Connor Halliday",1,0,0,0
+California,1,Pass,27,31,4,"Washington State",153,86,2,1,86,"River Cracraft","Connor Halliday",1,1,0,0
+California,1,Pass,27,31,4,"Washington State",154,55,1,10,3,"River Cracraft","Connor Halliday",1,0,0,0
+California,1,Pass,27,31,4,"Washington State",154,52,2,7,1,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Pass,27,31,4,"Washington State",154,51,3,6,13,"River Cracraft","Connor Halliday",1,0,1,0
+California,1,Pass,27,31,4,"Washington State",154,38,1,10,0,"Jamal Morrow","Connor Halliday",0,0,0,0
+California,1,Pass,27,31,4,"Washington State",154,38,2,10,16,"Robert Lewis","Connor Halliday",1,0,1,0
+California,1,Pass,27,31,4,"Washington State",154,22,1,10,13,"Isiah Myers","Connor Halliday",1,0,1,0
+California,1,Pass,27,31,4,"Washington State",154,9,1,9,0,"Jamal Morrow","Connor Halliday",0,0,0,0
+California,1,Pass,27,31,4,"Washington State",154,9,2,9,0,"Robert Lewis","Connor Halliday",0,0,0,0
+California,1,Pass,27,31,4,"Washington State",154,9,3,9,8,"Vince Mayle","Connor Halliday",1,0,0,0
+California,1,Run,27,38,11,"Washington State",154,1,4,1,1,"Gerard Wicks",,,1,0,
+California,1,Kickoff,34,38,4,"Washington State",155,,,,25,,,,0,0,
+California,1,Run,34,38,4,"Washington State",155,71,1,10,4,"Jamal Morrow",,,0,0,
+California,1,Pass,34,38,4,"Washington State",155,67,2,6,27,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Run,34,38,4,"Washington State",155,40,1,10,0,"Jamal Morrow",,,0,0,
+California,1,Pass,34,38,4,"Washington State",155,40,2,10,17,"Robert Lewis","Connor Halliday",1,0,1,0
+California,1,Pass,34,38,4,"Washington State",155,23,1,10,14,"Calvin Green","Connor Halliday",1,0,1,0
+California,1,Pass,34,38,4,"Washington State",155,9,1,9,0,"Isiah Myers","Connor Halliday",0,0,0,0
+California,1,Pass,34,45,11,"Washington State",155,9,2,9,9,"Isiah Myers","Connor Halliday",1,1,0,0
+California,1,Kickoff,41,45,4,"Washington State",156,,,,65,,,,0,0,
+California,1,Pass,41,45,4,"Washington State",156,80,1,15,14,"River Cracraft","Connor Halliday",1,0,0,0
+California,1,Pass,41,45,4,"Washington State",156,66,2,1,45,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Pass,41,45,4,"Washington State",156,21,1,10,-5,"Theron West","Connor Halliday",1,0,0,0
+California,1,Run,41,45,4,"Washington State",156,26,2,15,13,"Connor Halliday",,,0,0,
+California,1,Run,41,45,4,"Washington State",156,13,3,2,4,"Theron West",,,0,1,
+California,1,Pass,41,52,11,"Washington State",156,9,1,9,9,"River Cracraft","Connor Halliday",1,1,0,0
+California,1,Kickoff,41,52,11,California,157,,,,17,,,,0,0,
+California,1,Run,41,52,11,California,157,37,1,10,2,"Daniel Lasco",,,0,0,
+California,1,Pass,41,52,11,California,157,39,2,8,6,"Bryce Treggs","Jared Goff",1,0,0,0
+California,1,Pass,41,52,11,California,157,45,3,2,8,"Maurice Harris","Jared Goff",1,0,1,0
+California,1,Pass,41,52,11,California,157,53,1,10,2,"Chris Harper","Jared Goff",1,0,0,0
+California,1,Pass,41,52,11,California,157,55,2,8,43,"Kenny Lawler","Jared Goff",1,0,1,0
+California,1,Pass,41,52,11,California,157,98,1,2,0,"Stephen Anderson","Jared Goff",0,0,0,0
+California,1,Run,41,52,11,California,157,98,2,2,-3,"Daniel Lasco",,,0,0,
+California,1,Pass,48,52,4,California,157,95,3,5,5,"Bryce Treggs","Jared Goff",1,1,0,0
+California,1,Kickoff,48,52,4,"Washington State",158,,,,21,,,,0,0,
+California,1,Pass,48,52,4,"Washington State",158,61,1,10,5,"River Cracraft","Connor Halliday",1,0,0,0
+California,1,Pass,48,52,4,"Washington State",158,56,2,5,0,"Isiah Myers","Connor Halliday",0,0,0,0
+California,1,Pass,48,52,4,"Washington State",158,72,3,21,13,"Jamal Morrow","Connor Halliday",1,0,0,0
+California,1,Punt,48,52,4,"Washington State",158,59,4,8,49,,,,0,0,
+California,1,Pass,48,52,4,California,159,5,1,10,4,"Stephen Anderson","Jared Goff",1,0,0,0
+California,1,Pass,48,52,4,California,159,9,2,6,25,"Bryce Treggs","Jared Goff",1,0,1,0
+California,1,Pass,48,52,4,California,159,34,1,10,18,"Kenny Lawler","Jared Goff",1,0,1,0
+California,1,Pass,48,52,4,California,159,52,1,10,4,"Trevor Davis","Jared Goff",1,0,0,0
+California,1,Run,48,52,4,California,159,56,2,6,5,"Vic Enwere",,,0,0,
+California,1,Run,48,52,4,California,159,61,3,1,0,"Vic Enwere",,,0,0,
+California,1,Run,48,52,4,California,159,61,4,1,9,"Chris Harper",,,0,1,
+California,1,Run,48,52,4,California,159,70,1,10,9,"Daniel Lasco",,,0,0,
+California,1,Pass,48,52,4,California,159,79,2,1,0,"Kenny Lawler","Jared Goff",0,0,0,0
+California,1,Pass,54,52,-2,California,159,79,3,1,21,"Bryce Treggs","Jared Goff",1,1,0,0
+California,1,Kickoff,54,52,-2,"Washington State",160,,,,30,,,,0,0,
+California,1,Run,54,52,-2,"Washington State",160,69,1,10,1,"Jamal Morrow",,,0,0,
+California,1,Run,54,52,-2,"Washington State",160,68,2,9,15,"Gerard Wicks",,,0,1,
+California,1,Pass,54,52,-2,"Washington State",160,53,1,10,10,"Isiah Myers","Connor Halliday",1,0,1,0
+California,1,Pass,54,52,-2,"Washington State",160,43,1,10,7,"Dom Williams","Connor Halliday",1,0,0,0
+California,1,Pass,54,52,-2,"Washington State",160,36,2,3,9,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Pass,54,52,-2,"Washington State",160,27,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+California,1,Run,54,52,-2,"Washington State",160,27,2,10,20,"Gerard Wicks",,,0,1,
+California,1,Pass,54,52,-2,"Washington State",160,7,1,7,0,"Calvin Green","Connor Halliday",0,0,0,0
+California,1,Run,54,52,-2,"Washington State",160,3,1,3,2,"Gerard Wicks",,,0,0,
+California,1,Run,54,59,5,"Washington State",160,1,1,1,1,"Gerard Wicks",,,1,0,
+California,1,Kickoff,54,59,5,California,161,,,,35,,,,0,0,
+California,1,Pass,54,59,5,California,161,35,1,10,5,"Kenny Lawler","Jared Goff",1,0,0,0
+California,1,Run,54,59,5,California,161,40,2,5,9,"Daniel Lasco",,,0,1,
+California,1,Pass,54,59,5,California,161,49,1,10,0,"Bryce Treggs","Jared Goff",0,0,0,0
+California,1,Pass,60,59,-1,California,161,49,2,10,51,"Trevor Davis","Jared Goff",1,1,0,0
+California,1,Kickoff,60,59,-1,"Washington State",162,,,,35,,,,0,0,
+California,1,Pass,60,59,-1,"Washington State",162,70,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+California,1,Pass,60,59,-1,"Washington State",162,70,2,10,21,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Pass,60,59,-1,"Washington State",162,49,1,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+California,1,Pass,60,59,-1,"Washington State",162,49,2,10,8,"Isiah Myers","Connor Halliday",1,0,0,0
+California,1,Run,60,59,-1,"Washington State",162,41,3,2,1,"Jamal Morrow",,,0,0,
+California,1,Pass,60,59,-1,"Washington State",162,40,4,1,5,"River Cracraft","Connor Halliday",1,0,1,0
+California,1,Pass,60,59,-1,"Washington State",162,35,1,10,0,"Calvin Green","Connor Halliday",0,0,0,0
+California,1,Pass,60,59,-1,"Washington State",162,35,2,10,14,"Calvin Green","Connor Halliday",1,0,1,0
+California,1,Pass,60,59,-1,"Washington State",162,21,1,10,17,"Vince Mayle","Connor Halliday",1,0,1,0
+California,1,Run,60,59,-1,"Washington State",162,4,1,4,3,"Gerard Wicks",,,0,0,
+California,1,Run,60,59,-1,"Washington State",162,1,2,1,-1,"Gerard Wicks",,,0,0,
+California,1,"Field Goal",60,59,-1,"Washington State",162,2,3,2,0,,,,0,0,
+California,1,Run,60,59,-1,California,163,20,1,10,-5,TEAM,,,0,0,
+Stanford,0,Kickoff,0,0,0,Stanford,164,,,,30,,,,0,0,
+Stanford,0,Run,0,0,0,Stanford,164,21,1,25,21,"Barry Sanders",,,0,0,
+Stanford,0,Pass,0,0,0,Stanford,164,42,2,4,22,"Ty Montgomery","Kevin Hogan",1,0,1,0
+Stanford,0,Run,0,0,0,Stanford,164,64,1,10,29,"Barry Sanders",,,0,1,
+Stanford,0,Run,0,0,0,Stanford,164,93,1,7,2,"Barry Sanders",,,0,0,
+Stanford,0,Pass,0,0,0,Stanford,164,95,2,5,0,"Devon Cajuste","Kevin Hogan",0,0,0,0
+Stanford,0,Pass,0,0,0,Stanford,164,95,3,5,0,"Devon Cajuste","Kevin Hogan",0,0,0,0
+Stanford,0,"Field Goal",3,0,-3,Stanford,164,95,4,5,0,,,,0,0,
+Stanford,0,Kickoff,3,0,-3,"Washington State",165,,,,65,,,,0,0,
+Stanford,0,Pass,3,0,-3,"Washington State",165,75,1,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+Stanford,0,Pass,3,0,-3,"Washington State",165,64,1,10,1,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,3,0,-3,"Washington State",165,63,2,9,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,3,0,-3,"Washington State",165,63,3,9,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Stanford,0,Punt,3,0,-3,"Washington State",165,63,4,9,2,,,,0,0,
+Stanford,0,Run,3,0,-3,Stanford,166,31,1,10,6,"Remound Wright",,,0,0,
+Stanford,0,Run,3,0,-3,Stanford,166,37,2,4,24,"Christian McCaffrey",,,0,1,
+Stanford,0,Pass,10,0,-10,Stanford,166,61,1,10,39,"Eric Cotton","Kevin Hogan",1,1,0,0
+Stanford,0,Kickoff,10,0,-10,"Washington State",167,,,,65,,,,0,0,
+Stanford,0,Pass,10,0,-10,"Washington State",167,75,1,10,6,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,69,2,4,2,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,67,3,2,1,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,66,4,1,3,"Robert Lewis","Connor Halliday",1,0,1,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,63,1,10,0,"Calvin Green","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,63,2,10,0,"Tyler Baker","Connor Halliday",0,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,63,3,10,9,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,54,4,1,2,"Jamal Morrow","Connor Halliday",1,0,1,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,52,1,10,41,"Vince Mayle","Connor Halliday",1,0,1,0
+Stanford,0,Pass,10,0,-10,"Washington State",167,11,1,10,7,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,10,7,-3,"Washington State",167,9,2,8,9,"Vince Mayle","Connor Halliday",1,1,0,0
+Stanford,0,Kickoff,10,7,-3,Stanford,168,,,,15,,,,0,0,
+Stanford,0,Pass,10,7,-3,Stanford,168,27,1,10,15,"Christian McCaffrey","Kevin Hogan",1,0,1,0
+Stanford,0,Run,10,7,-3,Stanford,168,42,1,10,8,"Barry Sanders",,,0,0,
+Stanford,0,Sacked,10,7,-3,Stanford,168,50,2,2,-8,,,,0,0,
+Stanford,0,Pass,10,7,-3,Stanford,168,42,3,10,0,"Ty Montgomery","Kevin Hogan",0,0,0,0
+Stanford,0,Punt,10,7,-3,Stanford,168,42,4,10,38,,,,0,0,
+Stanford,0,Pass,10,7,-3,"Washington State",169,80,1,10,1,"Vince Mayle","Connor Halliday",1,0,0,0
+Stanford,0,Sacked,10,7,-3,"Washington State",169,79,2,9,-12,,,,0,0,
+Stanford,0,Pass,10,7,-3,"Washington State",169,91,3,21,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Stanford,0,Punt,10,7,-3,"Washington State",169,91,4,21,15,,,,0,0,
+Stanford,0,Run,10,7,-3,Stanford,170,46,1,20,3,"Kelsey Young",,,0,0,
+Stanford,0,Pass,10,7,-3,Stanford,170,49,2,17,14,"Ty Montgomery","Kevin Hogan",1,0,0,0
+Stanford,0,Pass,10,7,-3,Stanford,170,63,3,3,0,"Michael Rector","Kevin Hogan",0,0,0,0
+Stanford,0,Punt,10,7,-3,Stanford,170,63,4,3,34,,,,0,0,
+Stanford,0,Pass,10,7,-3,"Washington State",171,97,1,10,9,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Run,10,7,-3,"Washington State",171,88,2,1,0,"Jamal Morrow",,,0,0,
+Stanford,0,Pass,10,7,-3,"Washington State",171,88,3,1,0,"Robert Lewis","Connor Halliday",0,0,0,0
+Stanford,0,Punt,10,7,-3,"Washington State",171,88,4,1,46,,,,0,0,
+Stanford,0,Pass,10,7,-3,Stanford,172,84,1,10,13,"Austin Hooper","Kevin Hogan",1,0,1,0
+Stanford,0,Run,10,7,-3,Stanford,172,97,1,3,1,"Patrick Skov",,,0,0,
+Stanford,0,Sacked,10,7,-3,Stanford,172,98,2,2,-1,,,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,172,97,3,3,3,"Greg Taboada","Kevin Hogan",1,1,0,0
+Stanford,0,Kickoff,17,7,-10,"Washington State",173,,,,39,,,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",173,61,1,10,6,"Gerard Wicks","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",173,55,2,4,12,"River Cracraft","Connor Halliday",1,0,1,0
+Stanford,0,Pass,17,7,-10,"Washington State",173,43,1,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",173,43,2,10,4,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Sacked,17,7,-10,"Washington State",173,39,3,6,-11,,,,0,0,
+Stanford,0,Punt,17,7,-10,"Washington State",173,50,4,17,50,,,,0,0,
+Stanford,0,Run,17,7,-10,Stanford,174,20,1,10,7,"Barry Sanders",,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,174,27,2,3,6,"Ty Montgomery","Kevin Hogan",1,0,1,0
+Stanford,0,Run,17,7,-10,Stanford,174,33,1,10,4,"Christian McCaffrey",,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,174,37,2,6,0,"Devon Cajuste","Kevin Hogan",0,0,0,0
+Stanford,0,Pass,17,7,-10,Stanford,174,37,3,6,0,,"Kevin Hogan",0,0,0,0
+Stanford,0,Punt,17,7,-10,Stanford,174,37,4,6,12,,,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",175,61,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",175,61,2,10,5,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",175,56,3,5,0,"Gerard Wicks","Connor Halliday",0,0,0,0
+Stanford,0,Punt,17,7,-10,"Washington State",175,56,4,5,56,,,,0,0,
+Stanford,0,Run,17,7,-10,Stanford,176,30,1,10,9,"Remound Wright",,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,176,39,2,1,5,"Barry Sanders","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,17,7,-10,Stanford,176,44,1,10,43,"Michael Rector","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,17,7,-10,Stanford,176,87,1,10,10,"Christian McCaffrey","Kevin Hogan",1,0,1,0
+Stanford,0,Run,17,7,-10,Stanford,176,97,1,3,2,"Patrick Skov",,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",177,98,1,10,7,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",177,91,2,3,13,"River Cracraft","Connor Halliday",1,0,1,0
+Stanford,0,Pass,17,7,-10,"Washington State",177,78,1,10,6,"Tyler Baker","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",177,72,2,4,1,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",177,71,3,3,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Punt,17,7,-10,"Washington State",177,71,4,3,27,,,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,178,44,1,10,22,"Michael Rector","Kevin Hogan",1,0,1,0
+Stanford,0,Run,17,7,-10,Stanford,178,66,1,10,0,"Kevin Hogan",,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,178,66,2,10,18,"Ty Montgomery","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,17,7,-10,Stanford,178,84,1,10,0,"Ty Montgomery","Kevin Hogan",0,0,0,0
+Stanford,0,Pass,17,7,-10,Stanford,178,64,2,30,3,"Kelsey Young","Kevin Hogan",1,0,0,0
+Stanford,0,Pass,17,7,-10,Stanford,178,67,3,27,13,"Devon Cajuste","Kevin Hogan",1,0,0,0
+Stanford,0,"Field Goal",17,7,-10,Stanford,178,80,4,14,0,,,,0,0,
+Stanford,0,Kickoff,17,7,-10,"Washington State",179,,,,65,,,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",179,75,1,10,4,"Robert Lewis","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",179,71,2,6,0,,"Connor Halliday",0,0,0,1
+Stanford,0,Pass,17,7,-10,Stanford,180,66,1,10,0,"Christian McCaffrey","Kevin Hogan",0,0,0,0
+Stanford,0,Run,17,7,-10,Stanford,180,66,2,10,-1,"Remound Wright",,,0,0,
+Stanford,0,Pass,17,7,-10,Stanford,180,60,3,16,10,"Ty Montgomery","Kevin Hogan",1,0,0,0
+Stanford,0,Pass,17,7,-10,Stanford,180,70,4,6,0,"Michael Rector","Kevin Hogan",0,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,70,1,10,4,"Vince Mayle","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,66,2,6,2,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,64,3,4,13,"Isiah Myers","Connor Halliday",1,0,1,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,51,1,10,8,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,43,2,2,0,"Calvin Green","Connor Halliday",0,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,43,3,2,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,43,4,2,13,"Vince Mayle","Connor Halliday",1,0,1,0
+Stanford,0,Run,17,7,-10,"Washington State",181,25,1,5,-1,"Theron West",,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",181,26,2,6,4,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,22,3,2,5,"Theron West","Connor Halliday",1,0,1,0
+Stanford,0,Pass,17,7,-10,"Washington State",181,17,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Stanford,0,Sacked,17,7,-10,"Washington State",181,17,2,10,-20,,,,0,0,
+Stanford,0,Pass,17,7,-10,"Washington State",181,37,2,30,9,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,"Field Goal",17,10,-7,"Washington State",181,28,3,21,0,,,,0,0,
+Stanford,0,Kickoff,17,10,-7,Stanford,182,,,,26,,,,0,0,
+Stanford,0,Pass,17,10,-7,Stanford,182,44,1,10,3,"Ty Montgomery","Kevin Hogan",1,0,0,0
+Stanford,0,Run,17,10,-7,Stanford,182,47,2,7,1,"Barry Sanders",,,0,0,
+Stanford,0,Pass,17,10,-7,Stanford,182,48,3,6,7,"Jeff Trojan","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,17,10,-7,Stanford,182,55,1,10,-1,"Ty Montgomery","Kevin Hogan",1,0,0,0
+Stanford,0,Run,17,10,-7,Stanford,182,54,2,11,5,"Kevin Hogan",,,0,1,
+Stanford,0,Pass,17,10,-7,Stanford,182,69,1,10,3,"Remound Wright","Kevin Hogan",1,0,0,0
+Stanford,0,Run,17,10,-7,Stanford,182,72,2,7,11,"Remound Wright",,,0,1,
+Stanford,0,Pass,17,10,-7,Stanford,182,83,1,10,13,"Jeff Trojan","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,24,10,-14,Stanford,182,96,1,4,4,"Greg Taboada","Kevin Hogan",1,1,0,0
+Stanford,0,Kickoff,24,10,-14,"Washington State",183,,,,65,,,,0,0,
+Stanford,0,Pass,24,10,-14,"Washington State",183,75,1,10,7,"Theron West","Connor Halliday",1,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,68,2,3,14,"River Cracraft","Connor Halliday",1,0,1,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,54,1,10,4,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,50,2,6,0,"Drew Loftus","Connor Halliday",0,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,50,3,6,10,"Vince Mayle","Connor Halliday",1,0,1,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,40,1,10,6,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Run,24,10,-14,"Washington State",183,34,2,4,5,"Jamal Morrow",,,0,1,
+Stanford,0,Pass,24,10,-14,"Washington State",183,29,1,10,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Run,24,10,-14,"Washington State",183,29,2,10,12,"Jamal Morrow",,,0,1,
+Stanford,0,Pass,24,10,-14,"Washington State",183,17,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,17,2,10,8,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,Run,24,10,-14,"Washington State",183,9,3,2,5,"Jamal Morrow",,,0,1,
+Stanford,0,Pass,24,10,-14,"Washington State",183,4,1,4,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,4,2,4,1,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Pass,24,10,-14,"Washington State",183,3,3,3,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Stanford,0,Pass,24,17,-7,"Washington State",183,3,4,3,3,"River Cracraft","Connor Halliday",1,1,0,0
+Stanford,0,Kickoff,24,17,-7,Stanford,184,,,,26,,,,0,0,
+Stanford,0,Pass,24,17,-7,Stanford,184,33,1,10,0,"Austin Hooper","Kevin Hogan",0,0,0,0
+Stanford,0,Run,24,17,-7,Stanford,184,33,2,10,4,"Remound Wright",,,0,0,
+Stanford,0,Pass,24,17,-7,Stanford,184,37,3,6,7,"Devon Cajuste","Kevin Hogan",1,0,1,0
+Stanford,0,Pass,24,17,-7,Stanford,184,44,1,10,0,"Ty Montgomery","Kevin Hogan",0,0,0,0
+Stanford,0,Run,24,17,-7,Stanford,184,44,2,10,1,"Remound Wright",,,0,0,
+Stanford,0,Pass,24,17,-7,Stanford,184,45,3,9,12,"Francis Owusu","Kevin Hogan",1,0,1,0
+Stanford,0,Run,24,17,-7,Stanford,184,57,1,10,9,"Remound Wright",,,0,0,
+Stanford,0,Run,24,17,-7,Stanford,184,80,1,10,0,"Christian McCaffrey",,,0,0,
+Stanford,0,Run,24,17,-7,Stanford,184,80,2,10,3,"Remound Wright",,,0,0,
+Stanford,0,Pass,24,17,-7,Stanford,184,83,3,7,0,"Devon Cajuste","Kevin Hogan",0,0,0,0
+Stanford,0,"Field Goal",27,17,-10,Stanford,184,83,4,7,0,,,,0,0,
+Stanford,0,Kickoff,27,17,-10,"Washington State",185,,,,13,,,,0,0,
+Stanford,0,Pass,27,17,-10,"Washington State",185,88,1,21,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Pass,27,17,-10,"Washington State",185,88,2,21,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Pass,27,17,-10,"Washington State",185,88,3,21,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Punt,27,17,-10,"Washington State",185,88,4,21,35,,,,0,0,
+Stanford,0,Run,27,17,-10,Stanford,186,53,1,10,8,"Remound Wright",,,0,0,
+Stanford,0,Run,27,17,-10,Stanford,186,56,2,7,4,"Remound Wright",,,0,0,
+Stanford,0,Run,27,17,-10,Stanford,186,60,3,3,0,"Barry Sanders",,,0,0,
+Stanford,0,Punt,27,17,-10,Stanford,186,60,4,3,35,,,,0,0,
+Stanford,0,Run,27,17,-10,"Washington State",187,95,1,10,4,"Gerard Wicks",,,0,0,
+Stanford,0,Pass,27,17,-10,"Washington State",187,91,2,6,5,"River Cracraft","Connor Halliday",1,0,0,0
+Stanford,0,Run,27,17,-10,"Washington State",187,86,3,1,5,"Gerard Wicks",,,0,1,
+Stanford,0,Pass,27,17,-10,"Washington State",187,81,1,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,27,17,-10,"Washington State",187,81,2,10,0,"Drew Loftus","Connor Halliday",0,0,0,0
+Stanford,0,Sacked,27,17,-10,"Washington State",187,77,1,20,-13,,,,0,0,
+Stanford,0,Pass,27,17,-10,"Washington State",187,90,2,33,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,27,17,-10,"Washington State",187,90,3,33,0,,"Connor Halliday",0,0,0,0
+Stanford,0,Punt,27,17,-10,"Washington State",187,90,4,33,34,,,,0,0,
+Stanford,0,Run,27,17,-10,Stanford,188,56,1,10,6,"Remound Wright",,,0,0,
+Stanford,0,Run,27,17,-10,Stanford,188,62,2,4,28,"Remound Wright",,,0,1,
+Stanford,0,Run,27,17,-10,Stanford,188,90,1,10,4,"Remound Wright",,,0,0,
+Stanford,0,Run,34,17,-17,Stanford,188,94,2,6,6,"Remound Wright",,,1,0,
+Stanford,0,Kickoff,34,17,-17,"Washington State",189,,,,15,,,,0,0,
+Stanford,0,Pass,34,17,-17,"Washington State",189,85,1,10,5,"Isiah Myers","Connor Halliday",1,0,0,0
+Stanford,0,Pass,34,17,-17,"Washington State",189,80,2,5,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Stanford,0,Pass,34,17,-17,"Washington State",189,85,3,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Stanford,0,Pass,34,17,-17,"Washington State",189,90,4,15,11,"Jamal Morrow","Connor Halliday",1,0,0,0
+Stanford,0,Run,34,17,-17,Stanford,190,79,1,10,-1,TEAM,,,0,0,
+Stanford,0,Run,34,17,-17,Stanford,190,78,2,11,-1,TEAM,,,0,0,
+Arizona,0,Kickoff,0,0,0,"Washington State",191,,,,65,,,,0,0,
+Arizona,1,Pass,0,0,0,"Washington State",191,75,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Arizona,0,Pass,0,0,0,"Washington State",191,75,2,10,3,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,1,Pass,0,0,0,"Washington State",191,72,3,7,0,"River Cracraft","Connor Halliday",0,0,0,0
+Arizona,0,Punt,7,0,-7,"Washington State",191,72,4,7,81,,,,1,0,
+Arizona,1,Kickoff,7,0,-7,"Washington State",192,,,,65,,,,0,0,
+Arizona,0,Run,7,0,-7,"Washington State",192,75,1,10,16,"Jamal Morrow",,,0,1,
+Arizona,1,Pass,7,0,-7,"Washington State",192,59,1,10,1,"Isiah Myers","Connor Halliday",1,0,0,0
+Arizona,0,Run,7,0,-7,"Washington State",192,58,2,9,3,"Jamal Morrow",,,0,0,
+Arizona,1,Pass,7,0,-7,"Washington State",192,55,3,6,0,"River Cracraft","Connor Halliday",0,0,0,0
+Arizona,0,Punt,7,0,-7,"Washington State",192,55,4,6,53,,,,0,0,
+Arizona,1,Pass,7,0,-7,Arizona,193,2,1,10,15,"Cayleb Jones","Anu Solomon",1,0,1,0
+Arizona,0,Pass,7,0,-7,Arizona,193,17,1,10,21,,"Anu Solomon",1,0,1,0
+Arizona,1,Pass,7,0,-7,Arizona,193,38,1,10,7,"Austin Hill","Anu Solomon",1,0,0,0
+Arizona,0,Run,7,0,-7,Arizona,193,45,2,3,14,"Anu Solomon",,,0,1,
+Arizona,1,Run,7,0,-7,Arizona,193,59,1,10,2,"Terris Jones-Grigsby",,,0,0,
+Arizona,0,Pass,7,0,-7,Arizona,193,61,2,8,3,"Samajie Grant","Anu Solomon",1,0,0,0
+Arizona,1,Pass,7,0,-7,Arizona,193,64,3,5,9,"Samajie Grant","Anu Solomon",1,0,1,0
+Arizona,0,Pass,7,0,-7,Arizona,193,73,1,10,0,"Nate Phillips","Anu Solomon",0,0,0,0
+Arizona,1,Sacked,7,0,-7,Arizona,193,73,2,10,-3,,,,0,0,
+Arizona,1,Run,7,0,-7,Arizona,193,85,1,10,-2,"Nick Wilson",,,0,0,
+Arizona,0,Pass,7,0,-7,Arizona,193,83,2,12,0,,"Anu Solomon",0,0,0,0
+Arizona,1,Pass,7,0,-7,Arizona,193,83,3,12,3,"Nick Wilson","Anu Solomon",1,0,0,0
+Arizona,0,"Field Goal",10,0,-10,Arizona,193,86,4,9,0,,,,0,0,
+Arizona,1,Kickoff,10,0,-10,"Washington State",194,,,,65,,,,0,0,
+Arizona,0,Run,10,0,-10,"Washington State",194,75,1,10,8,"Gerard Wicks",,,0,0,
+Arizona,1,Pass,10,0,-10,"Washington State",194,67,2,2,9,"Gerard Wicks","Connor Halliday",1,0,1,0
+Arizona,0,Pass,10,0,-10,"Washington State",194,58,1,10,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Arizona,1,Pass,10,0,-10,"Washington State",194,58,2,10,0,"River Cracraft","Connor Halliday",0,0,0,0
+Arizona,0,Pass,10,0,-10,"Washington State",194,58,3,10,14,"River Cracraft","Connor Halliday",1,0,1,0
+Arizona,1,Pass,10,0,-10,"Washington State",194,44,1,10,0,"Vince Mayle","Connor Halliday",0,0,0,0
+Arizona,0,Sacked,10,0,-10,"Washington State",194,44,2,10,-2,,,,0,0,
+Arizona,1,Pass,10,0,-10,"Washington State",194,46,3,12,0,"River Cracraft","Connor Halliday",0,0,0,0
+Arizona,0,Punt,10,0,-10,"Washington State",194,46,4,12,46,,,,0,0,
+Arizona,1,Pass,10,0,-10,Arizona,195,20,1,10,18,"Cayleb Jones","Anu Solomon",1,0,1,0
+Arizona,0,Run,10,0,-10,Arizona,195,38,1,10,4,"Anu Solomon",,,0,0,
+Arizona,1,Pass,10,0,-10,Arizona,195,42,2,6,4,"Samajie Grant","Anu Solomon",1,0,0,0
+Arizona,0,Pass,10,0,-10,Arizona,195,46,3,2,4,"Nick Wilson","Anu Solomon",1,0,1,0
+Arizona,1,Pass,10,0,-10,Arizona,195,50,1,10,11,"Cayleb Jones","Anu Solomon",1,0,1,0
+Arizona,0,Pass,10,0,-10,Arizona,195,61,1,10,6,,"Anu Solomon",1,0,0,0
+Arizona,1,Pass,10,0,-10,Arizona,195,67,2,4,30,"Austin Hill","Anu Solomon",1,0,1,0
+Arizona,0,Run,10,0,-10,Arizona,195,97,1,3,1,"Nick Wilson",,,0,0,
+Arizona,1,Pass,10,0,-10,Arizona,195,98,2,2,0,"Cayleb Jones","Anu Solomon",0,0,0,0
+Arizona,0,Pass,17,0,-17,Arizona,195,98,3,2,2,,"Anu Solomon",1,1,0,0
+Arizona,1,Kickoff,17,0,-17,"Washington State",196,,,,65,,,,0,0,
+Arizona,0,Pass,17,0,-17,"Washington State",196,75,1,10,4,"Gerard Wicks","Connor Halliday",1,0,0,0
+Arizona,1,Run,17,0,-17,"Washington State",196,71,2,6,3,"Gerard Wicks",,,0,0,
+Arizona,0,Pass,17,0,-17,"Washington State",196,68,3,3,2,"Gerard Wicks","Connor Halliday",1,0,0,0
+Arizona,1,Run,17,0,-17,"Washington State",196,66,4,1,0,"Gerard Wicks",,,0,0,
+Arizona,0,Run,17,0,-17,Arizona,197,66,1,10,-6,"Terris Jones-Grigsby",,,0,0,
+Arizona,1,Pass,17,0,-17,Arizona,197,60,2,16,15,,"Anu Solomon",1,0,0,0
+Arizona,0,Run,17,0,-17,Arizona,197,75,3,1,4,"Anu Solomon",,,0,1,
+Arizona,1,Pass,17,0,-17,Arizona,197,79,1,10,0,"Nate Phillips","Anu Solomon",0,0,0,0
+Arizona,0,Pass,24,0,-24,Arizona,197,79,2,10,21,"Nate Phillips","Anu Solomon",1,1,0,0
+Arizona,1,Kickoff,24,0,-24,"Washington State",198,,,,17,,,,0,0,
+Arizona,0,Pass,24,0,-24,"Washington State",198,91,1,10,0,,"Connor Halliday",0,0,0,0
+Arizona,1,Pass,24,0,-24,"Washington State",198,91,2,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+Arizona,0,Pass,24,0,-24,"Washington State",198,80,1,10,5,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,1,Pass,24,0,-24,"Washington State",198,75,2,5,14,"Jamal Morrow","Connor Halliday",1,0,1,0
+Arizona,1,Pass,24,0,-24,"Washington State",198,61,1,10,5,"Dom Williams","Connor Halliday",1,0,0,0
+Arizona,0,Sacked,24,0,-24,"Washington State",198,56,2,5,-7,,,,0,0,
+Arizona,1,Pass,24,0,-24,"Washington State",198,63,3,12,17,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,0,Pass,24,0,-24,"Washington State",198,46,1,10,0,,"Connor Halliday",0,0,0,0
+Arizona,1,Pass,24,0,-24,"Washington State",198,46,2,10,0,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,0,Pass,24,0,-24,"Washington State",198,46,3,10,0,,"Connor Halliday",0,0,0,1
+Arizona,1,Pass,24,0,-24,Arizona,199,32,1,10,3,"Jonathan Haden","Anu Solomon",1,0,0,0
+Arizona,0,Run,24,0,-24,Arizona,199,35,2,7,2,"Nick Wilson",,,0,1,
+Arizona,1,Run,24,0,-24,Arizona,199,52,1,10,7,"Nick Wilson",,,0,0,
+Arizona,0,Run,24,0,-24,Arizona,199,59,2,3,4,"Nick Wilson",,,0,1,
+Arizona,1,Pass,24,0,-24,Arizona,199,63,1,10,0,"David Richards","Anu Solomon",0,0,0,0
+Arizona,0,Run,24,0,-24,Arizona,199,63,2,10,2,"Nick Wilson",,,0,0,
+Arizona,1,Pass,24,0,-24,Arizona,199,65,3,8,13,"Cayleb Jones","Anu Solomon",1,0,1,0
+Arizona,1,Run,24,0,-24,Arizona,199,83,1,5,1,"Nick Wilson",,,0,0,
+Arizona,1,Pass,24,0,-24,Arizona,199,92,1,8,0,,"Anu Solomon",0,0,0,0
+Arizona,0,Run,24,0,-24,Arizona,199,92,2,8,0,"Anu Solomon",,,0,0,
+Arizona,1,Pass,24,0,-24,Arizona,199,92,3,8,5,"Nate Phillips","Anu Solomon",1,0,0,0
+Arizona,1,Pass,31,0,-31,Arizona,199,97,4,3,3,"Cayleb Jones","Anu Solomon",1,1,0,0
+Arizona,0,Kickoff,31,0,-31,"Washington State",200,,,,25,,,,0,0,
+Arizona,1,Pass,31,0,-31,"Washington State",200,60,1,10,8,"River Cracraft","Connor Halliday",1,0,0,0
+Arizona,0,Pass,31,0,-31,"Washington State",200,52,2,2,8,"Dom Williams","Connor Halliday",1,0,1,0
+Arizona,1,Pass,31,0,-31,"Washington State",200,44,1,10,4,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,0,Pass,31,0,-31,"Washington State",200,40,2,6,5,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,1,Run,31,0,-31,"Washington State",200,35,3,1,3,"Jamal Morrow",,,0,1,
+Arizona,1,Pass,31,0,-31,"Washington State",200,37,1,15,0,"River Cracraft","Connor Halliday",0,0,0,0
+Arizona,0,Pass,31,7,-24,"Washington State",200,37,2,15,37,"Isiah Myers","Connor Halliday",1,1,0,0
+Arizona,1,Kickoff,31,7,-24,Arizona,201,,,,65,,,,0,0,
+Arizona,0,Pass,31,7,-24,Arizona,201,25,1,10,0,,"Anu Solomon",0,0,0,0
+Arizona,1,Run,31,7,-24,Arizona,201,25,2,10,17,"Terris Jones-Grigsby",,,0,1,
+Arizona,1,Run,31,7,-24,Arizona,201,37,1,15,3,"Terris Jones-Grigsby",,,0,0,
+Arizona,0,Pass,31,7,-24,Arizona,201,40,2,12,0,,"Anu Solomon",0,0,0,0
+Arizona,1,Pass,31,7,-24,Arizona,201,40,3,12,0,,"Anu Solomon",0,0,0,0
+Arizona,0,Punt,31,7,-24,Arizona,201,40,4,12,51,,,,0,0,
+Arizona,1,Pass,31,7,-24,"Washington State",202,90,1,10,8,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,0,Pass,31,7,-24,"Washington State",202,82,2,2,2,"Robert Lewis","Connor Halliday",1,0,1,0
+Arizona,1,Pass,31,7,-24,"Washington State",202,80,1,10,-5,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,0,Pass,31,7,-24,"Washington State",202,85,2,15,6,"Rickey Galvin","Connor Halliday",1,0,0,0
+Arizona,0,Pass,31,7,-24,"Washington State",202,69,1,10,11,"Isiah Myers","Connor Halliday",1,0,1,0
+Arizona,0,Run,31,7,-24,"Washington State",202,48,1,10,8,"Jamal Morrow",,,0,0,
+Arizona,1,Pass,31,7,-24,"Washington State",202,40,2,2,5,"Dom Williams","Connor Halliday",1,0,1,0
+Arizona,1,Pass,31,7,-24,"Washington State",202,35,1,10,17,"Isiah Myers","Connor Halliday",1,0,1,0
+Arizona,0,Pass,31,13,-18,"Washington State",202,18,1,10,18,"Isiah Myers","Connor Halliday",1,1,0,0
+Arizona,1,Kickoff,31,13,-18,"Washington State",203,,,,11,,,,0,0,
+Arizona,0,Run,31,13,-18,"Washington State",203,17,1,10,3,"Jamal Morrow",,,0,0,
+Arizona,1,Pass,31,13,-18,"Washington State",203,14,2,7,0,,"Connor Halliday",0,0,0,0
+Arizona,0,Sacked,31,13,-18,"Washington State",203,14,3,7,-9,,,,0,0,
+Arizona,0,"Field Goal",31,16,-15,"Washington State",203,23,4,16,0,,,,0,0,
+Arizona,1,Kickoff,31,16,-15,Arizona,204,,,,65,,,,0,0,
+Arizona,0,Run,31,16,-15,Arizona,204,25,1,10,-2,TEAM,,,0,0,
+Arizona,1,Kickoff,31,16,-15,Arizona,205,,,,38,,,,0,0,
+Arizona,0,Pass,31,16,-15,Arizona,205,39,1,10,0,"Cayleb Jones","Anu Solomon",0,0,0,0
+Arizona,1,Pass,31,16,-15,Arizona,205,39,2,10,0,,"Anu Solomon",0,0,0,0
+Arizona,0,Pass,31,16,-15,Arizona,205,39,3,10,41,"Samajie Grant","Anu Solomon",1,0,1,0
+Arizona,1,Run,31,16,-15,Arizona,205,80,1,10,6,"Anu Solomon",,,0,0,
+Arizona,0,Pass,31,16,-15,Arizona,205,86,2,4,12,"Cayleb Jones","Anu Solomon",1,0,1,0
+Arizona,1,Run,38,16,-22,Arizona,205,98,1,2,2,"Nick Wilson",,,1,0,
+Arizona,0,Kickoff,38,16,-22,"Washington State",206,,,,65,,,,0,0,
+Arizona,1,Pass,38,16,-22,"Washington State",206,75,1,10,-3,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,0,Pass,38,16,-22,"Washington State",206,78,2,13,0,"Drew Loftus","Connor Halliday",0,0,0,0
+Arizona,1,Pass,38,16,-22,"Washington State",206,78,3,13,3,"Tyler Baker","Connor Halliday",1,0,0,0
+Arizona,0,Punt,38,16,-22,"Washington State",206,75,4,10,-1,,,,0,0,
+Arizona,1,Run,38,16,-22,Arizona,207,23,1,10,13,"Terris Jones-Grigsby",,,0,1,
+Arizona,0,Run,38,16,-22,Arizona,207,36,1,10,38,"Terris Jones-Grigsby",,,0,1,
+Arizona,0,Run,38,16,-22,Arizona,207,74,1,10,8,"Terris Jones-Grigsby",,,0,0,
+Arizona,1,Run,38,16,-22,Arizona,207,82,2,2,10,"Terris Jones-Grigsby",,,0,1,
+Arizona,0,Run,38,16,-22,Arizona,207,92,1,8,4,"Terris Jones-Grigsby",,,0,0,
+Arizona,0,Run,38,16,-22,Arizona,207,81,2,19,5,"Anu Solomon",,,0,0,
+Arizona,1,Pass,45,16,-29,Arizona,207,86,3,14,14,"Austin Hill","Anu Solomon",1,1,0,0
+Arizona,0,Kickoff,45,16,-29,"Washington State",208,,,,28,,,,0,0,
+Arizona,1,Run,45,16,-29,"Washington State",208,64,1,10,3,"Gerard Wicks",,,0,0,
+Arizona,0,Sacked,45,16,-29,"Washington State",208,61,2,7,0,,,,0,0,
+Arizona,1,Pass,45,16,-29,"Washington State",208,39,3,7,27,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,0,Pass,45,16,-29,"Washington State",208,19,1,10,3,"Robert Lewis","Connor Halliday",1,0,0,0
+Arizona,0,Pass,45,16,-29,"Washington State",208,16,3,7,-1,"Gerard Wicks","Connor Halliday",1,0,0,0
+Arizona,1,Pass,45,16,-29,"Washington State",208,17,4,8,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Arizona,0,Pass,45,16,-29,Arizona,209,17,1,10,0,,"Anu Solomon",0,0,0,0
+Arizona,0,Run,45,16,-29,Arizona,209,12,2,15,0,"Nick Wilson",,,0,0,
+Arizona,1,Pass,45,16,-29,Arizona,209,12,3,15,6,"Cayleb Jones","Anu Solomon",1,0,0,0
+Arizona,0,Punt,45,16,-29,Arizona,209,18,4,9,59,,,,0,0,
+Arizona,1,Run,45,16,-29,"Washington State",210,77,1,10,1,"Gerard Wicks",,,0,0,
+Arizona,0,Pass,45,16,-29,"Washington State",210,76,2,9,2,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,1,Pass,45,16,-29,"Washington State",210,74,3,7,11,"Robert Lewis","Connor Halliday",1,0,1,0
+Arizona,0,Pass,45,16,-29,"Washington State",210,63,1,10,6,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,1,Pass,45,16,-29,"Washington State",210,57,2,4,1,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,1,Pass,45,16,-29,"Washington State",210,61,3,8,0,,"Connor Halliday",0,0,0,1
+Arizona,0,Run,45,16,-29,Arizona,211,46,1,10,9,"Terris Jones-Grigsby",,,0,0,
+Arizona,1,Run,45,16,-29,Arizona,211,55,2,1,2,"Terris Jones-Grigsby",,,0,1,
+Arizona,0,Pass,45,16,-29,Arizona,211,57,1,10,3,"Tyrell Johnson","Anu Solomon",1,0,0,0
+Arizona,1,Run,45,16,-29,Arizona,211,60,2,7,3,"Terris Jones-Grigsby",,,0,0,
+Arizona,1,Run,45,16,-29,Arizona,211,67,1,10,6,"Anu Solomon",,,0,1,
+Arizona,0,Pass,52,16,-36,Arizona,211,87,1,10,13,"Trey Griffey","Anu Solomon",1,1,0,0
+Arizona,1,Kickoff,52,16,-36,"Washington State",212,,,,65,,,,0,0,
+Arizona,0,Pass,52,16,-36,"Washington State",212,75,1,10,0,"Dom Williams","Connor Halliday",1,0,0,0
+Arizona,1,Pass,52,16,-36,"Washington State",212,75,2,10,24,"Tyler Baker","Connor Halliday",1,0,1,0
+Arizona,0,Run,52,16,-36,"Washington State",212,51,1,10,-1,"Gerard Wicks",,,0,0,
+Arizona,0,Run,52,16,-36,"Washington State",212,52,2,11,7,"Connor Halliday",,,0,0,
+Arizona,1,Pass,52,16,-36,"Washington State",212,45,3,4,3,"Rickey Galvin","Connor Halliday",1,0,0,0
+Arizona,0,Run,52,16,-36,"Washington State",212,42,4,1,2,"Gerard Wicks",,,0,1,
+Arizona,1,Pass,52,16,-36,"Washington State",212,40,1,10,0,"Dom Williams","Connor Halliday",1,0,0,0
+Arizona,0,Pass,52,16,-36,"Washington State",212,40,2,10,16,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,1,Pass,52,16,-36,"Washington State",212,24,1,10,1,"Gerard Wicks","Connor Halliday",1,0,0,0
+Arizona,0,Pass,52,16,-36,"Washington State",212,23,2,9,22,"Jamal Morrow","Connor Halliday",1,0,1,0
+Arizona,1,Run,52,16,-36,"Washington State",212,1,1,1,0,"Gerard Wicks",,,0,0,
+Arizona,0,Run,52,23,-29,"Washington State",212,1,2,1,1,"Gerard Wicks",,,1,0,
+Arizona,1,Run,52,23,-29,Arizona,213,44,1,24,1,"Nick Wilson",,,0,0,
+Arizona,0,Run,52,23,-29,Arizona,213,45,2,23,-5,"Anu Solomon",,,0,0,
+Arizona,1,Pass,52,23,-29,Arizona,213,40,3,28,12,"Austin Hill","Anu Solomon",1,0,0,0
+Arizona,0,Punt,52,23,-29,Arizona,213,52,4,16,48,,,,0,0,
+Arizona,1,Pass,52,23,-29,"Washington State",214,80,1,10,13,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,0,Pass,52,23,-29,"Washington State",214,67,1,10,2,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,1,Pass,52,23,-29,"Washington State",214,65,2,8,0,"Isiah Myers","Connor Halliday",0,0,0,0
+Arizona,0,Pass,52,23,-29,"Washington State",214,65,3,8,14,"Dom Williams","Connor Halliday",1,0,1,0
+Arizona,1,Pass,52,23,-29,"Washington State",214,51,1,10,9,"Rickey Galvin","Connor Halliday",1,0,0,0
+Arizona,0,Pass,52,23,-29,"Washington State",214,42,2,1,7,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,1,Pass,52,23,-29,"Washington State",214,35,1,10,0,"Dom Williams","Connor Halliday",0,0,0,0
+Arizona,0,Pass,52,23,-29,"Washington State",214,35,2,10,12,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,1,Pass,52,23,-29,"Washington State",214,23,1,10,0,"Dom Williams","Connor Halliday",0,0,0,0
+Arizona,0,Pass,52,23,-29,"Washington State",214,23,2,10,0,"Tyler Baker","Connor Halliday",0,0,0,0
+Arizona,0,Pass,52,30,-22,"Washington State",214,8,1,8,8,"Vince Mayle","Connor Halliday",1,1,0,0
+Arizona,0,Kickoff,59,30,-29,"Washington State",215,,,,17,,,,0,0,
+Arizona,1,Run,59,30,-29,"Washington State",215,82,1,10,15,"Jamal Morrow",,,0,1,
+Arizona,0,Pass,59,30,-29,"Washington State",215,67,1,10,24,"Tyler Baker","Connor Halliday",1,0,1,0
+Arizona,1,Pass,59,30,-29,"Washington State",215,43,1,10,0,,"Connor Halliday",0,0,0,0
+Arizona,0,Pass,59,30,-29,"Washington State",215,43,2,10,0,,"Connor Halliday",0,0,0,0
+Arizona,0,Pass,59,30,-29,"Washington State",215,48,3,15,11,"Jamal Morrow","Connor Halliday",1,0,0,0
+Arizona,1,Pass,59,30,-29,"Washington State",215,37,4,4,0,"Dom Williams","Connor Halliday",0,0,0,0
+Arizona,0,Run,59,30,-29,Arizona,216,37,1,10,4,"Terris Jones-Grigsby",,,0,0,
+Arizona,1,Run,59,30,-29,Arizona,216,41,2,6,4,"Zach Green",,,0,0,
+Arizona,0,Run,59,30,-29,Arizona,216,45,3,2,1,"Zach Green",,,0,0,
+Arizona,0,Punt,59,30,-29,Arizona,216,46,4,1,19,,,,0,0,
+Arizona,0,Pass,59,30,-29,"Washington State",217,65,1,10,0,"Tyler Baker","Connor Halliday",0,0,0,0
+Arizona,1,Pass,59,30,-29,"Washington State",217,65,2,10,9,"Vince Mayle","Connor Halliday",1,0,0,0
+Arizona,0,Pass,59,30,-29,"Washington State",217,56,3,1,13,"Vince Mayle","Connor Halliday",1,0,1,0
+Arizona,1,Pass,59,30,-29,"Washington State",217,43,1,10,18,"Jamal Morrow","Connor Halliday",1,0,1,0
+Arizona,0,Pass,59,30,-29,"Washington State",217,25,1,10,9,"Robert Lewis","Connor Halliday",1,0,0,0
+Arizona,1,Pass,59,30,-29,"Washington State",217,16,2,1,8,"Dom Williams","Connor Halliday",1,0,1,0
+Arizona,0,Pass,59,37,-22,"Washington State",217,8,1,8,8,"Tyler Baker","Connor Halliday",1,1,0,0
+Arizona,1,Kickoff,59,37,-22,Arizona,218,,,,41,,,,0,0,
+Arizona,0,Run,59,37,-22,Arizona,218,24,1,10,-2,TEAM,,,0,0,
+USC,1,Kickoff,0,0,0,USC,219,,,,13,,,,0,0,
+USC,1,Pass,0,0,0,USC,219,18,1,10,20,"George Farmer","Cody Kessler",1,0,1,0
+USC,1,Pass,0,0,0,USC,219,38,1,10,24,"George Farmer","Cody Kessler",1,0,1,0
+USC,1,Run,0,0,0,USC,219,62,1,10,0,"Javorius Allen",,,0,0,
+USC,1,Pass,0,0,0,USC,219,62,2,10,0,"Javorius Allen","Cody Kessler",0,0,0,0
+USC,1,Pass,0,0,0,USC,219,62,3,10,0,"Javorius Allen","Cody Kessler",0,0,0,0
+USC,1,Punt,0,0,0,USC,219,62,4,10,23,,,,0,0,
+USC,1,Pass,0,0,0,"Washington State",220,85,1,10,0,,"Connor Halliday",0,0,0,0
+USC,1,Pass,0,0,0,"Washington State",220,85,2,10,6,"Tyler Baker","Connor Halliday",1,0,0,0
+USC,1,Pass,0,0,0,"Washington State",220,79,3,4,0,"Rickey Galvin","Connor Halliday",1,0,0,0
+USC,1,Punt,7,0,-7,"Washington State",220,79,4,4,65,,,,1,0,
+USC,1,Kickoff,7,0,-7,"Washington State",221,,,,23,,,,0,0,
+USC,1,Pass,7,0,-7,"Washington State",221,75,1,10,7,"Theron West","Connor Halliday",1,0,0,0
+USC,1,Pass,7,0,-7,"Washington State",221,78,2,13,19,,"Connor Halliday",0,0,0,1
+USC,1,Pass,7,0,-7,USC,222,81,1,10,17,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Pass,7,0,-7,USC,222,78,1,22,0,"Randall Telfer","Cody Kessler",0,0,0,0
+USC,1,Pass,14,0,-14,USC,222,78,2,22,22,"JuJu Smith","Cody Kessler",1,1,0,0
+USC,1,Kickoff,14,0,-14,"Washington State",223,,,,6,,,,0,0,
+USC,1,Pass,14,0,-14,"Washington State",223,92,1,10,9,"Jamal Morrow","Connor Halliday",1,0,0,0
+USC,1,Run,14,0,-14,"Washington State",223,83,2,1,2,"Jamal Morrow",,,0,1,
+USC,1,Pass,14,0,-14,"Washington State",223,81,1,10,4,"Robert Lewis","Connor Halliday",1,0,0,0
+USC,1,Pass,14,0,-14,"Washington State",223,77,2,6,0,"Robert Lewis","Connor Halliday",0,0,0,0
+USC,1,Pass,14,0,-14,"Washington State",223,77,3,6,14,"Vince Mayle","Connor Halliday",1,0,1,0
+USC,1,Pass,14,0,-14,"Washington State",223,63,1,10,8,"Vince Mayle","Luke Falk",1,0,0,0
+USC,1,Run,14,0,-14,"Washington State",223,55,2,2,1,"Jamal Morrow",,,0,0,
+USC,1,Run,14,0,-14,"Washington State",223,54,3,1,7,"Luke Falk",,,0,1,
+USC,1,Pass,14,0,-14,"Washington State",223,47,1,10,0,"Vince Mayle","Luke Falk",1,0,0,0
+USC,1,Run,14,0,-14,"Washington State",223,47,2,10,0,"Jamal Morrow",,,0,0,
+USC,1,Pass,14,0,-14,"Washington State",223,47,3,10,0,"Isiah Myers","Luke Falk",0,0,0,0
+USC,1,Punt,14,0,-14,"Washington State",223,47,4,10,32,,,,0,0,
+USC,1,Pass,14,0,-14,USC,224,15,1,10,6,"Nelson Agholor","Cody Kessler",1,0,0,0
+USC,1,Pass,14,0,-14,USC,224,11,2,14,-1,"Justin Davis","Cody Kessler",1,0,0,0
+USC,1,Run,14,0,-14,USC,224,10,3,15,6,"Justin Davis",,,0,0,
+USC,1,Punt,14,0,-14,USC,224,16,4,9,44,,,,0,0,
+USC,1,Run,14,0,-14,"Washington State",225,60,1,10,5,"Theron West",,,0,0,
+USC,1,Run,14,0,-14,"Washington State",225,55,2,5,5,"Jamal Morrow",,,0,1,
+USC,1,Run,14,0,-14,"Washington State",225,50,1,10,2,"Jamal Morrow",,,0,0,
+USC,1,Pass,14,0,-14,"Washington State",225,48,2,8,6,"Jamal Morrow","Luke Falk",1,0,0,0
+USC,1,Run,14,0,-14,"Washington State",225,42,3,2,-7,"Luke Falk",,,0,0,
+USC,1,Punt,14,0,-14,"Washington State",225,49,4,9,39,,,,0,0,
+USC,1,Run,14,0,-14,USC,226,10,1,10,2,"Javorius Allen",,,0,0,
+USC,1,Run,14,0,-14,USC,226,7,2,13,8,"Javorius Allen",,,0,0,
+USC,1,Pass,14,0,-14,USC,226,15,3,5,17,"George Farmer","Cody Kessler",1,0,1,0
+USC,1,Run,14,0,-14,USC,226,32,1,10,19,"Javorius Allen",,,0,1,
+USC,1,Run,14,0,-14,USC,226,51,1,10,3,"Javorius Allen",,,0,0,
+USC,1,Sacked,14,0,-14,USC,226,54,2,7,-9,,,,0,0,
+USC,1,Pass,14,0,-14,USC,226,45,3,16,0,"JuJu Smith","Cody Kessler",0,0,0,0
+USC,1,Punt,14,0,-14,USC,226,45,4,16,52,,,,0,0,
+USC,1,Run,14,0,-14,"Washington State",227,97,1,10,14,"Theron West",,,0,1,
+USC,1,Run,14,0,-14,"Washington State",227,83,1,10,-3,"Theron West",,,0,0,
+USC,1,Pass,14,0,-14,"Washington State",227,86,2,13,8,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Pass,14,0,-14,"Washington State",227,78,3,5,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Punt,14,0,-14,"Washington State",227,78,4,5,47,,,,0,0,
+USC,1,Pass,14,0,-14,USC,228,31,1,10,49,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Run,14,0,-14,USC,228,80,1,10,0,"Justin Davis",,,0,0,
+USC,1,Pass,14,0,-14,USC,228,80,2,10,0,"Justin Davis","Cody Kessler",0,0,0,0
+USC,1,Pass,14,0,-14,USC,228,80,3,10,0,"George Farmer","Cody Kessler",0,0,0,0
+USC,1,"Field Goal",17,0,-17,USC,228,80,4,10,0,,,,0,0,
+USC,1,Kickoff,17,0,-17,"Washington State",229,,,,65,,,,0,0,
+USC,1,Pass,17,0,-17,"Washington State",229,75,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Pass,17,0,-17,"Washington State",229,75,2,10,0,,"Luke Falk",0,0,0,0
+USC,1,Pass,17,0,-17,"Washington State",229,75,3,10,0,,"Luke Falk",0,0,0,0
+USC,1,Punt,17,0,-17,"Washington State",229,75,4,10,44,,,,0,0,
+USC,1,Pass,17,0,-17,USC,230,31,1,10,4,"JuJu Smith","Cody Kessler",1,0,0,0
+USC,1,Run,17,0,-17,USC,230,35,2,6,0,"Javorius Allen",,,0,0,
+USC,1,Pass,17,0,-17,USC,230,35,3,6,4,"JuJu Smith","Cody Kessler",1,0,0,0
+USC,1,Punt,17,0,-17,USC,230,39,4,2,33,,,,0,0,
+USC,1,Run,17,0,-17,"Washington State",231,72,1,10,1,"Theron West",,,0,0,
+USC,1,Pass,17,0,-17,"Washington State",231,81,2,19,4,"Jamal Morrow","Luke Falk",1,0,0,0
+USC,1,Pass,17,0,-17,"Washington State",231,77,3,15,13,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Pass,17,0,-17,"Washington State",231,64,4,2,0,"Rickey Galvin","Luke Falk",0,0,0,0
+USC,1,Pass,17,0,-17,USC,232,64,1,10,14,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Pass,24,0,-24,USC,232,78,1,10,22,"JuJu Smith","Cody Kessler",1,1,0,0
+USC,1,Kickoff,24,0,-24,"Washington State",233,,,,19,,,,0,0,
+USC,1,Pass,24,0,-24,"Washington State",233,81,1,10,5,"Theron West","Luke Falk",1,0,0,0
+USC,1,Pass,24,0,-24,"Washington State",233,76,2,5,19,"Tyler Baker","Luke Falk",1,0,1,0
+USC,1,Pass,24,0,-24,"Washington State",233,57,1,10,7,"Robert Lewis","Luke Falk",1,0,0,0
+USC,1,Run,24,0,-24,"Washington State",233,50,2,3,3,"Luke Falk",,,0,1,
+USC,1,Run,24,0,-24,"Washington State",233,47,1,10,2,"Jamal Morrow",,,0,0,
+USC,1,Pass,24,0,-24,"Washington State",233,45,2,8,6,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Pass,24,0,-24,"Washington State",233,39,3,2,7,"Dom Williams","Luke Falk",1,0,1,0
+USC,1,Pass,24,0,-24,"Washington State",233,32,1,10,0,"Jamal Morrow","Luke Falk",1,0,0,0
+USC,1,Pass,24,0,-24,"Washington State",233,32,2,10,0,"Rickey Galvin","Luke Falk",0,0,0,0
+USC,1,Pass,24,0,-24,"Washington State",233,32,3,10,23,"Robert Lewis","Luke Falk",1,0,1,0
+USC,1,Pass,24,7,-17,"Washington State",233,9,1,9,9,"Robert Lewis","Luke Falk",1,1,0,0
+USC,1,Kickoff,24,7,-17,USC,234,,,,19,,,,0,0,
+USC,1,Pass,24,7,-17,USC,234,19,1,10,0,"Javorius Allen","Cody Kessler",0,0,0,0
+USC,1,Run,24,7,-17,USC,234,19,2,10,2,"Javorius Allen",,,0,0,
+USC,1,Pass,24,7,-17,USC,234,21,3,8,18,"Javorius Allen","Cody Kessler",1,0,1,0
+USC,1,Pass,24,7,-17,USC,234,39,1,10,0,"Randall Telfer","Cody Kessler",0,0,0,0
+USC,1,Sacked,24,7,-17,USC,234,39,2,10,-6,,,,0,0,
+USC,1,Pass,24,7,-17,USC,234,33,3,16,0,"Javorius Allen","Cody Kessler",0,0,0,0
+USC,1,Punt,24,7,-17,USC,234,33,4,16,34,,,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",235,67,1,10,7,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",235,60,2,3,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",235,60,3,3,22,,"Luke Falk",0,0,0,1
+USC,1,Kickoff,24,7,-17,"Washington State",236,,,,29,,,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",236,70,1,10,27,"Rickey Galvin","Luke Falk",1,0,1,0
+USC,1,Run,24,7,-17,"Washington State",236,43,1,10,-6,"Jamal Morrow",,,0,0,
+USC,1,Sacked,24,7,-17,"Washington State",236,49,2,16,-9,,,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",236,58,3,25,14,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Punt,24,7,-17,"Washington State",236,44,4,11,26,,,,0,0,
+USC,1,Run,24,7,-17,USC,237,18,1,10,0,"Javorius Allen",,,0,0,
+USC,1,Pass,24,7,-17,USC,237,18,2,10,11,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Sacked,24,7,-17,USC,237,29,1,10,-4,,,,0,0,
+USC,1,Pass,24,7,-17,USC,237,25,2,14,15,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Run,24,7,-17,USC,237,40,1,10,-1,"Javorius Allen",,,0,0,
+USC,1,Run,24,7,-17,USC,237,39,2,11,2,"Javorius Allen",,,0,0,
+USC,1,Pass,24,7,-17,USC,237,41,3,9,0,"Randall Telfer","Cody Kessler",0,0,0,0
+USC,1,Punt,24,7,-17,USC,237,41,4,9,43,,,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",238,84,1,10,9,"Vince Mayle","Luke Falk",1,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",238,75,2,1,32,"Vince Mayle","Luke Falk",1,0,1,0
+USC,1,Run,24,7,-17,"Washington State",238,43,1,10,4,"Luke Falk",,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",238,39,2,6,5,"Jamal Morrow","Luke Falk",1,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",238,34,3,1,0,"Rickey Galvin","Luke Falk",0,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",238,34,4,1,2,"Vince Mayle","Luke Falk",1,0,1,0
+USC,1,Pass,24,7,-17,"Washington State",238,32,1,10,12,"Theron West","Luke Falk",1,0,1,0
+USC,1,Pass,24,7,-17,"Washington State",238,20,1,10,11,"Dom Williams","Luke Falk",1,0,1,0
+USC,1,Run,24,7,-17,"Washington State",238,9,1,9,-1,"Theron West",,,0,0,
+USC,1,Pass,24,7,-17,"Washington State",238,10,2,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Pass,24,7,-17,"Washington State",238,10,3,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,"Field Goal",24,10,-14,"Washington State",238,10,4,10,0,,,,0,0,
+USC,1,Kickoff,24,10,-14,USC,239,,,,52,,,,0,0,
+USC,1,Pass,24,10,-14,USC,239,13,1,10,0,"George Farmer","Cody Kessler",0,0,0,0
+USC,1,Pass,31,10,-21,USC,239,13,2,10,87,"Nelson Agholor","Cody Kessler",1,1,0,0
+USC,1,Kickoff,31,10,-21,"Washington State",240,,,,21,,,,0,0,
+USC,1,Run,31,10,-21,"Washington State",240,77,1,10,5,"Luke Falk",,,0,0,
+USC,1,Pass,31,10,-21,"Washington State",240,72,2,5,-1,"Dom Williams","Luke Falk",1,0,0,0
+USC,1,Pass,31,10,-21,"Washington State",240,73,3,6,0,"Tyler Baker","Luke Falk",0,0,0,0
+USC,1,Punt,31,10,-21,"Washington State",240,73,4,6,6,,,,0,0,
+USC,1,Run,31,10,-21,USC,241,28,1,10,2,"Javorius Allen",,,0,0,
+USC,1,Run,31,10,-21,USC,241,30,2,8,17,"Javorius Allen",,,0,1,
+USC,1,Run,31,10,-21,USC,241,47,1,10,22,"Justin Davis",,,0,1,
+USC,1,Run,31,10,-21,USC,241,69,1,10,-1,"Justin Davis",,,0,0,
+USC,1,Run,31,10,-21,USC,241,68,2,11,3,"Justin Davis",,,0,0,
+USC,1,Run,31,10,-21,USC,241,71,3,8,1,"Justin Davis",,,0,0,
+USC,1,Pass,31,10,-21,USC,241,72,4,7,21,"Nelson Agholor","Cody Kessler",1,0,1,0
+USC,1,Pass,37,10,-27,USC,241,93,1,7,7,"JuJu Smith","Cody Kessler",1,1,0,0
+USC,1,Kickoff,37,10,-27,"Washington State",242,,,,65,,,,0,0,
+USC,1,Run,37,10,-27,"Washington State",242,75,1,10,1,"Theron West",,,0,0,
+USC,1,Run,37,10,-27,"Washington State",242,74,2,9,26,"Theron West",,,0,1,
+USC,1,Pass,37,10,-27,"Washington State",242,48,1,10,2,"Jamal Morrow","Luke Falk",1,0,0,0
+USC,1,Pass,37,10,-27,"Washington State",242,46,2,8,8,"Vince Mayle","Luke Falk",1,0,1,0
+USC,1,Pass,37,10,-27,"Washington State",242,38,1,10,1,"Vince Mayle","Luke Falk",1,0,0,0
+USC,1,Pass,37,10,-27,"Washington State",242,37,2,9,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Pass,37,10,-27,"Washington State",242,37,3,9,18,"Theron West","Luke Falk",1,0,1,0
+USC,1,Run,37,10,-27,"Washington State",242,19,1,10,-11,"Luke Falk",,,0,0,
+USC,1,Run,37,10,-27,USC,243,30,1,10,13,"Javorius Allen",,,0,1,
+USC,1,Run,37,10,-27,USC,243,43,1,10,9,"Javorius Allen",,,0,0,
+USC,1,Pass,37,10,-27,USC,243,52,2,1,15,"JuJu Smith","Cody Kessler",1,0,1,0
+USC,1,Pass,37,10,-27,USC,243,72,1,20,23,"Steven Mitchell","Cody Kessler",1,0,1,0
+USC,1,Pass,44,10,-34,USC,243,95,1,5,5,"Steven Mitchell","Cody Kessler",1,1,0,0
+USC,1,Kickoff,44,10,-34,"Washington State",244,,,,19,,,,0,0,
+USC,1,Pass,44,10,-34,"Washington State",244,79,1,10,8,"Isiah Myers","Luke Falk",1,0,0,0
+USC,1,Run,44,10,-34,"Washington State",244,71,2,2,6,"Luke Falk",,,0,1,
+USC,1,Pass,44,10,-34,"Washington State",244,55,1,15,6,"Theron West","Luke Falk",1,0,0,0
+USC,1,Pass,44,10,-34,"Washington State",244,49,2,9,10,"Tyler Baker","Luke Falk",1,0,1,0
+USC,1,Pass,44,10,-34,"Washington State",244,39,1,10,7,"Rickey Galvin","Luke Falk",1,0,0,0
+USC,1,Pass,44,10,-34,"Washington State",244,32,2,3,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Run,44,10,-34,"Washington State",244,22,1,10,-3,"Theron West",,,0,0,
+USC,1,Pass,44,10,-34,"Washington State",244,25,2,13,7,"Robert Lewis","Luke Falk",1,0,0,0
+USC,1,Pass,44,10,-34,"Washington State",244,18,3,6,9,"Vince Mayle","Luke Falk",1,0,1,0
+USC,1,Run,44,10,-34,"Washington State",244,9,1,9,1,"Theron West",,,0,0,
+USC,1,Pass,44,10,-34,"Washington State",244,8,2,8,0,"Dom Williams","Luke Falk",0,0,0,0
+USC,1,Pass,44,10,-34,"Washington State",244,8,3,8,0,"Vince Mayle","Luke Falk",0,0,0,0
+USC,1,Pass,44,10,-34,"Washington State",244,8,4,8,0,"Dom Williams","Luke Falk",0,0,0,0
+USC,1,Run,44,10,-34,USC,245,8,1,10,-1,"Javorius Allen",,,0,0,
+USC,1,Sacked,44,10,-34,"Washington State",246,7,1,7,-6,,,,0,0,
+USC,1,Pass,44,10,-34,"Washington State",246,13,2,13,6,"Tyler Baker","Luke Falk",1,0,0,0
+USC,1,Sacked,44,10,-34,"Washington State",246,7,3,7,-5,,,,0,0,
+USC,1,Pass,44,17,-27,"Washington State",246,12,4,12,12,"Isiah Myers","Luke Falk",1,1,0,0
+USC,1,Kickoff,44,17,-27,USC,247,,,,35,,,,0,0,
+USC,1,Run,44,17,-27,USC,247,40,1,10,8,"Javorius Allen",,,0,0,
+USC,1,Run,44,17,-27,USC,247,48,2,2,9,"Javorius Allen",,,0,1,
+USC,1,Run,44,17,-27,USC,247,57,1,10,6,"Javorius Allen",,,0,0,
+USC,1,Run,44,17,-27,USC,247,63,2,4,16,"Javorius Allen",,,0,1,
+USC,1,Run,44,17,-27,USC,247,79,1,10,1,"Justin Davis",,,0,0,
+USC,1,Run,44,17,-27,USC,247,80,2,9,5,"Justin Davis",,,0,0,
+USC,1,Run,44,17,-27,USC,247,85,3,4,-12,TEAM,,,0,0,
+USC,1,Run,44,17,-27,USC,247,73,4,16,7,"Justin Davis",,,0,0,
+USC,1,Pass,44,17,-27,"Washington State",248,80,1,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+USC,1,Pass,44,17,-27,"Washington State",248,80,2,10,7,"Theron West","Luke Falk",1,0,0,0
+USC,1,Pass,44,17,-27,"Washington State",248,73,3,3,36,"Theron West","Luke Falk",1,0,1,0
+"Oregon State",0,Kickoff,0,0,0,"Oregon State",249,,,,65,,,,0,0,
+"Oregon State",0,Pass,0,0,0,"Oregon State",249,25,1,10,49,"Rahmel Dockery","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,0,0,0,"Oregon State",249,74,1,10,13,"Xavier Hawkins",,,0,1,
+"Oregon State",0,Run,0,0,0,"Oregon State",249,87,1,10,-1,"Terron Ward",,,0,0,
+"Oregon State",0,Pass,7,0,-7,"Oregon State",249,86,2,11,14,"Connor Hamlett","Sean Mannion",1,1,0,0
+"Oregon State",0,Kickoff,7,0,-7,"Washington State",250,,,,22,,,,0,0,
+"Oregon State",0,Run,7,0,-7,"Washington State",250,72,1,10,2,"Marcus Mason",,,0,0,
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,70,2,8,8,"Rickey Galvin","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,62,1,10,6,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,56,2,4,5,"John Thompson","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,51,1,10,27,"Vince Mayle","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,24,1,10,3,"Isiah Myers","Luke Falk",1,0,0,0
+"Oregon State",0,Run,7,0,-7,"Washington State",250,21,2,7,13,"Jamal Morrow",,,0,1,
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,8,1,8,0,"Rickey Galvin","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,7,0,-7,"Washington State",250,8,2,8,0,,"Luke Falk",0,0,0,0
+"Oregon State",0,Sacked,7,0,-7,"Washington State",250,8,3,8,-6,,,,0,0,
+"Oregon State",0,"Field Goal",7,0,-7,"Washington State",250,14,4,14,0,,,,0,0,
+"Oregon State",0,Pass,7,0,-7,"Oregon State",251,20,1,10,14,"Chris Brown","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,7,0,-7,"Oregon State",251,34,1,10,38,"Victor Bolden","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,7,0,-7,"Oregon State",251,72,1,10,6,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Run,7,0,-7,"Oregon State",251,78,2,4,10,"Chris Brown",,,0,1,
+"Oregon State",0,Pass,7,0,-7,"Oregon State",251,88,1,10,0,"Chris Brown","Sean Mannion",0,0,0,0
+"Oregon State",0,Run,7,0,-7,"Oregon State",251,88,2,10,-1,"Chris Brown",,,0,0,
+"Oregon State",0,Pass,7,0,-7,"Oregon State",251,87,3,11,6,"Jordan Villamin","Sean Mannion",1,0,0,0
+"Oregon State",0,"Field Goal",10,0,-10,"Oregon State",251,93,4,5,0,,,,0,0,
+"Oregon State",0,Kickoff,10,0,-10,"Washington State",252,,,,65,,,,0,0,
+"Oregon State",0,Run,10,0,-10,"Washington State",252,75,1,10,1,"Jamal Morrow",,,0,0,
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,74,2,9,10,"Robert Lewis","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,64,1,10,11,"Isiah Myers","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,53,1,10,10,"Isiah Myers","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,43,1,10,7,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,36,2,3,21,"Robert Lewis","Luke Falk",1,0,1,0
+"Oregon State",0,Run,10,0,-10,"Washington State",252,15,1,10,13,"Jamal Morrow",,,0,1,
+"Oregon State",0,Run,10,0,-10,"Washington State",252,2,1,2,-3,"Jamal Morrow",,,0,0,
+"Oregon State",0,Pass,10,0,-10,"Washington State",252,5,2,5,0,"Marcus Mason","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,10,7,-3,"Washington State",252,5,3,5,5,"Isiah Myers","Luke Falk",1,1,0,0
+"Oregon State",0,Kickoff,10,7,-3,"Oregon State",253,,,,4,,,,0,0,
+"Oregon State",0,Pass,10,7,-3,"Oregon State",253,14,1,10,7,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Run,10,7,-3,"Oregon State",253,21,2,3,-2,"Terron Ward",,,0,0,
+"Oregon State",0,Pass,10,7,-3,"Oregon State",253,19,3,5,0,"Jordan Villamin","Sean Mannion",0,0,0,0
+"Oregon State",0,Punt,10,7,-3,"Oregon State",253,19,4,5,49,,,,0,0,
+"Oregon State",0,Pass,10,7,-3,"Washington State",254,79,1,10,3,"Tyler Baker","Luke Falk",1,0,0,0
+"Oregon State",0,Run,10,7,-3,"Washington State",254,76,2,7,4,"Luke Falk",,,0,0,
+"Oregon State",0,Pass,10,7,-3,"Washington State",254,72,3,3,16,"Vince Mayle","Luke Falk",1,0,1,0
+"Oregon State",0,Run,10,7,-3,"Washington State",254,56,1,10,4,"Jamal Morrow",,,0,0,
+"Oregon State",0,Pass,10,7,-3,"Washington State",254,52,2,6,22,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Run,10,7,-3,"Washington State",254,30,1,10,9,"Luke Falk",,,0,0,
+"Oregon State",0,Pass,10,14,4,"Washington State",254,21,2,1,21,"Tyler Baker","Luke Falk",1,1,0,0
+"Oregon State",0,Kickoff,10,14,4,"Oregon State",255,,,,19,,,,0,0,
+"Oregon State",0,Run,10,14,4,"Oregon State",255,27,1,10,4,"Sean Mannion",,,0,0,
+"Oregon State",0,Run,10,14,4,"Oregon State",255,31,2,6,0,"Victor Bolden",,,0,0,
+"Oregon State",0,Pass,10,14,4,"Oregon State",255,31,3,6,0,"Jordan Villamin","Sean Mannion",0,0,0,0
+"Oregon State",0,Punt,10,14,4,"Oregon State",255,31,4,6,46,,,,0,0,
+"Oregon State",0,Run,10,14,4,"Washington State",256,77,1,10,3,"Jamal Morrow",,,0,0,
+"Oregon State",0,Run,10,14,4,"Washington State",256,74,2,7,-1,"Marcus Mason",,,0,0,
+"Oregon State",0,Pass,10,14,4,"Washington State",256,70,3,3,8,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,10,14,4,"Washington State",256,62,1,10,9,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,10,14,4,"Washington State",256,53,2,1,0,"Jamal Morrow","Luke Falk",0,0,0,0
+"Oregon State",0,Sacked,10,14,4,"Washington State",256,53,3,1,-6,,,,0,0,
+"Oregon State",0,Punt,10,14,4,"Washington State",256,64,4,12,40,,,,0,0,
+"Oregon State",0,Run,10,14,4,"Oregon State",257,24,1,10,1,"Chris Brown",,,0,0,
+"Oregon State",0,Pass,10,14,4,"Oregon State",257,25,2,9,28,"Jordan Villamin","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,10,14,4,"Oregon State",257,53,1,10,13,"Chris Brown",,,0,1,
+"Oregon State",0,Pass,10,14,4,"Oregon State",257,66,1,10,4,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Run,10,14,4,"Oregon State",257,70,2,6,1,"Chris Brown",,,0,0,
+"Oregon State",0,Pass,10,14,4,"Oregon State",257,71,3,5,14,"Jordan Villamin","Sean Mannion",1,0,1,0
+"Oregon State",0,Sacked,10,14,4,"Oregon State",257,85,1,10,-9,,,,0,0,
+"Oregon State",0,Pass,10,14,4,"Oregon State",257,76,2,19,5,"Terron Ward","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,10,14,4,"Oregon State",257,81,3,14,-1,"Terron Ward","Sean Mannion",1,0,0,0
+"Oregon State",0,"Field Goal",13,14,1,"Oregon State",257,80,4,15,0,,,,0,0,
+"Oregon State",0,Kickoff,13,14,1,"Washington State",258,,,,1,,,,0,0,
+"Oregon State",0,Pass,13,14,1,"Washington State",258,70,1,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,13,14,1,"Washington State",258,70,2,10,11,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Run,13,14,1,"Washington State",258,59,1,10,11,"Jamal Morrow",,,0,1,
+"Oregon State",0,Pass,13,21,8,"Washington State",258,48,1,10,48,"Vince Mayle","Luke Falk",1,1,0,0
+"Oregon State",0,Kickoff,13,21,8,"Oregon State",259,,,,41,,,,0,0,
+"Oregon State",0,Pass,13,21,8,"Oregon State",259,48,1,10,0,"Hunter Jarmon","Sean Mannion",0,0,0,0
+"Oregon State",0,Sacked,13,21,8,"Oregon State",259,48,2,10,-8,,,,0,0,
+"Oregon State",0,Pass,13,21,8,"Oregon State",259,40,3,18,28,"Hunter Jarmon","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,13,21,8,"Oregon State",259,68,1,10,7,"Caleb Smith","Sean Mannion",1,0,0,0
+"Oregon State",0,Sacked,13,21,8,"Oregon State",259,75,2,3,-10,,,,0,0,
+"Oregon State",0,Pass,13,21,8,"Oregon State",259,65,3,13,8,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,"Field Goal",16,21,5,"Oregon State",259,73,4,5,0,,,,0,0,
+"Oregon State",0,Kickoff,16,21,5,"Washington State",260,,,,9,,,,0,0,
+"Oregon State",0,Pass,16,21,5,"Washington State",260,72,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Kickoff,16,21,5,"Washington State",261,,,,23,,,,0,0,
+"Oregon State",0,Pass,16,21,5,"Washington State",261,75,1,10,4,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,71,2,6,21,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,50,1,10,3,"Robert Lewis","Luke Falk",1,0,0,0
+"Oregon State",0,Run,16,21,5,"Washington State",261,47,2,7,2,"Jamal Morrow",,,0,0,
+"Oregon State",0,Pass,16,21,5,"Washington State",261,45,3,5,5,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,40,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,30,1,10,2,"Marcus Mason","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,28,2,8,-1,"Isiah Myers","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,29,3,9,14,"Rickey Galvin","Luke Falk",1,0,1,0
+"Oregon State",0,Run,16,21,5,"Washington State",261,15,1,10,2,"Jamal Morrow",,,0,0,
+"Oregon State",0,Pass,16,21,5,"Washington State",261,13,2,8,0,"Isiah Myers","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,16,21,5,"Washington State",261,13,3,8,0,"Dom Williams","Luke Falk",0,0,0,0
+"Oregon State",0,"Field Goal",16,24,8,"Washington State",261,13,4,8,0,,,,0,0,
+"Oregon State",0,Kickoff,16,24,8,"Oregon State",262,,,,45,,,,0,0,
+"Oregon State",0,Pass,16,24,8,"Oregon State",262,20,1,10,18,"Connor Hamlett","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,16,24,8,"Oregon State",262,38,1,10,7,"Terron Ward",,,0,0,
+"Oregon State",0,Pass,16,24,8,"Oregon State",262,45,2,3,6,"Terron Ward","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,16,24,8,"Oregon State",262,51,1,10,17,"Terron Ward",,,0,1,
+"Oregon State",0,Run,16,24,8,"Oregon State",262,83,1,10,4,"Terron Ward",,,0,0,
+"Oregon State",0,Run,16,24,8,"Oregon State",262,87,2,6,10,"Terron Ward",,,0,1,
+"Oregon State",0,Run,16,24,8,"Oregon State",262,97,1,3,2,"Terron Ward",,,0,0,
+"Oregon State",0,Run,22,24,2,"Oregon State",262,99,2,1,1,"Terron Ward",,,1,0,
+"Oregon State",0,Kickoff,22,24,2,"Washington State",263,,,,22,,,,0,0,
+"Oregon State",0,Sacked,22,24,2,"Washington State",263,73,1,10,-1,,,,0,0,
+"Oregon State",0,Pass,22,24,2,"Washington State",263,74,2,11,-2,"Rickey Galvin","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",263,76,3,13,0,"Robert Lewis","Luke Falk",0,0,0,0
+"Oregon State",0,Punt,22,24,2,"Washington State",263,76,4,13,2,,,,0,0,
+"Oregon State",0,Pass,22,24,2,"Oregon State",264,20,1,20,16,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,22,24,2,"Oregon State",264,36,2,4,0,"Caleb Smith","Sean Mannion",0,0,0,0
+"Oregon State",0,Pass,22,24,2,"Oregon State",264,36,3,4,0,"Jordan Villamin","Sean Mannion",0,0,0,0
+"Oregon State",0,Punt,22,24,2,"Oregon State",264,36,4,4,-1,,,,0,0,
+"Oregon State",0,Pass,22,24,2,"Washington State",265,82,1,10,5,"Isiah Myers","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,77,2,5,11,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,66,1,10,3,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,63,2,7,20,"Isiah Myers","Luke Falk pass complete to Isiah Myers for 20 yds to the OREGONST 43 for a 1ST down OREGON ST roughing Penalty",1,0,1,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,28,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,28,2,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,28,3,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,22,24,2,"Washington State",265,28,4,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,22,24,2,"Oregon State",266,28,1,10,29,"Jordan Villamin","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,22,24,2,"Oregon State",266,57,1,10,5,"Terron Ward",,,0,0,
+"Oregon State",0,Pass,22,24,2,"Oregon State",266,62,2,5,22,"Victor Bolden","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,22,24,2,"Oregon State",266,74,1,10,3,"Ricky Ortiz","Sean Mannion",1,0,0,0
+"Oregon State",0,Sacked,22,24,2,"Oregon State",266,77,2,7,-11,,,,0,0,
+"Oregon State",0,Pass,22,24,2,"Oregon State",266,66,3,18,5,"Caleb Smith","Sean Mannion",1,0,0,0
+"Oregon State",0,"Field Goal",25,24,-1,"Oregon State",266,71,4,13,0,,,,0,0,
+"Oregon State",0,Kickoff,25,24,-1,"Washington State",267,,,,23,,,,0,0,
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,70,1,10,11,"Jamal Morrow","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,59,1,10,24,"Vince Mayle","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,35,1,10,7,"Robert Lewis","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,28,2,3,0,"Isiah Myers","Luke Falk",0,0,0,0
+"Oregon State",0,Run,25,24,-1,"Washington State",267,28,3,3,5,"Luke Falk",,,0,1,
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,23,1,10,0,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,23,2,10,11,"Rickey Galvin","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,24,-1,"Washington State",267,12,1,10,0,"Jamal Morrow","Luke Falk",0,0,0,0
+"Oregon State",0,Sacked,25,24,-1,"Washington State",267,12,2,10,-6,,,,0,0,
+"Oregon State",0,Pass,25,32,7,"Washington State",267,18,3,16,18,"Dom Williams","Luke Falk pass complete to Dom Williams for 18 yds for a TD, (Luke Falk",1,1,0,0
+"Oregon State",0,Kickoff,25,32,7,"Oregon State",268,,,,19,,,,0,0,
+"Oregon State",0,Pass,25,32,7,"Oregon State",268,15,1,10,7,"Chris Brown","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,25,32,7,"Oregon State",268,22,2,3,7,"Victor Bolden","Sean Mannion",1,0,1,0
+"Oregon State",0,Run,25,32,7,"Oregon State",268,29,1,10,-2,"Sean Mannion",,,0,0,
+"Oregon State",0,Pass,25,32,7,"Oregon State",268,14,2,25,10,"Terron Ward","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,25,32,7,"Oregon State",268,24,3,15,0,"Terron Ward","Sean Mannion",0,0,0,0
+"Oregon State",0,Punt,25,32,7,"Oregon State",268,24,4,15,28,,,,0,0,
+"Oregon State",0,Pass,25,32,7,"Washington State",269,52,1,10,7,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,25,32,7,"Washington State",269,45,2,3,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Oregon State",0,Pass,25,32,7,"Washington State",269,45,3,3,5,"Robert Lewis","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,32,7,"Washington State",269,40,1,10,20,"Vince Mayle","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,32,7,"Washington State",269,20,1,10,11,"Tyler Baker","Luke Falk",1,0,1,0
+"Oregon State",0,Pass,25,39,14,"Washington State",269,9,1,9,9,"Robert Lewis","Luke Falk",1,1,0,0
+"Oregon State",0,Kickoff,25,39,14,"Oregon State",270,,,,25,,,,0,0,
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,25,1,10,9,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,34,2,1,0,"Connor Hamlett","Sean Mannion",0,0,0,0
+"Oregon State",0,Run,25,39,14,"Oregon State",270,34,3,1,5,"Terron Ward",,,0,1,
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,39,1,10,11,"Connor Hamlett","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,50,1,10,0,"Victor Bolden","Sean Mannion",0,0,0,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,65,1,10,20,"Hunter Jarmon","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,85,1,10,9,"Victor Bolden","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,79,2,16,13,"Terron Ward","Sean Mannion",1,0,0,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,92,3,3,7,"Jordan Villamin","Sean Mannion",1,0,1,0
+"Oregon State",0,Pass,25,39,14,"Oregon State",270,99,1,1,0,"Jordan Villamin","Sean Mannion",0,0,0,0
+"Oregon State",0,Run,32,39,7,"Oregon State",270,99,2,1,1,"Terron Ward",,,1,0,
+"Oregon State",0,Kickoff,32,39,7,"Washington State",271,,,,65,,,,0,0,
+"Oregon State",0,Pass,32,39,7,"Washington State",271,70,1,10,4,"Jamal Morrow","Luke Falk",1,0,0,0
+"Oregon State",0,Pass,32,39,7,"Washington State",271,66,2,6,8,"Vince Mayle","Luke Falk",1,0,1,0
+"Oregon State",0,Run,32,39,7,"Washington State",271,58,1,10,3,"Marcus Mason",,,0,0,
+"Oregon State",0,Run,32,39,7,"Washington State",271,55,2,7,-2,"Marcus Mason",,,0,0,
+"Oregon State",0,Run,32,39,7,"Washington State",271,57,3,9,-10,"Luke Falk",,,0,1,
+"Oregon State",0,Run,32,39,7,"Washington State",271,52,1,10,-2,TEAM,,,0,0,
+"Arizona State",0,Kickoff,0,0,0,"Arizona State",272,,,,18,,,,0,0,
+"Arizona State",0,Pass,0,0,0,"Arizona State",272,18,1,10,0,,"Taylor Kelly",0,0,0,0
+"Arizona State",0,Run,0,0,0,"Arizona State",272,18,2,10,2,"Demario Richard",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Arizona State",272,20,3,8,0,,"Taylor Kelly",0,0,0,0
+"Arizona State",0,Pass,0,0,0,"Washington State",273,75,1,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Run,0,0,0,"Washington State",273,75,2,10,4,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",273,71,3,6,9,"Isiah Myers","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,0,0,0,"Washington State",273,62,1,10,0,,"Luke Falk",0,0,0,0
+"Arizona State",0,Run,0,0,0,"Washington State",273,62,2,10,4,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",273,58,3,6,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Arizona State",0,Run,0,0,0,"Washington State",273,58,4,6,3,"Jordan Dascalo",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Arizona State",274,55,1,10,-4,,"Taylor Kelly",1,0,0,0
+"Arizona State",0,Pass,0,0,0,"Arizona State",274,51,2,14,0,,"Taylor Kelly",0,0,0,0
+"Arizona State",0,Sacked,0,0,0,"Arizona State",274,51,3,14,-6,,,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",275,99,1,10,45,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,0,0,0,"Washington State",275,54,1,10,8,"Isiah Myers","Luke Falk",1,0,0,0
+"Arizona State",0,Run,0,0,0,"Washington State",275,46,2,2,4,"Jamal Morrow",,,0,1,
+"Arizona State",0,Pass,0,0,0,"Washington State",275,42,1,10,2,"Dom Williams","Luke Falk",1,0,0,0
+"Arizona State",0,Run,0,0,0,"Washington State",275,40,2,8,-3,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",275,43,3,11,0,"Isiah Myers","Luke Falk",0,0,0,0
+"Arizona State",0,Punt,0,0,0,"Washington State",275,43,4,11,43,,,,0,0,
+"Arizona State",0,Run,0,0,0,"Arizona State",276,20,1,10,4,"Deantre Lewis",,,0,0,
+"Arizona State",0,Run,0,0,0,"Arizona State",276,24,2,6,-3,"Deantre Lewis",,,0,0,
+"Arizona State",0,Sacked,0,0,0,"Arizona State",276,21,3,9,-9,,,,0,0,
+"Arizona State",0,Punt,0,0,0,"Arizona State",276,12,4,18,41,,,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",277,53,1,10,18,"Tyler Baker","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,0,0,0,"Washington State",277,35,1,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,0,0,0,"Washington State",277,35,2,10,3,"Jamal Morrow","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,0,0,0,"Washington State",277,32,3,7,0,,"Luke Falk",0,0,0,0
+"Arizona State",0,Pass,0,0,0,"Washington State",277,32,4,7,10,"Dom Williams","Luke Falk",1,0,1,0
+"Arizona State",0,Run,0,0,0,"Washington State",277,22,1,10,2,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",277,20,2,8,17,"Tyler Baker","Luke Falk",1,0,1,0
+"Arizona State",0,Run,0,0,0,"Washington State",277,3,1,3,2,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,0,0,0,"Washington State",277,1,2,1,0,"Rickey Galvin","Luke Falk",0,0,0,0
+"Arizona State",0,Run,0,7,7,"Washington State",277,1,3,1,1,"Luke Falk",,,1,0,
+"Arizona State",0,Kickoff,0,7,7,"Arizona State",278,,,,28,,,,0,0,
+"Arizona State",0,Pass,0,7,7,"Arizona State",278,31,1,10,0,,"Taylor Kelly",0,0,0,0
+"Arizona State",0,Sacked,0,7,7,"Arizona State",278,31,2,10,-4,,,,0,0,
+"Arizona State",0,Sacked,0,7,7,"Arizona State",278,27,3,14,-3,,,,0,0,
+"Arizona State",0,Punt,0,7,7,"Arizona State",278,24,4,17,56,,,,0,0,
+"Arizona State",0,Pass,0,7,7,"Washington State",279,80,1,10,0,,"Luke Falk",0,0,0,1
+"Arizona State",0,Run,0,7,7,"Arizona State",280,38,1,10,-3,"Taylor Kelly",,,0,0,
+"Arizona State",0,Pass,0,7,7,"Arizona State",280,35,2,13,42,,"Taylor Kelly",1,0,1,0
+"Arizona State",0,Pass,0,7,7,"Arizona State",280,77,1,10,6,,"Taylor Kelly",1,0,0,0
+"Arizona State",0,Run,7,7,0,"Arizona State",280,83,2,4,17,"D.J. Foster",,,1,0,
+"Arizona State",0,Kickoff,7,7,0,"Washington State",281,,,,65,,,,0,0,
+"Arizona State",0,Pass,7,7,0,"Washington State",281,75,1,10,25,"Jamal Morrow","Luke Falk",1,0,1,0
+"Arizona State",0,Run,7,7,0,"Washington State",281,50,1,10,0,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,7,7,0,"Washington State",281,50,2,10,15,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Run,7,7,0,"Washington State",281,35,1,10,5,"Marcus Mason",,,0,0,
+"Arizona State",0,Pass,7,7,0,"Washington State",281,30,2,5,1,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Sacked,7,7,0,"Washington State",281,24,1,10,-3,,,,0,0,
+"Arizona State",0,Pass,7,7,0,"Washington State",281,27,2,13,14,"River Cracraft","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,7,7,0,"Washington State",281,13,1,10,12,"Isiah Myers","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,7,7,0,"Washington State",281,1,1,1,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,7,7,0,"Washington State",281,1,2,1,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,7,14,7,"Washington State",281,1,3,1,1,"Rickey Galvin","Luke Falk",1,1,0,0
+"Arizona State",0,Kickoff,7,14,7,"Arizona State",282,,,,16,,,,0,0,
+"Arizona State",0,Run,7,14,7,"Arizona State",282,16,1,10,0,"Kalen Ballage",,,0,0,
+"Arizona State",0,Pass,7,14,7,"Arizona State",282,16,2,10,0,,"Taylor Kelly",0,0,0,0
+"Arizona State",0,Pass,7,14,7,"Arizona State",282,16,3,10,0,"Ellis Jefferson","Taylor Kelly",0,0,0,0
+"Arizona State",0,Punt,7,14,7,"Arizona State",282,16,4,10,53,,,,0,0,
+"Arizona State",0,Pass,7,14,7,"Washington State",283,69,1,10,2,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Run,7,14,7,"Washington State",283,67,2,8,1,"Theron West",,,0,0,
+"Arizona State",0,Pass,7,14,7,"Washington State",283,66,3,7,0,"Robert Lewis","Luke Falk",0,0,0,0
+"Arizona State",0,Punt,7,14,7,"Washington State",283,66,4,7,38,,,,0,0,
+"Arizona State",0,Run,7,14,7,"Arizona State",284,28,1,10,7,"D.J. Foster",,,0,0,
+"Arizona State",0,Pass,7,14,7,"Arizona State",284,35,2,3,0,"Cameron Smith","Taylor Kelly",0,0,0,0
+"Arizona State",0,Pass,7,14,7,"Arizona State",284,35,3,3,0,"Ellis Jefferson","Taylor Kelly",0,0,0,0
+"Arizona State",0,Punt,7,14,7,"Arizona State",284,35,4,3,65,,,,0,0,
+"Arizona State",0,Pass,7,14,7,"Washington State",285,75,1,5,20,"Jamal Morrow","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,7,14,7,"Washington State",285,55,1,10,0,,"Luke Falk",0,0,0,0
+"Arizona State",0,Pass,7,14,7,"Washington State",285,55,2,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,7,14,7,"Washington State",285,50,3,5,34,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Sacked,7,14,7,"Washington State",285,16,1,10,-4,,,,0,0,
+"Arizona State",0,Pass,7,21,14,"Washington State",285,20,2,14,20,"Isiah Myers","Luke Falk",1,1,0,0
+"Arizona State",0,Kickoff,7,21,14,"Arizona State",286,,,,24,,,,0,0,
+"Arizona State",0,Run,7,21,14,"Arizona State",286,24,1,10,0,"D.J. Foster",,,0,0,
+"Arizona State",0,Pass,7,21,14,"Arizona State",286,24,2,10,11,"Cameron Smith","Taylor Kelly",1,0,1,0
+"Arizona State",0,Run,7,21,14,"Arizona State",286,35,1,10,15,"D.J. Foster",,,0,1,
+"Arizona State",0,Run,7,21,14,"Arizona State",286,50,1,10,8,"D.J. Foster",,,0,0,
+"Arizona State",0,Pass,14,21,7,"Arizona State",286,58,2,2,42,"Cameron Smith","Taylor Kelly",1,1,0,0
+"Arizona State",0,Kickoff,14,21,7,"Washington State",287,,,,65,,,,0,0,
+"Arizona State",0,Pass,14,21,7,"Washington State",287,75,1,10,12,,"Luke Falk",0,0,0,1
+"Arizona State",0,Pass,14,21,7,"Arizona State",288,87,1,10,3,"Cameron Smith","Taylor Kelly",1,0,0,0
+"Arizona State",0,Pass,21,21,0,"Arizona State",288,90,2,7,10,"Frederick Gammage","Taylor Kelly",1,1,0,0
+"Arizona State",0,Kickoff,21,21,0,"Washington State",289,,,,65,,,,0,0,
+"Arizona State",0,Run,21,21,0,"Washington State",289,75,1,10,3,"Luke Falk",,,0,0,
+"Arizona State",0,Pass,21,21,0,"Washington State",289,72,2,7,5,"Tyler Baker","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,21,21,0,"Washington State",289,67,3,2,18,"Rickey Galvin","Luke Falk",1,0,1,0
+"Arizona State",0,Sacked,21,21,0,"Washington State",289,49,1,10,-11,,,,0,0,
+"Arizona State",0,Pass,21,21,0,"Washington State",289,60,2,21,50,"Isiah Myers","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,21,21,0,"Washington State",289,10,1,10,0,"River Cracraft","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,21,21,0,"Washington State",289,10,2,10,0,"Dom Williams","Luke Falk",0,0,0,0
+"Arizona State",0,"Field Goal",21,24,3,"Washington State",289,10,3,10,0,,,,0,0,
+"Arizona State",0,Kickoff,21,24,3,"Washington State",290,,,,65,,,,0,0,
+"Arizona State",0,Sacked,21,24,3,"Washington State",290,75,1,10,-7,,,,0,0,
+"Arizona State",0,Pass,21,24,3,"Washington State",290,82,2,17,15,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Sacked,21,24,3,"Washington State",290,67,3,2,-9,,,,0,0,
+"Arizona State",0,Punt,21,24,3,"Washington State",290,76,4,11,40,,,,0,0,
+"Arizona State",0,Run,21,24,3,"Arizona State",291,36,1,10,3,"D.J. Foster",,,0,0,
+"Arizona State",0,Run,21,24,3,"Arizona State",291,39,2,7,3,"D.J. Foster",,,0,0,
+"Arizona State",0,Run,21,24,3,"Arizona State",291,42,3,4,8,"D.J. Foster",,,0,1,
+"Arizona State",0,Pass,21,24,3,"Arizona State",291,50,1,10,3,"Cameron Smith","Taylor Kelly",1,0,0,0
+"Arizona State",0,Run,21,24,3,"Arizona State",291,53,2,7,-2,"Taylor Kelly",,,0,0,
+"Arizona State",0,Pass,21,24,3,"Arizona State",291,51,3,9,0,"Cameron Smith","Taylor Kelly",0,0,0,0
+"Arizona State",0,Punt,21,24,3,"Arizona State",291,51,4,9,49,,,,0,0,
+"Arizona State",0,Pass,21,24,3,"Washington State",292,80,1,10,14,"Isiah Myers","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,21,24,3,"Washington State",292,66,1,10,1,"Tyler Baker","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,21,24,3,"Washington State",292,65,2,9,0,"River Cracraft","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,21,24,3,"Washington State",292,65,3,9,8,"River Cracraft","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,21,24,3,"Washington State",292,57,4,1,10,"Dom Williams","Luke Falk",1,0,1,0
+"Arizona State",0,Run,21,24,3,"Washington State",292,47,1,10,7,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,21,24,3,"Washington State",292,40,2,3,0,,"Luke Falk",0,0,0,1
+"Arizona State",0,Pass,21,24,3,"Arizona State",293,30,1,10,67,"Cameron Smith","Taylor Kelly",1,0,1,0
+"Arizona State",0,Run,21,24,3,"Arizona State",293,97,1,3,2,"Taylor Kelly",,,0,0,
+"Arizona State",0,Run,21,24,3,"Arizona State",293,99,2,1,0,"Demario Richard",,,0,0,
+"Arizona State",0,Run,28,24,-4,"Arizona State",293,99,3,1,1,"D.J. Foster",,,1,0,
+"Arizona State",0,Kickoff,28,24,-4,"Washington State",294,,,,12,,,,0,0,
+"Arizona State",0,Run,28,24,-4,"Washington State",294,94,1,10,0,"Theron West",,,0,0,
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,94,2,10,19,"Rickey Galvin","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,75,1,10,6,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,65,1,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Run,28,24,-4,"Washington State",294,69,2,4,1,"Luke Falk",,,0,0,
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,68,3,3,3,"River Cracraft","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,65,2,10,0,"River Cracraft","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,28,24,-4,"Washington State",294,65,3,10,5,"Rickey Galvin","Luke Falk",1,0,0,0
+"Arizona State",0,Punt,28,24,-4,"Washington State",294,60,4,5,29,,,,0,0,
+"Arizona State",0,Run,28,24,-4,"Arizona State",295,31,1,10,2,"D.J. Foster",,,0,0,
+"Arizona State",0,Pass,28,24,-4,"Arizona State",295,33,2,8,4,,"Taylor Kelly",1,0,0,0
+"Arizona State",0,Pass,28,24,-4,"Arizona State",295,37,3,4,17,,"Taylor Kelly",1,0,1,0
+"Arizona State",0,Pass,28,24,-4,"Arizona State",295,54,1,10,20,"Deantre Lewis","Taylor Kelly",1,0,1,0
+"Arizona State",0,Run,28,24,-4,"Arizona State",295,74,1,10,5,"Frederick Gammage",,,0,0,
+"Arizona State",0,Sacked,28,24,-4,"Arizona State",295,79,2,5,-8,,,,0,0,
+"Arizona State",0,Pass,28,24,-4,"Arizona State",295,71,3,13,0,,"Taylor Kelly",1,0,0,0
+"Arizona State",0,"Field Goal",31,24,-7,"Arizona State",295,71,4,13,0,,,,0,0,
+"Arizona State",0,Kickoff,31,24,-7,"Washington State",296,,,,65,,,,0,0,
+"Arizona State",0,Run,31,24,-7,"Washington State",296,75,1,10,4,"Jamal Morrow",,,0,0,
+"Arizona State",0,Pass,31,24,-7,"Washington State",296,71,2,6,10,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,31,24,-7,"Washington State",296,61,1,10,13,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,31,24,-7,"Washington State",296,48,1,10,0,,"Luke Falk",0,0,0,0
+"Arizona State",0,Run,31,24,-7,"Washington State",296,48,2,10,13,"Jamal Morrow",,,0,1,
+"Arizona State",0,Pass,31,24,-7,"Washington State",296,35,1,10,2,"Theron West","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,31,24,-7,"Washington State",296,33,2,8,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Arizona State",0,Sacked,31,24,-7,"Washington State",296,33,3,8,-6,,,,0,0,
+"Arizona State",0,Run,38,24,-14,"Arizona State",297,82,1,10,18,"D.J. Foster",,,1,0,
+"Arizona State",0,Kickoff,38,24,-14,"Washington State",298,,,,18,,,,0,0,
+"Arizona State",0,Pass,38,24,-14,"Washington State",298,78,1,10,20,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,38,24,-14,"Washington State",298,58,1,10,14,,"Luke Falk",0,0,0,1
+"Arizona State",0,Pass,38,24,-14,"Arizona State",299,62,1,10,0,"Cameron Smith","Taylor Kelly",0,0,0,0
+"Arizona State",0,Run,38,24,-14,"Arizona State",299,62,2,10,3,"Deantre Lewis",,,0,0,
+"Arizona State",0,Run,38,24,-14,"Arizona State",299,70,3,2,2,"D.J. Foster",,,0,1,
+"Arizona State",0,Run,38,24,-14,"Arizona State",299,72,1,10,6,"D.J. Foster",,,0,1,
+"Arizona State",0,Run,38,24,-14,"Arizona State",299,89,1,10,5,"D.J. Foster",,,0,0,
+"Arizona State",0,Run,38,24,-14,"Arizona State",299,94,2,5,1,"D.J. Foster",,,0,0,
+"Arizona State",0,Pass,45,24,-21,"Arizona State",299,95,3,4,5,"Cameron Smith","Taylor Kelly",1,1,0,0
+"Arizona State",0,Kickoff,45,24,-21,"Washington State",300,,,,16,,,,0,0,
+"Arizona State",0,Pass,45,24,-21,"Washington State",300,82,1,15,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,45,24,-21,"Washington State",300,82,2,15,12,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Run,45,24,-21,"Washington State",300,70,3,3,2,"Luke Falk",,,0,0,
+"Arizona State",0,Pass,45,24,-21,"Washington State",300,68,4,1,-2,"Isiah Myers","Luke Falk",1,0,0,0
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,70,1,10,6,"Deantre Lewis",,,0,0,
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,76,2,4,5,"Deantre Lewis",,,0,1,
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,81,1,10,4,"Taylor Kelly",,,0,0,
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,85,2,6,7,"Deantre Lewis",,,0,1,
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,92,1,8,1,"Deantre Lewis",,,0,0,
+"Arizona State",0,Run,45,24,-21,"Arizona State",301,93,2,7,1,"Deantre Lewis",,,0,0,
+"Arizona State",0,Pass,52,24,-28,"Arizona State",301,94,3,6,6,"Kody Kohl","Taylor Kelly",1,1,0,0
+"Arizona State",0,Kickoff,52,24,-28,"Washington State",302,,,,65,,,,0,0,
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,87,1,22,0,"Dom Williams","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,87,2,22,10,"Jamal Morrow","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,77,3,12,30,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,47,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,47,2,10,0,"Dom Williams","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,47,3,10,12,"Dom Williams","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,35,1,10,25,"Robert Lewis","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,10,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,10,2,10,0,"Tyler Baker","Luke Falk",0,0,0,0
+"Arizona State",0,Pass,52,24,-28,"Washington State",302,10,3,10,8,"River Cracraft","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",302,2,4,2,2,"Dom Williams","Luke Falk",1,1,0,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",303,54,1,10,14,"Vince Mayle","Luke Falk",1,0,0,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",303,40,2,4,0,,TEAM,0,0,0,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",303,40,3,4,16,"Vince Mayle","Luke Falk",1,0,1,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",303,24,1,10,0,,TEAM,0,0,0,0
+"Arizona State",0,Pass,52,31,-21,"Washington State",303,24,2,10,19,"Vince Mayle","Luke Falk",1,0,1,0
+Washington,1,Kickoff,0,0,0,"Washington State",304,,,,65,,,,0,0,
+Washington,1,Run,0,0,0,"Washington State",304,60,1,10,2,"Luke Falk",,,0,0,
+Washington,1,Run,0,0,0,"Washington State",304,58,2,8,8,"Theron West",,,0,1,
+Washington,1,Pass,0,0,0,"Washington State",304,50,1,10,8,"Theron West","Luke Falk",1,0,0,0
+Washington,1,Pass,0,0,0,"Washington State",304,42,2,2,0,"Jamal Morrow","Luke Falk",0,0,0,0
+Washington,1,Pass,0,0,0,"Washington State",304,42,3,2,0,"River Cracraft","Luke Falk",0,0,0,0
+Washington,1,Pass,0,0,0,"Washington State",304,42,4,2,0,"River Cracraft","Luke Falk",0,0,0,0
+Washington,1,Pass,0,0,0,Washington,305,42,1,10,7,"Jaydon Mickens","Cyler Miles",1,0,0,0
+Washington,1,Run,7,0,-7,Washington,305,49,2,3,51,"Dwayne Washington",,,1,0,
+Washington,1,Kickoff,7,0,-7,"Washington State",306,,,,65,,,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",306,75,1,10,21,"Rickey Galvin","Luke Falk",1,0,1,0
+Washington,1,Pass,7,0,-7,"Washington State",306,54,1,10,5,"Vince Mayle","Luke Falk",1,0,0,0
+Washington,1,Run,7,0,-7,"Washington State",306,49,2,5,3,"Luke Falk",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",306,46,3,2,5,"Rickey Galvin","Luke Falk",1,0,1,0
+Washington,1,Pass,7,0,-7,"Washington State",306,41,1,10,13,"Robert Lewis","Luke Falk",1,0,1,0
+Washington,1,Run,7,0,-7,"Washington State",306,28,1,10,8,"Gerard Wicks",,,0,0,
+Washington,1,Run,7,0,-7,"Washington State",306,20,2,2,1,"Gerard Wicks",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",306,19,3,1,0,"Theron West","Luke Falk",0,0,0,0
+Washington,1,Pass,7,0,-7,"Washington State",306,19,4,1,0,,"Luke Falk",0,0,0,0
+Washington,1,Pass,7,0,-7,Washington,307,20,1,10,-1,"Dwayne Washington","Cyler Miles",1,0,0,0
+Washington,1,Pass,7,0,-7,Washington,307,19,2,11,0,"Dwayne Washington","Cyler Miles",0,0,0,0
+Washington,1,Pass,7,0,-7,Washington,307,19,3,11,11,"Jaydon Mickens","Cyler Miles",1,0,1,0
+Washington,1,Pass,7,0,-7,Washington,307,30,1,10,13,"Joshua Perkins","Cyler Miles",1,0,1,0
+Washington,1,Run,7,0,-7,Washington,307,43,1,10,-1,"Kendyl Taylor",,,0,0,
+Washington,1,Run,7,0,-7,Washington,307,42,2,11,-3,"Dwayne Washington",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,307,39,3,14,0,,"Cyler Miles",0,0,0,0
+Washington,1,Punt,7,0,-7,Washington,307,39,4,14,53,,,,0,0,
+Washington,1,Run,7,0,-7,"Washington State",308,92,1,10,3,"Luke Falk",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",308,89,2,7,39,"Vince Mayle","Luke Falk",1,0,1,0
+Washington,1,Pass,7,0,-7,"Washington State",308,50,1,10,0,"Robert Lewis","Luke Falk",1,0,0,0
+Washington,1,Pass,7,0,-7,"Washington State",308,50,2,10,13,"Robert Lewis","Luke Falk",1,0,1,0
+Washington,1,Run,7,0,-7,"Washington State",308,37,1,10,5,"Jamal Morrow",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",308,32,2,5,0,"Rickey Galvin","Luke Falk",0,0,0,0
+Washington,1,Pass,7,0,-7,"Washington State",308,32,3,5,0,"Vince Mayle","Luke Falk",0,0,0,0
+Washington,1,Pass,7,0,-7,"Washington State",308,32,4,5,0,"Isiah Myers","Luke Falk",0,0,0,0
+Washington,1,Run,7,0,-7,Washington,309,33,1,10,6,"Deontae Cooper",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,309,39,2,4,20,"Joshua Perkins","Cyler Miles",1,0,1,0
+Washington,1,Run,7,0,-7,Washington,309,59,1,10,2,"Deontae Cooper",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,309,61,2,8,5,"Brayden Lenius","Cyler Miles",1,0,0,0
+Washington,1,Run,7,0,-7,Washington,309,66,3,3,1,"Lavon Coleman",,,0,0,
+Washington,1,Run,7,0,-7,Washington,309,67,4,2,3,"Lavon Coleman",,,0,1,
+Washington,1,Run,7,0,-7,Washington,309,70,1,10,0,"Dwayne Washington",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,309,70,2,10,3,"Brayden Lenius","Cyler Miles",1,0,0,0
+Washington,1,Pass,7,0,-7,Washington,309,78,3,2,10,,"Cyler Miles",0,0,0,1
+Washington,1,Run,7,0,-7,"Washington State",310,76,1,10,3,"Theron West",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",310,73,2,7,13,"Rickey Galvin","Luke Falk",1,0,1,0
+Washington,1,Run,7,0,-7,"Washington State",310,60,1,10,0,"Jamal Morrow",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",310,50,1,10,0,"Gerard Wicks","Luke Falk",1,0,0,0
+Washington,1,Sacked,7,0,-7,"Washington State",310,50,2,10,-9,,,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",310,64,3,24,0,"River Cracraft","Luke Falk",0,0,0,0
+Washington,1,Punt,7,0,-7,"Washington State",310,64,4,24,38,,,,0,0,
+Washington,1,Pass,7,0,-7,Washington,311,26,1,10,0,"John Ross","Cyler Miles",0,0,0,0
+Washington,1,Pass,7,0,-7,Washington,311,26,2,10,11,"Jaydon Mickens","Cyler Miles",1,0,1,0
+Washington,1,Pass,7,0,-7,Washington,311,37,1,10,11,"Jaydon Mickens","Cyler Miles",1,0,1,0
+Washington,1,Pass,7,0,-7,Washington,311,48,1,10,-3,"Kendyl Taylor","Cyler Miles",1,0,0,0
+Washington,1,Pass,7,0,-7,Washington,311,45,2,13,-1,"Dwayne Washington","Cyler Miles",1,0,0,0
+Washington,1,Pass,7,0,-7,Washington,311,44,3,14,0,"Jaydon Mickens","Cyler Miles",0,0,0,0
+Washington,1,Punt,7,0,-7,Washington,311,44,4,14,42,,,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",312,93,1,10,4,"Vince Mayle","Luke Falk",1,0,0,0
+Washington,1,Run,7,0,-7,"Washington State",312,89,2,6,9,"Gerard Wicks",,,0,1,
+Washington,1,Run,7,0,-7,"Washington State",312,80,1,10,4,"Gerard Wicks",,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",312,76,2,6,0,,"Luke Falk",0,0,0,0
+Washington,1,Run,7,0,-7,"Washington State",312,76,3,6,5,"Luke Falk",,,0,0,
+Washington,1,Punt,7,0,-7,"Washington State",312,71,4,1,47,,,,0,0,
+Washington,1,Run,7,0,-7,Washington,313,24,1,10,3,"Dwayne Washington",,,0,1,
+Washington,1,Run,7,0,-7,Washington,313,37,1,15,1,"Dwayne Washington",,,0,0,
+Washington,1,Run,7,0,-7,Washington,313,38,2,14,2,"Dwayne Washington",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,313,40,3,12,0,"Joshua Perkins","Cyler Miles",0,0,0,0
+Washington,1,Punt,7,0,-7,Washington,313,40,4,12,53,,,,0,0,
+Washington,1,Pass,7,0,-7,"Washington State",314,93,1,10,0,"Gerard Wicks","Luke Falk",0,0,0,0
+Washington,1,Pass,7,0,-7,"Washington State",314,93,2,10,20,"Vince Mayle","Luke Falk",1,0,0,0
+Washington,1,Run,7,0,-7,Washington,315,73,1,10,0,"Cyler Miles",,,0,0,
+Washington,1,Run,7,0,-7,Washington,315,73,2,10,4,"Lavon Coleman",,,0,0,
+Washington,1,Pass,7,0,-7,Washington,315,77,3,6,11,"Jaydon Mickens","Cyler Miles",1,0,1,0
+Washington,1,Pass,7,0,-7,Washington,315,94,1,6,0,"DiAndre Campbell","Cyler Miles",0,0,0,0
+Washington,1,Pass,14,0,-14,Washington,315,94,2,6,6,"Kasen Williams","Cyler Miles",1,1,0,0
+Washington,1,Kickoff,14,0,-14,"Washington State",316,,,,15,,,,0,0,
+Washington,1,Pass,14,0,-14,"Washington State",316,81,1,10,0,,"Luke Falk",0,0,0,1
+Washington,1,Pass,14,0,-14,Washington,317,52,1,10,0,"Dante Pettis","Cyler Miles",0,0,0,0
+Washington,1,Pass,14,0,-14,Washington,317,52,2,10,0,"Dante Pettis","Cyler Miles",0,0,0,0
+Washington,1,Run,14,0,-14,Washington,317,52,3,10,5,"Cyler Miles",,,0,0,
+Washington,1,Pass,14,0,-14,Washington,317,57,4,5,0,"Brayden Lenius","Jeff Lindquist",0,0,0,0
+Washington,1,Kickoff,14,0,-14,"Washington State",318,,,,11,,,,0,0,
+Washington,1,Run,14,0,-14,Washington,318,36,1,10,4,"Dwayne Washington",,,0,0,
+Washington,1,Run,21,0,-21,Washington,318,40,2,6,60,"Dwayne Washington",,,1,0,
+Washington,1,Kickoff,21,0,-21,"Washington State",319,,,,16,,,,0,0,
+Washington,1,Run,21,0,-21,"Washington State",319,72,1,10,0,"Gerard Wicks",,,0,0,
+Washington,1,Pass,21,0,-21,"Washington State",319,72,2,10,-2,"Theron West","Luke Falk",1,0,0,0
+Washington,1,Sacked,21,0,-21,"Washington State",319,74,3,12,-8,,,,0,0,
+Washington,1,Punt,21,0,-21,"Washington State",319,82,4,20,25,,,,0,0,
+Washington,1,Run,21,0,-21,Washington,320,57,1,10,4,"Dwayne Washington",,,0,0,
+Washington,1,Pass,21,0,-21,Washington,320,61,2,6,3,"Kendyl Taylor","Cyler Miles",1,0,0,0
+Washington,1,Pass,21,0,-21,Washington,320,64,3,3,0,"Michael Hartvigson","Cyler Miles",0,0,0,0
+Washington,1,Punt,21,0,-21,Washington,320,59,4,8,24,,,,0,0,
+Washington,1,Pass,21,0,-21,"Washington State",321,83,1,10,10,"Dom Williams","Luke Falk",1,0,1,0
+Washington,1,Run,21,0,-21,"Washington State",321,73,1,10,4,"Theron West",,,0,0,
+Washington,1,Pass,21,0,-21,"Washington State",321,69,2,6,18,"Theron West","Luke Falk",1,0,1,0
+Washington,1,Pass,21,0,-21,"Washington State",321,51,1,10,0,"Vince Mayle","Luke Falk",0,0,0,0
+Washington,1,Pass,21,0,-21,"Washington State",321,51,2,10,0,,"Luke Falk",0,0,0,1
+Washington,1,Pass,21,0,-21,Washington,322,35,1,10,23,"Dante Pettis","Cyler Miles",1,0,1,0
+Washington,1,Pass,21,0,-21,Washington,322,53,1,15,0,"Kasen Williams","Cyler Miles",0,0,0,0
+Washington,1,Pass,21,0,-21,Washington,322,53,2,15,0,"Jaydon Mickens","Cyler Miles",0,0,0,0
+Washington,1,Run,21,0,-21,Washington,322,53,3,15,19,"Cyler Miles",,,0,1,
+Washington,1,Pass,21,0,-21,Washington,322,72,1,10,0,,"Cyler Miles",0,0,0,0
+Washington,1,Pass,21,0,-21,Washington,322,72,2,10,-2,"Kendyl Taylor","Cyler Miles",1,0,0,0
+Washington,1,Pass,21,0,-21,Washington,322,70,3,12,13,"Michael Hartvigson","Cyler Miles",1,0,1,0
+Washington,1,Pass,21,0,-21,Washington,322,83,1,10,9,"Kasen Williams","Cyler Miles",1,0,0,0
+Washington,1,Run,21,0,-21,Washington,322,92,2,1,3,"Deontae Cooper",,,0,1,
+Washington,1,Run,21,0,-21,Washington,322,95,1,5,2,"Deontae Cooper",,,0,0,
+Washington,1,Run,21,0,-21,Washington,322,97,2,3,0,"Dwayne Washington",,,0,0,
+Washington,1,Sacked,21,0,-21,Washington,322,99,1,1,-10,,,,0,0,
+Washington,1,Pass,21,0,-21,Washington,322,89,2,11,10,"Kasen Williams","Cyler Miles",1,0,0,0
+Washington,1,Run,21,0,-21,Washington,322,99,3,1,0,"Dwayne Washington",,,0,0,
+Washington,1,"Field Goal",24,0,-24,Washington,322,99,4,1,0,,,,0,0,
+Washington,1,Kickoff,24,0,-24,"Washington State",323,,,,16,,,,0,0,
+Washington,1,Pass,24,0,-24,"Washington State",323,75,1,10,0,"Rickey Galvin","Luke Falk",0,0,0,0
+Washington,1,Pass,24,0,-24,"Washington State",323,75,2,10,22,"Isiah Myers","Luke Falk",1,0,1,0
+Washington,1,Pass,24,0,-24,"Washington State",323,53,1,10,6,"Theron West","Luke Falk",1,0,0,0
+Washington,1,Pass,24,0,-24,"Washington State",323,47,2,4,0,"Robert Lewis","Luke Falk",0,0,0,0
+Washington,1,Pass,24,0,-24,"Washington State",323,47,3,4,4,"Dom Williams","Luke Falk",1,0,0,0
+Washington,1,Pass,24,0,-24,"Washington State",323,53,3,10,0,"Isiah Myers","Luke Falk",0,0,0,0
+Washington,1,Punt,24,0,-24,"Washington State",323,53,4,10,38,,,,0,0,
+Washington,1,Run,24,0,-24,Washington,324,15,1,10,1,"Dwayne Washington",,,0,0,
+Washington,1,Run,24,0,-24,Washington,324,16,2,9,2,"Dwayne Washington",,,0,0,
+Washington,1,Pass,24,0,-24,Washington,324,18,3,7,24,"Dante Pettis","Cyler Miles",1,0,1,0
+Washington,1,Pass,24,0,-24,Washington,324,42,1,10,0,"John Ross","Jeff Lindquist",0,0,0,0
+Washington,1,Pass,24,0,-24,Washington,324,42,2,10,9,"Marvin Hall","Cyler Miles",1,0,1,0
+Washington,1,Run,24,0,-24,Washington,324,66,1,10,3,"Lavon Coleman",,,0,0,
+Washington,1,Run,24,0,-24,Washington,324,69,2,7,7,"Lavon Coleman",,,0,0,
+Washington,1,Run,24,0,-24,Washington,324,66,2,10,5,"Lavon Coleman",,,0,0,
+Washington,1,Pass,24,0,-24,Washington,324,71,3,5,11,"Kendyl Taylor","Cyler Miles",1,0,1,0
+Washington,1,Pass,31,0,-31,Washington,324,82,1,10,18,"Joshua Perkins","Cyler Miles",1,1,0,0
+Washington,1,Kickoff,31,0,-31,"Washington State",325,,,,50,,,,0,0,
+Washington,1,Pass,31,0,-31,"Washington State",325,65,1,10,0,"Isiah Myers","Luke Falk",0,0,0,0
+Washington,1,Pass,31,0,-31,"Washington State",325,65,2,10,19,"River Cracraft","Luke Falk",1,0,1,0
+Washington,1,Pass,31,0,-31,"Washington State",325,46,1,10,11,"Vince Mayle","Luke Falk",1,0,1,0
+Washington,1,Sacked,31,0,-31,"Washington State",325,35,1,10,-10,,,,0,0,
+Washington,1,Pass,31,0,-31,"Washington State",325,45,2,20,0,"Vince Mayle","Luke Falk",0,0,0,0
+Washington,1,Pass,31,0,-31,"Washington State",325,45,3,20,15,"River Cracraft","Luke Falk",1,0,0,0
+Washington,1,Pass,31,7,-24,"Washington State",325,35,4,10,35,"Dom Williams","Luke Falk",1,1,0,0
+Washington,1,Kickoff,31,7,-24,Washington,326,,,,2,,,,0,0,
+Washington,1,Run,31,7,-24,Washington,326,15,1,10,6,"Dwayne Washington",,,0,0,
+Washington,1,Run,31,7,-24,Washington,326,21,2,4,0,"Lavon Coleman",,,0,0,
+Washington,1,Pass,31,7,-24,Washington,326,21,3,4,9,"Kendyl Taylor","Cyler Miles",1,0,1,0
+Washington,1,Run,31,7,-24,Washington,326,30,1,10,1,"Dwayne Washington",,,0,0,
+Washington,1,Run,31,7,-24,Washington,326,31,2,9,3,"Dwayne Washington",,,0,0,
+Washington,1,Pass,31,7,-24,Washington,326,34,3,6,29,"Dwayne Washington","Cyler Miles",1,0,1,0
+Washington,1,Run,31,7,-24,Washington,326,63,1,10,5,"Lavon Coleman",,,0,0,
+Washington,1,Run,31,7,-24,Washington,326,68,2,5,-1,"Lavon Coleman",,,0,0,
+Washington,1,Run,31,7,-24,Washington,326,67,3,6,2,"Jaydon Mickens",,,0,0,
+Washington,1,Pass,31,7,-24,Washington,326,69,4,4,0,,"Cyler Miles",0,0,0,0
+Washington,1,Pass,31,7,-24,"Washington State",327,69,1,10,24,"Isiah Myers","Luke Falk",1,0,1,0
+Washington,1,Pass,31,7,-24,"Washington State",327,45,1,10,12,"Robert Lewis","Luke Falk",1,0,1,0
+Washington,1,Sacked,31,7,-24,"Washington State",327,33,1,10,-7,,,,0,0,
+Washington,1,Pass,31,7,-24,"Washington State",327,40,2,17,0,"Rickey Galvin","Luke Falk",0,0,0,0
+Washington,1,Pass,31,7,-24,"Washington State",327,40,3,17,0,"Vince Mayle","Luke Falk",0,0,0,0
+Washington,1,Pass,31,7,-24,"Washington State",327,40,4,17,20,"Isiah Myers","Luke Falk",1,0,1,0
+Washington,1,Pass,31,7,-24,"Washington State",327,20,1,10,14,"Robert Lewis","Luke Falk",1,0,1,0
+Washington,1,Pass,31,7,-24,"Washington State",327,6,1,6,0,"Vince Mayle","Luke Falk",0,0,0,0
+Washington,1,Pass,31,13,-18,"Washington State",327,6,2,6,6,"River Cracraft","Luke Falk",1,1,0,0
+Washington,1,Run,31,13,-18,Washington,328,53,1,10,-1,Team,,,0,0,
+Washington,1,Run,31,13,-18,Washington,328,52,2,11,-1,Team,,,0,0,

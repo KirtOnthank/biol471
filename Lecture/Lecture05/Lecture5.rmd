@@ -1,0 +1,132 @@
+---
+title: "Lecture 5: Randomization Stats"
+author: "Kirt Onthank"
+date: "April 9, 2019"
+output: pdf_document
+---
+
+#Reading In Data and Distribution of Prices
+```{r}
+data=read.csv("Residential_Sales_Walla_Walla_County_2012.csv")
+hist(data$price,col="grey",breaks=40)
+```
+
+
+#Summary Stats
+```{r}
+mean(data$price)
+sd(data$price)
+```
+
+
+
+#Jackknife Example
+```{r}
+price.m=numeric()
+
+for (i in 1:length(data$price)){
+  price.m[i]=mean(data$price[-i])
+}
+
+mean(price.m)
+quantile(price.m,c(.025,.975))
+
+```
+
+
+
+```{r}
+hist(price.m,col="grey",breaks=40)
+abline(v=quantile(price.m,c(.025,.975)),col="red")
+abline(v=median(price.m),col="blue")
+
+```
+
+
+#Bootstrap Example
+```{r}
+price.b=numeric()
+
+for (i in 1:100000){
+  price.b[i]=mean(sample(data$price,replace=T))
+}
+mean(price.b)
+quantile(price.b,c(.025,.975))
+```
+
+```{r}
+hist(price.b,breaks=40,col="grey")
+abline(v=median(price.b),col="red")
+abline(v=quantile(price.b,c(.025,.975)),col="blue")
+```
+
+
+```{r}
+mean(price.b)
+median(price.b)
+mean(data$price)
+```
+
+
+# Randomization T-Test
+## Hypothesis: People who sit in the back of the class are taller
+```{r}
+side=c(rep("Front",6),rep("Back",8))
+heights=c(182,193,152,183,185,173,182,196,170,177,183,180,165,186)
+mean(heights[side=="Back"])
+mean(heights[side=="Front"])
+test.stat=mean(heights[side=="Back"])-mean(heights[side=="Front"])
+test.stat
+```
+
+
+
+```{r}
+class.b=numeric()
+for (i in 1:10000){
+  samp=sample(side)
+  class.b[i]=mean(heights[samp=="Back"])-mean(heights[samp=="Front"])
+}
+
+sum(class.b>test.stat)/length(class.b)
+
+```
+
+
+```{r Histogram of }
+hist(class.b,col="grey")
+abline(v=test.stat,col="red")
+```
+
+# Hypothesis: Houses with garages sell for more money
+```{r}
+garage=rep("yes",nrow(data))
+garage[data$garage==0]="no"
+test.stat=mean(data$price[garage=="yes"])-mean(data$price[garage=="no"])
+test.stat
+```
+
+```{r}
+garage.b=numeric()
+for (i in 1:100000){
+  samp=sample(garage)
+  garage.b[i]=mean(data$price[samp=="yes"])-mean(data$price[samp=="no"])
+}
+
+sum(garage.b>test.stat)/length(garage.b)
+```
+
+
+
+```{r}
+1/length(garage.b)
+```
+
+0 out of 100,000 randomizations produced a mean difference as great as that actually observed. P is never 0, Therefore we say that p is less than 1/# of randomizations.  
+
+
+```{r}
+hist(garage.b,col="grey",breaks=40,xlim=c(-80000,120000))
+abline(v=test.stat,col="red")
+```
+

@@ -1,0 +1,162 @@
+---
+title: 'Lecture 10: Point Pattern Analysis'
+author: "Kirt L Onthank"
+date: "4/19/2020"
+output: pdf_document
+---
+
+# Loading Libraries
+```{r}
+library(spatstat)
+library(vcd)
+set.seed(56)
+```
+
+# Quadrat Chi-squared Test for Spatial Randomness
+## Generating a clustered spatial dataset and plotting
+```{r}
+lamb <-100/(90*90)
+child <- 3
+radius <- 2
+pp.MAT<-rMatClust(kappa=(lamb/child),r=radius, mu=child,
+                  win=owin(c(0,90),c(0,90)))
+plot(pp.MAT,pch=21,bg="grey")
+```
+
+
+## Making 25 quadrats and counting points in the quadrats
+```{r}
+counts=quadratcount(pp.MAT, nx=5, ny=5)
+plot(pp.MAT,pch=21,bg="grey")
+plot(counts,add=T,cex=2)
+```
+
+## Chi-square test on quadrat counts
+```{r}
+chisq.test(counts)
+```
+
+## Showing the effects of quadrat size. Making 4 quadrats
+```{r}
+chisq.test(quadratcount(pp.MAT, nx=2, ny=2))
+```
+
+## Showing the effects of quadrat size. Making 64 quadrats
+```{r}
+chisq.test(quadratcount(pp.MAT, nx=15, ny=15))
+```
+
+## Generating a regular dataset
+```{r}
+pp.SSI<-rSSI(n=100, r=5, win = owin(c(0,90),c(0,90)),giveup=5000)
+plot(pp.SSI,pch=21,bg="grey")
+```
+
+## Generating 25 quadrats and counts
+```{r}
+counts.reg=quadratcount(pp.SSI,nx=5,ny=5)
+plot(pp.SSI,pch=21,bg="grey")
+plot(counts.reg,add=T,cex=2)
+```
+
+## Chi-square test on regular counts
+```{r}
+chisq.test(counts.reg)
+```
+
+# Poisson Quadrat Test
+```{r}
+SSI.tab=table(quadratcount(pp.SSI,nx=5,ny=5))
+SSI.tab
+```
+
+```{r}
+SSI.gf=goodfit(SSI.tab,type= "poisson",method= "MinChisq", par=list(lambda=(mean(quadratcount(pp.SSI, nx=5, ny=5)))))
+SSI.ma=as.matrix(SSI.gf)
+
+summary(SSI.gf)
+```
+
+```{r}
+plot(SSI.gf$count,SSI.gf$observed,col="red",lwd=2,xlab="Points/Quadrat",cex.lab=2,cex.axis=2,type="l",ylab="")
+points(SSI.gf$count,SSI.gf$observed,pch=21,bg="red")
+text(1,8,"Observed",col="red")
+lines(SSI.gf$count,SSI.gf$fitted,col="green",lwd=2)
+points(SSI.gf$count,SSI.gf$fitted,pch=21,bg="green")
+text(1,5,"Expected",col="green")
+```
+
+# d1 neighborhood analysis
+## d1 in Regular Data
+```{r}
+nearest=nndist(pp.SSI)
+nearest.tab=table(nearest)
+
+SSI.gf=goodfit(nearest.tab,type= "poisson",method= "MinChisq", par=list(lambda=(mean(quadratcount(pp.SSI, nx=5, ny=5)))))
+summary (SSI.gf)
+```
+
+## d1 on clustered data
+```{r}
+nearest.mat=round(nndist(pp.MAT),1)
+mat.nearest=table(nearest)
+
+MAT.gf=goodfit(mat.nearest,type= "poisson",method= "MinChisq", par=list(lambda=(mean(quadratcount(pp.SSI, nx=5, ny=5)))))
+summary (MAT.gf)
+```
+
+## Ripley's K and L test
+### Ripley's K on clustered data
+```{r}
+plot(Kest(pp.MAT))
+```
+
+### Ripley's K on regular data
+```{r}
+plot(Kest(pp.SSI))
+```
+
+### L(t) function
+```{r}
+Lest2=function (...) { # the ... pass through definitions
+  K=Kest(...) # straight to the Kest function
+  nama <- colnames(K)
+  K=K[, !(nama %in% c("rip", "ls"))]
+  R=K$r
+  L=eval.fv(R-sqrt(K/pi))
+  L=rebadge.fv(L, substitute(L(r), NULL), "L")
+  return(L) }
+```
+
+```{r}
+SSI.lest=Lest2(pp.SSI)
+plot(iso~r,data=Lest2(pp.SSI),type="l",col="red",ylab="L(t)",xlab="t",
+     lwd=2,cex.axis=2,cex.lab=2,ylim=c(-5,5))
+abline(h=0,lwd=2)
+```
+
+
+### Randomization Envelope Function
+```{r}
+lhat.env=function(n, s, r, win=owin(xrange=c(0,1), yrange=c(0,1))){
+  hold=matrix(0, s, length(r))
+  for(i in 1:s){
+    hold[i,]=Lest2(runifpoint(n, win=win), r=r)$iso
+  }
+  mn=apply(hold, 2, mean)
+  Up=apply(hold, 2, max)
+  Down=apply(hold, 2, min)
+  return(data.frame(mn, Up, Down))
+}
+```
+
+### Running envelope function to determine significance
+```{r}
+SSI.env=lhat.env(100, 100, SSI.lest$r, win=owin(xrange=c(0,90), yrange=c(0,90)))
+plot(iso~r,data=Lest2(pp.SSI),type="l",col="red",ylab="L(t)",xlab="t",
+     lwd=2,cex.axis=2,cex.lab=2,ylim=c(-5,5))
+lines(SSI.lest$r, SSI.env$Up, lty=2,lwd=2)
+lines(SSI.lest$r, SSI.env$Down, lty=2,lwd=2)
+lines(SSI.lest$r, SSI.env$mn, lty=2,lwd=2)
+```
+

@@ -1,0 +1,62 @@
+---
+title: "Lecture11"
+author: "Kirt L Onthank"
+date: "4/20/2020"
+output: pdf_document
+---
+
+# Loading geoR library
+```{r}
+library(geoR)
+```
+
+# Leading wells data
+```{r}
+well.tab=read.table(file="wells.txt", header=T)
+well=as.geodata(well.tab[,2:4])
+points(well,cex.max=3,col="grey")
+```
+
+
+```{r}
+vario.c=variog(well, max.dist=0.8, op="cloud")
+plot(vario.c, main="variogram cloud")
+```
+
+
+```{r}
+vario.b=variog(well, max.dist=0.8)
+plot(vario.b, main="binned variogram",pch=21,bg="grey")
+```
+
+## Finding starting parameters using eyefit
+```{r}
+eyefit(vario.b)
+```
+  cov.model sigmasq  phi tausq kappa kappa2 practicalRange
+1 spherical    6.61 0.52  0.84  <NA>   <NA>           0.52
+
+sigmasq = sill
+tausq = range
+phi = nugget
+
+## Fitting the semivariogram
+```{r}
+wells_sphere.vgfit=variofit(vario.b, ini.cov.pars=c(6.61, 0.84), nugget=0.52,cov.model="spherical",messages=F)
+```
+
+## Making points that I want to Krig
+```{r}
+locations=expand.grid(seq(from=0,to=1,length.out=101),seq(from=0,to=1,length.out=101))
+points(well)
+points(locations,pch=".",col="red",cex=0.1)
+```
+
+## Doing the actual Kriging
+```{r}
+wells_sphere.ok=krige.conv(well, loc=locations,krige=krige.control(obj.model=wells_sphere.vgfit))
+points(well)
+image(wells_sphere.ok)
+points(well, add.to.plot=T,cex.max=3,col="grey")
+```
+

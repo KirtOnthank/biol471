@@ -1,0 +1,601 @@
+Name,Sex,Age,Hire_Date,Residence,Score,Annual_Earnings
+Anthony Murphy,male,33,11 August 2012,Minnesota,1202.1,39160.64
+Kristina Carroll,female,43,07 May 2015,Utah,1250.8,44987.7
+Pedro Wheeler,male,49,19 June 2006,Kentucky,1150.6,52297.99
+Adrian Wells,male,68,03 December 2007,Virginia,1184.6,47253.51
+Shawn Gray,male,38,18 April 2011,Tennessee,1102.5,66543.91
+Jessie Wheeler,female,70,23 September 2004,Delaware,1067.8,57139.76
+Charles Price,male,32,19 October 2012,Alabama,1189.3,41300.2
+Marian Ryan,female,48,20 December 2013,Massachusetts,1040,43498.59
+Bill Ortiz,male,35,25 March 2008,Louisiana,1183.7,56488.04
+Lynn Duncan,female,48,13 July 2010,California,1271.8,48348.67
+Jamie Lee,male,63,24 March 2013,Missouri,1262.9,47725.53
+Penny Davis,female,44,06 September 2008,Florida,1238.1,55721.55
+Nathan Vasquez,male,30,10 October 2014,Oklahoma,1168.7,49472.23
+Vivian Chambers,female,25,12 February 2006,Hawaii,1280.2,58855.43
+George Mason,male,25,23 January 2010,Delaware,1335.3,58157.49
+Olga Warren,female,42,13 November 2012,California,1271,52179.81
+Scott Schmidt,male,43,12 June 2011,Pennsylvania,1060.2,64998.01
+Patsy Fletcher,female,66,19 June 2006,Utah,1450.6,40456.87
+Debra Wright,female,63,25 August 2005,New Hampshire,981.6,36534.43
+Toni Ortiz,female,47,02 October 2012,South Carolina,1255.6,42089.41
+Henry Kelley,male,65,06 December 2004,Wisconsin,1191.8,49199.87
+Joan Olson,female,42,17 April 2007,California,1146,48403.54
+Stephanie Watson,female,23,12 May 2008,Minnesota,1191.5,52979.38
+Phyllis Reed,female,26,02 January 2013,Maryland,1246.9,53175.03
+Shirley Freeman,female,22,28 May 2010,Nevada,1297.9,56931.2
+Sean Stewart,male,39,09 June 2009,Virginia,1275.8,47805.15
+Christopher Cruz,male,38,08 November 2010,Oklahoma,1001.7,53785.64
+Agnes Harrison,female,28,10 May 2007,West Virginia,1380.8,45429.17
+Debbie Brooks,female,47,01 August 2003,South Carolina,1331.1,30064.34
+Jorge Mckinney,male,52,19 June 2014,Michigan,939.8,57382.6
+Rodney Berry,male,72,15 June 2003,North Dakota,1034.5,60365.4
+Anna Jennings,female,46,19 October 2004,Missouri,1273.1,43464.98
+Luis Sims,male,42,31 July 2005,Rhode Island,1302.2,71167.6
+Leon Nelson,male,57,12 September 2007,South Dakota,1258.1,61241.21
+Danielle White,female,26,09 September 2010,Arkansas,1199.7,51863.87
+Michael Dixon,male,24,24 December 2014,Arkansas,1057.2,65389.32
+Grace Terry,female,34,27 November 2014,New Mexico,1105.9,40735.09
+Alma Sullivan,female,68,25 February 2015,New Mexico,1167.7,59747.58
+Carlos Lowe,male,22,06 October 2003,Tennessee,1271.2,38473.11
+Eddie Perez,male,50,25 March 2013,Alabama,1160.1,43477.33
+Eugene Howard,male,32,30 May 2009,Oklahoma,907.6,53568.83
+Philip Horton,male,59,14 May 2008,Nebraska,1106.5,47636.97
+Lucille Moreno,female,22,18 April 2006,Idaho,1255.2,42811.64
+Shane Jordan,male,67,30 May 2009,Florida,1183.6,56305.79
+Kristin Jensen,female,72,07 August 2006,Iowa,1253.2,56038.76
+Bob Jackson,male,63,25 December 2010,New Jersey,1078,45241.7
+Dorothy Greene,female,51,04 June 2005,Michigan,1416.6,64511.6
+Esther Riley,female,35,03 March 2015,Alabama,1095.3,45305.34
+Wilma Henry,female,51,08 August 2014,Indiana,1408.9,51261.68
+Jeffery Walker,male,57,17 January 2009,Mississippi,1025.9,46248.32
+Jane Kelly,female,63,04 February 2014,Louisiana,1359,50994.38
+Tyler Rhodes,male,40,20 July 2011,Michigan,1221,64420.7
+Brandon Morgan,male,50,10 May 2010,Alaska,1199.3,50094.2
+Roberto Edwards,male,72,25 February 2015,Wisconsin,1061.3,54566.93
+Lonnie Owens,male,35,21 December 2003,Pennsylvania,712.1,45237.78
+Annette Watts,female,70,05 November 2007,Montana,1357.2,40682.39
+Thelma Schmidt,female,63,07 August 2008,Utah,1233.7,33852.97
+Monica Harvey,female,36,23 October 2013,Tennessee,1267.8,50986.38
+Megan Lawson,female,36,29 August 2013,Utah,1213.3,41178.48
+Leonard Wood,male,54,02 April 2013,Oregon,896.9,51040.18
+Kyle Carpenter,male,31,01 July 2006,Alabama,1061,54934.36
+Matthew Green,male,29,23 September 2004,New Mexico,1371.9,23151.87
+Kay Hopkins,female,42,24 December 2014,Maine,1443.5,46771.82
+Kathleen Gibson,female,24,21 March 2010,Oklahoma,1381.5,49414.01
+Rhonda Bowman,female,46,23 March 2010,New Hampshire,1301.3,44306.64
+Bernard Parker,male,66,14 September 2013,Nevada,992.4,57492.3
+Richard Lawrence,male,61,30 March 2014,Kansas,1145.3,49511.79
+Raul Matthews,male,71,02 May 2003,Pennsylvania,1014.5,45110.59
+Wesley Willis,male,73,19 September 2015,West Virginia,1094.9,58773.1
+Norman Stevens,male,61,28 February 2004,Texas,1039.6,46418.23
+Dennis Hopkins,male,64,09 June 2004,South Dakota,1260.7,56474.12
+Edgar Rodriguez,male,69,03 March 2015,Wyoming,1090.9,59635.55
+Tyrone Tucker,male,26,18 January 2004,West Virginia,1148.5,53892.69
+Pauline Morales,female,31,14 February 2005,Delaware,1209.3,53673.15
+Charlotte Gonzalez,female,61,12 February 2003,Wyoming,1281.2,39896.95
+Kathryn Peterson,female,67,30 April 2013,Texas,1079.5,49794.82
+Troy Castillo,male,71,27 July 2003,Michigan,1241.6,35628.83
+Velma Alvarez,female,35,27 October 2013,Missouri,1217.3,38420.81
+Max Soto,male,40,06 July 2011,Hawaii,1142.5,50047.32
+Elaine Carlson,female,57,08 November 2010,Kansas,1408.5,36250.91
+Arthur Rivera,male,29,20 October 2003,Montana,1013.5,56587.31
+Joyce Pearson,female,36,08 May 2010,South Carolina,1290,49571.2
+Melanie Mccoy,female,72,29 October 2004,Vermont,1066.3,48073.33
+Sherri Fernandez,female,27,22 January 2012,Illinois,1235.4,54372.99
+Stacy Bennett,female,45,14 December 2007,New Jersey,1349.9,44631.19
+Jessica Richards,female,29,26 September 2003,Oregon,1233.2,48830.79
+Gregory Lane,male,49,09 October 2007,New Hampshire,1090,53727.44
+Erica Marshall,female,48,03 April 2005,Delaware,1040.3,57269.72
+Johnnie Martinez,male,68,08 September 2015,Hawaii,1176.4,55807.07
+Jose Porter,male,28,27 April 2004,Maryland,1098.3,66967.7
+Bryan Chapman,male,73,01 January 2011,Montana,1071.2,46324.16
+Lois Crawford,female,44,11 August 2004,Iowa,1027.4,49597.39
+Sylvia Carpenter,female,38,22 July 2010,Vermont,981.1,50912.33
+Irene Allen,female,27,24 December 2014,Wisconsin,1234.6,44163.48
+Ronnie Day,male,70,31 May 2014,Arizona,1331.6,48703.07
+Valerie Chavez,female,73,24 June 2003,South Carolina,1333.2,40671.94
+Marvin Bradley,male,73,29 March 2003,Missouri,1057.6,62463.24
+Melinda Stephens,female,73,17 March 2009,New York,1203.6,44645.26
+Lisa Moore,female,27,19 August 2008,Oregon,1229.5,54700.04
+Jonathan Burns,male,47,27 August 2013,Delaware,922.8,52532.31
+Craig Hawkins,male,32,19 September 2012,Iowa,1359.4,57234.17
+Barry Duncan,male,56,16 March 2009,Montana,1085.1,42934.9
+Roland Rodriquez,male,73,04 April 2004,Iowa,1057.5,54371.65
+Gilbert Smith,male,22,22 November 2006,Minnesota,1042.8,49996.4
+Jennifer Lynch,female,54,16 July 2014,Nevada,1257.6,43658.69
+Heidi Grant,female,40,10 October 2005,Utah,1107.9,42917.67
+Jackie Edwards,female,39,26 November 2014,Michigan,1285.5,45732.15
+Stacey Holmes,female,59,07 June 2004,New Hampshire,1326.1,46747.11
+Alan Myers,male,40,09 September 2010,Vermont,1132.3,58368
+Tammy Fowler,female,43,04 July 2008,Mississippi,1096.7,51898.56
+Terri Gordon,female,54,26 February 2014,Missouri,1057.5,38770.82
+Diana Sanchez,female,51,30 May 2015,Illinois,1058,49419.75
+Salvador Douglas,male,75,17 August 2003,Alaska,1170.6,49360.18
+Lillie Harris,female,53,29 March 2003,Nevada,1495,46149.96
+Gloria Lambert,female,51,14 January 2008,Washington,1157,42778.74
+Alfredo Harvey,male,72,05 March 2009,Arizona,1092.1,51631.84
+Melissa Myers,female,74,09 June 2004,Virginia,1142.1,38531.68
+Cassandra Rose,female,36,31 October 2012,New York,1133.3,48066.86
+Dora Fox,female,34,02 July 2010,Vermont,1376.4,43149.5
+Terry Foster,male,69,15 May 2010,Idaho,1163.5,48802.25
+Neil Davidson,male,51,06 July 2011,Texas,1179.4,50361.86
+Marshall Carlson,male,34,29 October 2004,Rhode Island,1335.3,62840.28
+Rita Austin,female,36,31 July 2008,Massachusetts,1217.8,42083.81
+Alberto Rice,male,72,18 October 2005,Arizona,1348.7,49752.43
+Ashley Howell,female,34,21 October 2010,Oregon,1197.2,58807.36
+Wanda Weaver,female,71,22 March 2007,Tennessee,1331.5,47962.86
+Greg Jenkins,male,60,22 March 2007,North Carolina,987.7,60767.14
+Nina Bates,female,31,22 December 2005,Idaho,1234.4,56191.8
+Edith Hall,female,62,29 November 2014,Oregon,1216.5,50665.8
+Danny Walters,male,70,01 July 2015,South Carolina,1011.9,49579.64
+Jamie Herrera,female,52,16 December 2012,Iowa,1024.5,45621.61
+Jacqueline Barnes,female,42,27 July 2003,Hawaii,1300.1,46649.32
+Dave Ramirez,male,27,20 December 2013,Ohio,1083,58402.65
+Russell Riley,male,23,15 May 2014,New Mexico,1098.7,43817.01
+Francisco Craig,male,68,31 December 2010,Virginia,1276.4,42740.4
+Katie Stanley,female,36,18 November 2008,Iowa,1167,47317.25
+Johnny Hernandez,male,45,25 May 2015,Washington,1219.8,56964.6
+Mildred Castro,female,38,04 January 2006,New York,1203.5,46747.52
+Dale Kennedy,male,31,03 June 2014,Nevada,1177.2,57402.28
+Ernest Clark,male,59,02 December 2013,Illinois,1230.3,61084.66
+Mitchell Peters,male,51,05 July 2005,Louisiana,990,46421.52
+Kristen Garrett,female,73,11 August 2012,Tennessee,1276.4,51765.23
+Aaron Neal,male,39,23 October 2006,Missouri,1126.1,47236.29
+Brittany Frazier,female,25,08 December 2014,North Carolina,1336.3,41618.78
+Stephen Pena,male,58,21 June 2014,South Carolina,1224.5,61156.94
+Patricia Wagner,female,74,26 July 2006,Mississippi,1268.9,36186.89
+Armando Mills,male,25,18 July 2007,Arkansas,1305.8,56253.16
+Connie Phillips,female,55,16 January 2003,Texas,1130.5,49883.8
+Gene Watkins,male,21,27 October 2013,Florida,1090.6,44701.65
+Carole Adams,female,47,31 July 2005,Alaska,1394,53228.16
+Emma Hansen,female,45,22 November 2013,South Carolina,1254.8,39579.34
+Sergio Robinson,male,57,08 July 2012,California,1197.9,39428.38
+Glenda Owens,female,40,23 August 2010,South Carolina,1230.1,31167.65
+Leo Arnold,male,38,26 September 2003,Texas,1131.7,49151.18
+June Fields,female,35,29 April 2004,Colorado,1446.9,52595.11
+Alex Brooks,male,57,13 June 2008,Connecticut,1155.5,55232.38
+Sherry Price,female,37,29 March 2005,Montana,1420.4,50272.82
+Morris Hughes,male,67,22 August 2015,Iowa,1277.5,48164.5
+Nelson Knight,male,30,20 April 2014,Missouri,1347.4,50265.37
+Joshua Williams,male,72,25 December 2015,Connecticut,895.1,53303.12
+Carl Simmons,male,37,13 July 2010,Vermont,1113.2,58876.62
+Zachary Garrett,male,28,06 March 2009,Minnesota,1103,47465.82
+Carrie Nelson,female,66,29 July 2013,California,1184,55121.79
+Shannon Hale,female,52,31 October 2015,West Virginia,1224.7,51205.76
+Curtis Lucas,male,55,29 February 2004,Nevada,1061.8,64922.19
+Ross Martin,male,64,11 January 2010,Mississippi,1054.4,52857.92
+Amber Fleming,female,47,12 April 2008,New Hampshire,1154.9,45414.8
+Guy George,male,51,04 March 2009,North Dakota,1266.5,50993.26
+Edward Dunn,male,66,14 December 2009,New Hampshire,1115.1,54468.19
+Jo West,female,48,21 October 2005,Georgia,1181.2,45504.78
+Tanya Baker,female,45,09 October 2007,Ohio,1236,52513.04
+Rene Lambert,male,29,06 February 2003,Florida,779.7,61753.71
+Darlene Morris,female,63,16 January 2012,Louisiana,1211.2,57091.43
+Timothy Moore,male,53,27 February 2008,Washington,1122.2,47667.33
+Misty Johnston,female,62,30 April 2003,Idaho,1196.1,43254.94
+Eva Johnson,female,63,05 February 2006,Illinois,1341.2,50908.11
+Tracy Russell,male,71,11 December 2014,Georgia,1275.1,32985.36
+Derrick Wright,male,28,08 August 2014,Iowa,1078.6,57362.31
+Sharon Gray,female,41,18 September 2008,Illinois,1364.4,54533.47
+Byron Welch,male,38,13 December 2013,Oregon,1340.1,53107.2
+Maxine Castillo,female,51,02 December 2005,West Virginia,1396.9,53211.91
+Kim Welch,female,69,20 January 2013,Delaware,1235.8,42527.53
+Tracy Rice,female,62,26 December 2006,Illinois,1417,35381.89
+Tiffany Davidson,female,32,03 December 2007,Kansas,1173.1,42147.51
+Suzanne Dunn,female,69,24 February 2011,Wyoming,1031.3,49011.04
+Claude Montgomery,male,74,14 April 2005,Missouri,1175.9,50757.85
+Alfred Jensen,male,73,31 July 2012,Nevada,1186.4,70168.34
+Annie Montgomery,female,39,20 October 2003,Connecticut,1310.1,40829.51
+Amanda Wells,female,71,27 April 2004,Iowa,1398.1,44991.03
+Stanley Hamilton,male,56,06 June 2009,New Hampshire,1121.1,62469.05
+Willie Graham,male,49,19 November 2005,Nebraska,1293.6,56029.79
+Marie Horton,female,66,18 October 2005,Mississippi,1073.6,52397.37
+Ruby George,female,25,02 July 2015,Louisiana,1125,47324.82
+Kevin Henderson,male,35,01 May 2006,New Jersey,1248.4,48206.79
+Ruth Wood,female,37,20 January 2014,Indiana,1299,48838.15
+Roberta Stone,female,70,09 September 2012,Massachusetts,1024,56679.06
+Karen Mckinney,female,33,14 August 2007,Ohio,1169,40682.72
+Kent Stephens,male,47,28 December 2006,Oklahoma,1458,63072.21
+Florence Rodriquez,female,74,10 September 2009,Wyoming,1200.8,45279.77
+Jaime Mendoza,male,64,24 June 2003,Wyoming,1044.1,49580.94
+Roy Crawford,male,44,16 January 2003,Washington,1152.7,57791.5
+Leona Nichols,female,75,11 February 2005,Tennessee,1384.6,47118.72
+Virginia Jenkins,female,24,15 August 2014,California,1170.7,44768.25
+Franklin Olson,male,28,31 October 2012,Tennessee,916.6,47587.83
+Samantha Williamson,female,49,05 March 2009,Alabama,1321.7,38570
+Minnie Barrett,female,54,17 March 2010,Virginia,1532,46254.77
+Martin Kim,male,26,14 December 2007,New Mexico,1282.1,54790.07
+Ramon Bennett,male,57,18 April 2011,Nebraska,1268.5,43135.94
+Alvin Lewis,male,21,12 September 2014,Maryland,1060.2,51494.64
+Marion Bryant,male,24,25 April 2006,Wyoming,909.4,53618.28
+Christy Reyes,female,44,30 May 2009,New Hampshire,1406.5,45244.89
+Tina Clark,female,55,20 December 2004,New Jersey,1271.4,48948.28
+Tracey Neal,female,54,01 February 2004,New Jersey,969.5,47589.17
+Jeanette Taylor,female,52,01 July 2015,Virginia,984.3,32368.28
+Brent Patterson,male,31,28 June 2007,Illinois,1291.8,51335.7
+Kelly Powell,female,24,27 August 2013,Ohio,1368,52484.69
+Mathew Powell,male,39,01 February 2004,Wisconsin,1006.8,54631.87
+John Barnett,male,53,10 May 2007,New Mexico,1094.2,63278.86
+Jesse Chambers,male,54,14 August 2003,Maine,1181.1,48744.82
+Yvonne Thompson,female,72,02 January 2004,Florida,1228.8,66324.44
+Marcia Kennedy,female,32,18 December 2004,Georgia,1460.4,48720.02
+Ricky Young,male,57,30 July 2014,Indiana,1176,31631.64
+Vicki Barnett,female,36,17 January 2009,Wyoming,1270.1,44255.68
+Christina Gonzales,female,24,19 September 2015,Kentucky,1222,50793.71
+Juanita Mendoza,female,51,28 February 2012,South Carolina,1272.2,53875.96
+Betty Mason,female,48,16 August 2003,Maine,1039.3,49852.1
+Christine Holland,female,32,24 April 2010,Tennessee,1188.9,50361.89
+Kathy Flores,female,54,17 May 2014,Washington,1414.7,34589.3
+Dwight Thomas,male,27,15 September 2015,Arkansas,1006.8,65411.44
+Claudia Reid,female,71,09 June 2009,Vermont,1147.3,51524.09
+Diane Arnold,female,53,18 January 2004,Illinois,1198,51675.57
+Jacob Anderson,male,74,08 November 2008,Minnesota,1059,57021.71
+Jill Lucas,female,29,11 August 2006,Idaho,1471.7,40822.37
+Alicia Wade,female,56,20 April 2004,Nebraska,1285.1,36954.45
+Lauren Bradley,female,59,20 July 2011,Florida,1392,28416.02
+Theresa Hicks,female,49,15 January 2014,Iowa,1399,35415.16
+Mary Gardner,female,51,01 November 2005,Kentucky,1327.2,44540.64
+Donna Jimenez,female,58,20 June 2010,Oklahoma,1272.9,48198.94
+Adam Bell,male,40,11 August 2006,Minnesota,1130.5,46153.34
+Rose Campbell,female,68,14 August 2003,Wyoming,1461.3,43954.32
+Miriam Berry,female,61,04 October 2011,Wisconsin,1209.5,52831.2
+Holly Graves,female,57,10 January 2004,Virginia,1120.1,46067.03
+Cynthia Willis,female,74,22 November 2006,Illinois,1026.5,52864.52
+Maria Holt,female,28,02 April 2013,Indiana,1412.6,53059.64
+Glenn Jones,male,59,10 October 2005,Maryland,1050.1,43969.81
+Oscar Vargas,male,38,02 December 2003,New York,1131.1,51297.78
+Gina Andrews,female,74,19 June 2014,Indiana,1439.7,48495.85
+Peggy Hart,female,67,20 September 2012,Arizona,1213.5,45792.54
+Crystal Tucker,female,69,14 August 2009,Kansas,1185.4,48518.93
+Glen Taylor,male,72,16 August 2003,Delaware,1140.3,65358.12
+Gordon Grant,male,55,04 October 2011,Indiana,1182.3,43476.14
+Margaret Martinez,female,60,22 August 2015,Arizona,1450.9,66411.82
+Clarence Fox,male,74,20 September 2012,Kansas,1103.3,38730.92
+Deborah Walters,female,58,16 January 2011,New Mexico,923,48277.32
+Manuel Thompson,male,62,22 January 2012,New Hampshire,1077,39534.33
+Gary Dean,male,41,09 September 2006,South Dakota,1076.5,46749.02
+Warren Fisher,male,48,07 March 2004,Louisiana,1285.2,31862.26
+Gwendolyn Black,female,46,18 March 2005,Tennessee,1087.4,53335.21
+Keith Hunt,male,60,26 September 2004,Connecticut,1201.3,39182.32
+Willie Vasquez,female,51,18 July 2007,Indiana,1058.7,43659.05
+Jeanne Dixon,female,30,22 August 2007,New York,1190.6,46652.99
+Denise Boyd,female,47,10 May 2010,New Mexico,1322.6,45069.31
+Seth Reynolds,male,47,14 December 2013,Vermont,1161.2,47258.78
+Rick Perkins,male,72,17 April 2006,Kentucky,920,54946.6
+Jerome Pearson,male,45,11 February 2005,Nevada,1190.7,48870.29
+Darren Fowler,male,34,14 August 2009,Nebraska,939.3,62379.39
+Derek Holt,male,51,20 January 2013,Arizona,1063.2,41170.81
+Andrea Martin,female,65,01 December 2009,Oregon,1317.1,48941.92
+Marcus Wade,male,70,27 November 2005,Alabama,1171.1,53207
+Nicholas Garza,male,64,09 September 2012,Washington,1128.2,56595.53
+Louis Meyer,male,27,20 April 2004,Louisiana,982.6,60183.48
+Kurt Ruiz,male,40,11 February 2012,Tennessee,963.5,34123.67
+Gerald Gomez,male,26,07 May 2015,North Carolina,1006.5,38485.72
+Janet Perez,female,70,23 January 2010,Hawaii,1372.6,56691.55
+Erin Richardson,female,70,12 December 2011,North Dakota,1432.2,39368.08
+Sandra Rogers,female,70,29 April 2005,Arizona,1121,35065.42
+Wallace Rose,male,25,30 April 2013,South Dakota,1193.8,46347.4
+Albert Freeman,male,66,17 October 2015,Alaska,1118.2,45357.77
+Lorraine Roberts,female,27,13 June 2008,New Jersey,1064.2,51075.18
+Natalie Kim,female,70,04 December 2013,North Carolina,1230.2,45218.57
+Jessie Medina,male,75,25 August 2005,Nevada,1180.4,39833.31
+Lee Hart,male,47,05 November 2007,Nebraska,1235,36366.98
+Julio Gibson,male,56,25 September 2004,Vermont,1148.6,68498.92
+Stella King,female,25,29 May 2010,Arkansas,1063.2,54690.31
+Rachel Jackson,female,49,12 December 2010,Colorado,1169.4,40431.05
+Daniel Gardner,male,57,16 May 2009,Alaska,1291,54866.65
+Ronald Fletcher,male,45,29 July 2013,Minnesota,982.6,43535.04
+Douglas Howell,male,29,19 October 2004,Hawaii,1299.3,49521.17
+Gladys Lowe,female,52,02 November 2010,Wisconsin,1167.8,52940.31
+Clara Morgan,female,55,04 April 2004,Hawaii,1259.8,51375.54
+Nathaniel Butler,male,45,17 May 2014,Minnesota,1206,49556.41
+Eileen Diaz,female,36,21 December 2003,Wyoming,1203.9,54169.65
+Randall Frazier,male,46,02 December 2008,Pennsylvania,1346.8,53253.82
+Benjamin Caldwell,male,60,31 August 2004,North Dakota,1064.1,42896.41
+Shelly Hoffman,female,67,10 June 2009,Washington,1317.8,69538.68
+Hazel Ray,female,66,12 September 2014,New Jersey,1150.1,47140.73
+Jimmy Collins,male,50,08 May 2010,Mississippi,1261.8,59879.91
+Marc Burke,male,62,28 February 2008,Michigan,1311.7,52795.06
+Kirk Mcdonald,male,42,18 September 2008,Missouri,1132.8,60740.36
+Sally Dean,female,47,25 September 2004,Wyoming,1049.1,56993.84
+Ramona Walker,female,28,28 February 2008,Alaska,1025.8,50897.18
+Naomi Stevens,female,64,07 March 2004,Indiana,1264.5,50660.94
+Ricardo Henry,male,27,16 December 2012,Idaho,1380.2,53648.62
+Mae Miller,female,34,11 December 2014,Michigan,1288.1,49546.85
+Lewis White,male,66,07 August 2008,Georgia,1224.2,39484.84
+Lawrence Gordon,male,25,19 May 2006,North Carolina,1049.1,55607.31
+Eleanor Hudson,female,66,31 July 2012,Vermont,1423.5,49085.83
+Chris Sullivan,male,74,14 January 2008,Iowa,1354.4,43132.63
+Brad Terry,male,23,27 July 2003,Wisconsin,1424.6,58182.5
+Daryl Armstrong,male,35,26 November 2014,North Dakota,1107,35328.27
+Pamela Ford,female,60,06 August 2005,Tennessee,1081.1,60366.7
+April Oliver,female,21,28 December 2006,Rhode Island,1287.9,57385.53
+Larry Davis,male,51,19 August 2008,Arkansas,1254.2,37148.3
+Laura Gomez,female,37,10 April 2003,New Mexico,1480.2,42171.26
+Corey Turner,male,60,22 July 2010,Georgia,1311,44674.42
+Isaac Williamson,male,52,02 July 2010,Ohio,1118.5,42078.29
+Marlene Rodriguez,female,45,24 March 2013,Nevada,1406.8,41027.37
+Tamara Brewer,female,55,15 April 2008,Arizona,1305.8,57894.85
+Fernando Carr,male,34,09 March 2007,New York,1235.5,57394.83
+Terrance Marshall,male,26,20 June 2014,Vermont,1195.3,57389.48
+Enrique Austin,male,54,22 August 2007,Nebraska,889.2,52020.17
+Lucy Brown,female,40,06 February 2003,Texas,1217.9,37941.59
+Bradley Stanley,male,30,26 July 2006,Utah,1251.2,46475.49
+Felix Sanchez,male,69,30 January 2008,New York,1283.4,47816.51
+Ted Murray,male,70,15 January 2014,Florida,1126.3,52359.28
+William O'brien,male,73,22 April 2013,Wisconsin,1149.5,51708.87
+Juan Weaver,male,72,02 October 2012,South Carolina,1056.6,64021.05
+Peter Little,male,47,12 May 2008,Arizona,1198.1,47164.88
+Chester Richardson,male,51,12 February 2006,Alaska,1159.1,58256.07
+Antonio Sanders,male,74,10 January 2004,Michigan,860.2,40417.92
+Earl Wilson,male,25,29 April 2005,Oregon,1182.9,46340.92
+Janice Cunningham,female,38,23 December 2015,Mississippi,1214.5,41426.05
+Joel Gutierrez,male,31,29 May 2010,Pennsylvania,1360.9,55867.19
+Rosa Chapman,female,48,18 April 2011,Michigan,1309.7,30808.49
+Mattie Ross,female,33,17 April 2006,Indiana,1152.6,40695.65
+David Griffin,male,73,23 June 2013,Virginia,1284.1,66630.25
+Arlene Alexander,female,72,19 May 2006,New Jersey,947.8,51682.35
+Ralph Washington,male,64,18 August 2009,Florida,1299.8,58548.51
+Edna Newman,female,42,15 May 2014,Florida,1242.8,47644.96
+Donald Fernandez,male,29,23 October 2013,Oregon,1093.2,75103.42
+Jared Larson,male,56,06 August 2005,Alabama,1082.9,57828.74
+Gail Griffin,female,24,17 August 2003,Florida,1275.6,40345.1
+Cody Hudson,male,36,22 August 2009,Pennsylvania,1244.6,56764
+Clyde Ford,male,58,20 May 2011,Oklahoma,1111.2,54067.76
+Jenny Shaw,female,71,23 January 2003,Iowa,1091.6,42758.03
+Brandy Pierce,female,34,15 February 2015,Nebraska,1283.7,57592.39
+Allan Boyd,male,63,10 September 2009,Iowa,1172.3,42880.49
+Freddie Carroll,male,66,16 January 2011,Oklahoma,1156.5,50885.73
+Everett Hoffman,male,62,22 November 2013,West Virginia,1172.8,59777.72
+Jennie Daniels,female,31,09 February 2004,Kentucky,1206.3,50793.27
+Joe Morris,male,62,07 August 2006,Oregon,1228.4,50127.21
+Ian Newman,male,27,20 July 2015,Arizona,1222.7,43313.48
+Kenneth Stone,male,59,08 September 2013,Rhode Island,993.6,45338.33
+Robin Burns,female,39,29 February 2004,New York,1308.2,50376.63
+Susan Meyer,female,62,25 December 2015,Missouri,1265,46293.74
+Regina Parker,female,50,14 May 2008,Connecticut,1226.8,46411.64
+Carol Lane,female,35,27 December 2011,Wyoming,1036.1,53800.25
+Clifton Lynch,male,53,16 July 2014,Georgia,1398.8,52412.75
+Doris Reynolds,female,54,04 October 2010,Georgia,1262.4,40508.86
+Julian Fleming,male,29,14 February 2005,Alabama,950.5,60299.14
+Mabel Porter,female,56,14 December 2009,Wisconsin,1228.6,51046.01
+Leslie Gilbert,male,21,08 December 2014,Colorado,1077.7,51355.47
+Dan Hunter,male,42,09 February 2004,Nevada,1052.6,57097.35
+Walter Bowman,male,32,31 October 2015,Illinois,1207.7,36758.16
+Brenda Thomas,female,39,01 November 2012,Colorado,1397,42874.95
+Hugh Banks,male,58,31 July 2008,North Dakota,1019.8,50233.69
+Marsha Cox,female,72,06 December 2004,Washington,1079.2,45510.93
+Katherine Carr,female,40,11 January 2010,Florida,1314.1,44871.98
+Maureen Hanson,female,40,02 May 2003,Maryland,1034.2,51908.4
+Carmen Perry,female,61,01 August 2004,South Dakota,1397.6,46869.02
+Dolores Franklin,female,53,30 May 2009,Delaware,1552.9,47840.55
+Christian Oliver,male,70,03 April 2005,Maine,892.1,54627.3
+Randy Diaz,male,57,02 January 2004,Alaska,1269.4,31803.75
+Erika Burton,female,63,25 March 2008,California,1336.7,30287.15
+Lori Fuller,female,33,21 December 2007,Massachusetts,1177.7,39263.44
+Leroy Franklin,male,43,02 January 2013,Minnesota,1008.4,41633.77
+Kimberly Gregory,female,68,06 June 2009,Michigan,1291.4,47894.77
+Theodore Nichols,male,61,28 February 2012,Vermont,1303.8,53737.56
+Carla Ellis,female,39,01 January 2011,Arkansas,1171.1,56983.37
+Tonya Ruiz,female,37,09 March 2007,Wisconsin,1413.4,47447.61
+Perry Ferguson,male,29,16 January 2012,Oklahoma,1225.7,37763.35
+Rosemary Mills,female,69,24 June 2015,Pennsylvania,1056.2,53338.47
+Howard Jennings,male,62,19 April 2014,Massachusetts,1068.2,50507.33
+Ida Nguyen,female,39,08 April 2007,Maine,976.8,50822.38
+Willard Bishop,male,26,18 March 2005,Nevada,1253.2,53793.14
+Francis Reed,male,68,04 October 2010,Delaware,977.7,60499.64
+Colleen Ramos,female,60,27 February 2008,South Carolina,1346.4,32090.37
+Floyd Payne,male,52,11 October 2013,Arizona,1058.7,49438.91
+Nellie Ramirez,female,36,01 July 2006,Alabama,873,33411.17
+Andrew West,male,70,14 August 2007,Maryland,935.6,43461.72
+Paul Silva,male,44,16 June 2010,Oregon,1230.6,58106.74
+Linda Lawrence,female,23,12 June 2011,Florida,1064,50420.53
+Eric Ward,male,56,18 April 2006,Vermont,1122.5,64179.02
+Ron Graves,male,48,15 February 2015,Arkansas,1132,59894.73
+Audrey Miles,female,53,12 November 2010,Connecticut,1143.5,46343.3
+Sarah Hill,female,38,25 December 2010,Colorado,1262.3,40038.2
+Rafael Peterson,male,62,21 December 2007,New Jersey,1178.4,56105.76
+Hector Reid,male,74,16 November 2015,Texas,1099,53353.34
+Calvin Andrews,male,47,20 January 2014,Michigan,1096.2,47518.82
+Delores Lopez,female,31,10 January 2014,Indiana,1258.2,54654.46
+Bessie Hernandez,female,62,19 July 2003,Minnesota,1039.4,58101.75
+Ella Hunter,female,46,15 June 2004,New Hampshire,1333.8,42021.84
+Melvin Adams,male,49,15 June 2004,Maine,1074,58923.72
+Paula Williams,female,70,06 March 2009,South Dakota,1305.3,61229.17
+Jean Robertson,female,43,31 August 2004,Vermont,1083.9,55746.5
+Emily Jordan,female,23,08 September 2013,Vermont,1308.1,47560.29
+Jimmie Allen,male,64,17 January 2012,New Jersey,1190.2,51897.17
+Darryl Cunningham,male,50,02 October 2003,Kentucky,991.1,35713.49
+Bobbie Garcia,female,40,31 August 2015,Arizona,1285.9,52641.86
+Tom Carter,male,28,30 April 2003,Hawaii,1123.3,60116.6
+Alexander Hale,male,61,14 April 2012,Ohio,1215.2,54189.74
+Fred Palmer,male,23,17 March 2010,Oregon,922.6,66612.05
+Harvey Gregory,male,26,17 March 2009,New York,983.8,56183.21
+Victor Watts,male,52,20 December 2004,Oregon,1124.1,47552.71
+Sonia Rhodes,female,57,02 November 2015,Alabama,1059,31012.4
+Vernon Cole,male,63,01 August 2003,Arkansas,1151.6,44418.08
+Ivan Ryan,male,72,24 June 2015,Wyoming,1105.1,49162.51
+Caroline Howard,female,66,25 May 2015,Nevada,1286.4,39940.26
+Wayne Cooper,male,47,26 June 2007,Texas,1251.6,38925.36
+Terrence Greene,male,39,29 November 2014,Connecticut,1365,67141.55
+Don Evans,male,52,15 April 2008,Montana,1102,47050.65
+Nicole Romero,female,48,21 September 2006,Alabama,1323.4,42312.94
+Bobby Barnes,male,47,01 December 2009,Washington,977.3,57607.35
+Bernice Hughes,female,52,30 June 2013,Wyoming,1240.2,57908.85
+Judy Webb,female,22,08 November 2008,Louisiana,1599.4,63049.09
+Wendy Silva,female,22,10 June 2010,New Jersey,1047.1,51051.85
+Wade Herrera,male,58,24 February 2011,Pennsylvania,1124.2,62634.41
+Lillian Lewis,female,44,02 December 2013,Pennsylvania,1229.4,58589.14
+Geraldine Douglas,female,36,16 March 2009,North Carolina,1300.5,51034.7
+Darrell Flores,male,63,29 November 2007,South Carolina,1031.8,55531.03
+Harold Miles,male,75,11 June 2003,South Dakota,1346.2,45731.31
+Billie Kelley,female,45,04 March 2009,New Mexico,1398.8,44069.6
+Jeffrey Brown,male,46,27 March 2004,Nevada,1036.4,24735.24
+Rebecca Gutierrez,female,61,28 February 2004,North Carolina,1258,39462.64
+Dianne Young,female,25,27 July 2003,Alaska,1308.5,38765
+Irma Watkins,female,25,20 July 2015,Maryland,1317.1,41238.7
+Bonnie Snyder,female,70,24 June 2011,New Jersey,1152.1,43731.48
+Javier Simpson,male,60,17 January 2011,Maine,1035.8,42784.42
+Sheila Perkins,female,62,14 April 2005,Arkansas,1132.7,49936.04
+Marion Turner,female,35,09 September 2006,Alabama,1174,42479.53
+Julia Washington,female,30,06 July 2011,Illinois,1212.4,51034.05
+Georgia Graham,female,63,02 December 2003,Arizona,1127.6,58671.34
+Thomas Cox,male,63,10 June 2009,Indiana,1402.7,47522.16
+Daisy Murray,female,73,30 March 2014,Kansas,1166.7,56608.56
+Steven Reyes,male,67,29 March 2005,Utah,1151.2,30474.61
+Harry Ellis,male,39,21 October 2005,Iowa,1060.1,57867.5
+Charlie Coleman,male,52,07 September 2012,Arkansas,1126.4,51388.21
+Lester Chavez,male,62,18 November 2008,Michigan,1088.9,48758.18
+Viola Henderson,female,75,18 March 2005,Connecticut,1285.9,40389.49
+Lance Harper,male,31,01 March 2007,Oklahoma,1025.8,58201.45
+Jack Holland,male,45,30 May 2015,North Dakota,1213.7,49493.1
+Constance Jones,female,31,02 April 2003,Texas,1384.2,57312.92
+Brian Kelly,male,28,28 December 2007,Oregon,1357.9,50873.6
+Eduardo James,male,57,12 June 2010,Minnesota,1172,56081.5
+Patrick King,male,27,26 February 2014,Mississippi,1014.3,55109.53
+Louise Butler,female,72,14 September 2013,Wyoming,1247.8,53260.55
+Billy Roberts,male,33,02 November 2015,Florida,1117.1,42505.35
+Renee Anderson,female,74,17 January 2011,Arizona,1105,46494.34
+Cory Black,male,43,27 December 2011,Nevada,1084.7,50668.52
+Marjorie James,female,49,02 May 2007,Virginia,1127.6,40187.7
+Elsie Long,female,38,13 July 2008,Nebraska,1422.7,45783.27
+Maurice Hill,male,28,21 March 2010,New Mexico,1159.2,45072.12
+Yolanda Elliott,female,34,10 July 2007,Massachusetts,1258.9,45214.11
+Leslie Mitchell,female,22,08 September 2015,Rhode Island,1205.7,52651.12
+Sara Murphy,female,47,16 May 2009,Pennsylvania,1213.3,45939.85
+Milton Spencer,male,54,22 August 2010,Michigan,1349.4,49255.45
+Raymond Brewer,male,24,12 April 2004,Alabama,1037.6,43082.02
+Todd Webb,male,62,10 July 2007,Oklahoma,1087,64983.3
+Tim Mccoy,male,29,11 August 2004,Connecticut,1367.1,59464.4
+Nancy Hunt,female,71,06 July 2011,Illinois,1335.9,55024.15
+Jon Jacobs,male,75,23 January 2003,Virginia,1031.6,55999.64
+Beverly Day,female,37,26 September 2004,Louisiana,1283.2,36779.3
+Ana Robinson,female,69,28 December 2007,Delaware,1300,53135.97
+Cheryl Cruz,female,69,01 May 2005,Ohio,1172.1,35117.37
+Joanne Ferguson,female,59,15 September 2015,North Carolina,1297.1,46103.97
+Micheal Wallace,male,26,18 March 2005,West Virginia,1215.1,53202.03
+Evelyn Craig,female,69,13 April 2014,California,1479.5,56012.12
+Judith Caldwell,female,33,17 February 2011,Indiana,1286.8,41803.73
+Ben Bailey,male,66,22 December 2005,New Hampshire,1307.6,43956.08
+Ellen Byrd,female,58,27 March 2004,Rhode Island,1398,57573.21
+Duane Jimenez,male,39,02 May 2011,Colorado,1038.4,49078.96
+Edwin Rogers,male,60,19 July 2003,Virginia,1153.8,46180.74
+Arnold Long,male,26,04 December 2013,Maryland,1096,51070.79
+Samuel Baker,male,21,24 April 2010,Ohio,1119.1,36977.14
+Beatrice Soto,female,26,19 October 2012,Minnesota,1204.9,46732.74
+Tara Cooper,female,69,25 March 2013,Arizona,1179.1,57066.65
+Frederick Miller,male,60,21 September 2006,Maryland,1207.4,57317.99
+Gabriel Byrd,male,45,12 February 2003,Iowa,1143.4,43860.98
+Miguel Torres,male,55,28 May 2010,Florida,1073.2,62114.61
+Sam Woods,male,46,17 December 2012,Alaska,1148.6,47679.94
+Ryan Mitchell,male,68,12 December 2011,Massachusetts,1199.9,49816.99
+Casey Wagner,male,61,28 March 2011,Kentucky,1095.7,31922.64
+Joann Jacobs,female,72,07 September 2012,Indiana,1202.3,56889.7
+Pearl Shelton,female,69,06 October 2003,Alaska,1287.5,47022.09
+Vickie Larson,female,30,18 April 2011,Maine,1085.6,62460.54
+Teresa Russell,female,65,22 April 2013,Florida,1323,65536.43
+Myrtle Garza,female,30,02 December 2008,Florida,1185.2,53806.6
+Lydia Hayes,female,31,13 July 2015,Montana,1482.9,48644.53
+Justin Shaw,male,44,29 April 2004,Missouri,1081.4,52119.77
+Vincent Holmes,male,49,01 May 2005,Kentucky,1218.8,59450.69
+Michele Harper,female,26,30 July 2014,Nebraska,1256.3,45091.45
+Steve Moreno,male,57,15 August 2014,Montana,1017.7,40192.57
+Barbara Smith,female,51,31 December 2010,Rhode Island,1169.8,50860.3
+Amy Fisher,female,46,27 November 2005,Kentucky,1246.7,42352.7
+Carolyn Spencer,female,22,02 May 2011,Alabama,1290.4,45104.34
+Julie Carter,female,55,19 September 2013,Utah,1093.4,50415.72
+Claire Armstrong,female,40,16 November 2015,Connecticut,1358.6,40643.29
+Charlene Coleman,female,58,01 March 2007,Massachusetts,1256,53165.65
+Clinton Sutton,male,68,06 September 2008,Kentucky,1282.2,45544.53
+Jay Robertson,male,70,12 April 2008,California,1126.1,52463.44
+Jerry Morales,male,51,30 June 2013,Rhode Island,1153.3,62021.23
+Ann Stewart,female,62,17 December 2012,Indiana,1301.4,43531.2
+Cathy Woods,female,21,23 June 2013,Vermont,1119.4,47241.37
+Herbert Hayes,male,60,12 December 2010,Florida,1134.7,60550.93
+Nora Evans,female,44,31 May 2014,Wisconsin,952.9,47909.95
+Cindy Patterson,female,52,19 April 2014,Minnesota,1178.5,48476.76
+Roger Johnson,male,55,17 April 2007,Oklahoma,1183.1,46573.01
+Josephine O'brien,female,60,20 June 2014,South Dakota,1151.4,47026.59
+Ken Fields,male,41,23 March 2010,New York,1258.1,38378.14
+Deanna Beck,female,66,20 April 2014,Washington,1444.6,39477.23
+Veronica Palmer,female,66,22 April 2005,Georgia,1413.3,51223.65
+Joy Peters,female,37,15 June 2003,Tennessee,1484.2,44993.33
+Allison Burke,female,64,11 June 2003,Oklahoma,1360.6,45145.69
+Joseph Morrison,male,22,13 July 2008,Louisiana,1271,49336.84
+Reginald Cook,male,26,27 November 2014,New Mexico,1179.4,47193.75
+Jordan Barrett,male,23,13 March 2014,Wyoming,1201.8,48753.9
+Dana Sutton,female,32,19 September 2012,Wisconsin,1351,46506.66
+Sidney Lopez,male,49,17 February 2011,Washington,1174.8,41110.26
+Ray Perry,male,48,13 July 2015,New York,1103.9,48035.68
+Jesus Harris,male,49,04 June 2005,Michigan,1124,48420.2
+Anne Cole,female,43,21 June 2014,Washington,1282.7,43336.32
+Andre Richards,male,66,18 December 2004,Nevada,1151.4,54389.69
+Virgil Gonzalez,male,43,02 April 2003,Oregon,1049.9,63162.93
+Priscilla Little,female,53,11 February 2012,Rhode Island,1087.4,37456.44
+Michelle Wallace,female,24,28 March 2011,West Virginia,1285.9,33097.62
+Andy Burton,male,26,10 January 2014,Montana,1166.5,64547.57
+Vanessa Pena,female,65,10 June 2009,Tennessee,1324.1,48313.47
+Jim Scott,male,49,24 June 2011,Kentucky,972.5,56733.02
+Tommy Castro,male,58,10 June 2009,Pennsylvania,1120.5,60498.46
+Herman Harrison,male,74,23 August 2010,Minnesota,1079.1,46299.82
+Terry Lee,female,30,23 October 2006,South Carolina,1258.6,50759.13
+Lena Bishop,female,50,28 June 2007,Washington,1376.8,45283.39
+Helen Simpson,female,68,29 November 2007,Connecticut,1260.3,50462.41
+Hilda Sanders,female,32,02 October 2003,New Jersey,1176.4,55575.58
+Mario Warren,male,52,04 February 2014,North Carolina,1114.2,51428.96
+Elmer Hansen,male,36,01 August 2004,Arizona,1099.6,65889.85
+Travis Fuller,male,37,04 January 2006,New York,1049,53992.5
+Robert Shelton,male,40,07 June 2004,Nebraska,1108.2,44607.57
+Vera Curtis,female,42,22 August 2009,Iowa,1086.4,54870.71
+Heather Wilson,female,37,13 March 2014,South Carolina,1227.6,56587.64
+Jason Elliott,male,73,21 October 2010,West Virginia,948.7,44286.94
+Angel Garcia,male,69,29 August 2013,Florida,1145.7,51827.07
+Dawn Vargas,female,67,10 October 2014,Arizona,1252.7,49357.79
+Phillip Phillips,male,41,10 June 2010,Massachusetts,1279.5,43519.67
+Laurie Cook,female,24,22 August 2010,Arizona,1258.1,50192.09
+Mark Ross,male,74,01 November 2012,Iowa,1032.6,53366.22
+Brett Pierce,male,66,10 April 2003,Oklahoma,1075.1,45407.2
+Mike Campbell,male,59,05 February 2006,California,1160.6,55842.33
+Erik Lawson,male,32,02 December 2005,New York,1138.6,51115.24
+Courtney May,female,46,12 September 2007,Vermont,1356.6,55880.41
+Catherine Torres,female,52,06 September 2015,Virginia,1171,51719.7
+Loretta Ward,female,41,11 October 2013,Utah,1381.2,33671.65
+Bruce Bates,male,23,24 December 2014,Colorado,1182.7,59993.05
+Frank Curtis,male,48,19 September 2013,New Hampshire,1209.8,61995.26
+Becky Hamilton,female,50,20 May 2011,Georgia,978.6,48503.99
+Ruben Snyder,male,48,26 December 2006,North Dakota,1182.8,51365.35
+Marilyn Scott,female,35,16 June 2010,Colorado,1077.1,47558.21
+Gertrude Banks,female,59,19 November 2005,Hawaii,1103,36946.29
+Tony Gonzales,male,40,13 April 2014,Hawaii,1336.1,45834.31
+Norma Hawkins,female,27,12 April 2004,North Carolina,1284.2,50565.12
+Leah Bailey,female,74,05 July 2005,Georgia,1029.3,49219.9
+Victoria Bell,female,35,14 December 2013,New Hampshire,1223.2,50768.58
+Kelly Ramos,male,32,22 April 2005,Wisconsin,1072.4,60609.69
+Jeremy Romero,male,67,06 September 2015,Maine,1083.9,53813.57
+Felicia Collins,female,25,31 March 2011,Kansas,1451.7,49332.83
+Clayton Watson,male,52,08 April 2007,California,1188.9,58894.83
+Elizabeth Mcdonald,female,38,01 May 2006,Montana,1298.4,52453.61
+Cecil Alvarez,male,56,23 December 2015,Tennessee,1086.6,53380.11
+Lloyd Daniels,male,46,02 July 2015,Maine,1179.4,48963.01
+Clifford Hanson,male,38,31 March 2011,North Dakota,1137.6,52794.99
+Violet Sims,female,68,12 June 2010,Nebraska,1390.1,49666.65
+Allen May,male,45,04 July 2008,Kansas,1080.7,32789.18
+Margie Green,female,56,17 October 2015,Mississippi,1293.3,53411
+Angela Gilbert,female,30,26 June 2007,Colorado,1149.1,48246.98
+Karl Beck,male,47,01 November 2005,California,941.1,50874.74
+Martha Morrison,female,51,17 January 2012,Rhode Island,1334,42560.46
+Beth Foster,female,49,18 August 2009,Hawaii,1453.4,36424.25
+Katrina Bryant,female,46,03 June 2014,Oregon,1211.2,43134.39
+Jeff Ray,male,48,31 August 2015,Tennessee,1432.8,45156.67
+Bertha Rivera,female,67,25 April 2006,Kentucky,1356.3,54171.34
+Chad Hall,male,61,13 November 2012,Illinois,1048.3,60343.6
+Ethel Knight,female,34,14 April 2012,Iowa,1180.7,54010.7
+James Alexander,male,58,20 June 2010,Texas,1169.4,35027.28
+Anita Payne,female,32,30 January 2008,Utah,1337.6,41651.16
+Dean Johnston,male,34,02 November 2010,Colorado,1227.9,48867.89
+Sue Simmons,female,75,13 December 2013,Montana,1129.5,45098.81
+Alice Matthews,female,55,08 July 2012,Kansas,1504.3,42671.78
+Dwayne Nguyen,male,36,12 November 2010,Rhode Island,1111.1,45747.14
+Frances Medina,female,50,15 May 2010,Virginia,1453.1,54129.03
+Dustin Hicks,male,26,02 May 2007,Utah,1045.5,46484.48

@@ -1,0 +1,118 @@
+---
+title: "BIOL 471 Lecture 4"
+author: "Kirt Onthank"
+date: "04/02/2019"
+output: pdf_document
+---
+#What does the 'print' function do?
+```{r}
+print(23)
+```
+
+# Basic loop function
+```{r}
+for (i in 10:20){
+  print(i)
+}
+```
+
+
+# Does not need to be sequential sequence. Can be arbitrary
+```{r}
+for (i in c(-3,10,1001,3,45,0.6)){
+  print(i)
+}
+```
+
+
+# Doesn't even need to be numbers
+## You can also fill vectors before you call the loop
+```{r}
+thing=c("people","brown dog","fritos","tank","purple","thirty-six")
+
+for (i in thing){
+  print(i)
+}
+```
+
+# What the 'rnorm' function does
+```{r}
+rnorm(10,mean=20,sd=7)
+```
+
+# Using i in a series of functions
+```{r}
+for (i in 20:40){
+  x=rnorm(100,mean=i,sd=7)
+  y=mean(x)
+  z=sd(x)
+  print(paste(i,y,z))
+}
+```
+
+# Initialize a vector to store your output
+```{r}
+rmean=numeric()
+rsd=numeric()
+
+for (i in 1:20){
+  x=rnorm(100,mean=i,sd=7)
+  rmean[i]=mean(x)
+  rsd[i]=sd(x)
+}
+rsd
+```
+
+# Another way to specify position in the 
+```{r}
+rmean=numeric()
+rsd=numeric()
+iter=1
+
+for (i in c(-100,100,67,10000,0.5,10)){
+  x=rnorm(100,mean=i,sd=7)
+  rmean[iter]=mean(x)
+  rsd[iter]=sd(x)
+  iter=iter+1
+}
+rmean
+rsd
+```
+
+
+# Be careful of how much time something takes
+```{r}
+time=numeric()
+for(i in 1:8){
+   start=Sys.time()
+   x=rnorm(10^i,mean=100,sd=15)
+   mean(x)
+   time[i]=(Sys.time()-start)
+}
+plot(1:8,time)
+```
+
+# What does the 'sample' function do?
+```{r}
+sample(thing,1)
+```
+
+# Simulating 10 dice rolls
+```{r}
+dice=numeric()
+for(i in 1:10){
+dice[i]=sample(1:6,1)+sample(1:6,1)
+print(dice)
+}
+
+```
+
+# Just how fast is this function?
+```{r}
+start=Sys.time()
+for(i in 1:50000){
+dice[i]=sample(1:6,1)+sample(1:6,1)
+}
+Sys.time()-start
+```
+
